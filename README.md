@@ -18,7 +18,7 @@ Stills show the **tool or result** (author photos, or frames we extracted into [
 | [II · Lab desks](#wing-ii--lab-desks) | GUIs a lab already owns | 05–10 · 26 |
 | [III · Horizon & caution](#wing-iii--horizon--caution) | Long runs / don’t wire live submit | 11–14 |
 | [IV · Outrageous](#wing-iv--outrageous) | Nested sims, cyber, city, Canva, Path | 15–24 |
-| [V · Reality check](#wing-v--reality-check) | 也就那回事 — harness, edits, FP, citations | 27–46 |
+| [V · Reality check](#wing-v--reality-check) | 也就那回事 — harness, edits, FP, citations | 27–51 |
 | [Side rooms](#side-rooms) | Catalog files & open call | — |
 
 ---
@@ -502,6 +502,52 @@ Best published **41.4%** — real gain over Sol, still fails most delegated desk
 **OpenAI vs Meta / AA** · [Vellum](https://www.vellum.ai/blog/gpt-6-astra-benchmarks-explained) · [note](cases/failures.md)
 
 DeepSWE / FrontierCode / AA Coding Index don’t crown one king. “Best for software engineering” is a sentence, not a consensus.
+
+---
+
+### Room 47 · Internal data science 40.9%
+
+**OpenAI** · [launch](https://openai.com/index/gpt-6-astra/) · [note](cases/failures.md)
+
+End-to-end data-science tasks **40.9%**. Under half — don’t hand off the notebook.
+
+---
+
+### Room 48 · Omniscience · still ~51% halluc on misses
+
+<a href="https://artificialanalysis.ai/articles/benchmarking-gpt-6-astra"><img src="media/omniscience-half.jpg" alt="Omniscience" width="100%"></a>
+
+**Artificial Analysis** · [article](https://artificialanalysis.ai/articles/benchmarking-gpt-6-astra) · [note](cases/failures.md)
+
+92% → **51%** hallucination at max. Better than Sol; still invents half the time it answers wrong. Not Room 29’s Index.
+
+---
+
+### Room 49 · 272K context trapdoor
+
+<a href="https://www.cloudzero.com/blog/gpt-6-pricing/"><img src="media/context-272k.jpg" alt="272K" width="100%"></a>
+
+**CloudZero / OpenAI pricing** · [CloudZero](https://www.cloudzero.com/blog/gpt-6-pricing/) · [note](cases/failures.md)
+
+1M window marketed; **>272K input reprices the whole request**. Paper dumps and agent loops fall through.
+
+---
+
+### Room 50 · OSWorld · ~1-in-4 still fails
+
+<a href="https://miraflow.ai/blog/osworld-2-explained-computer-use-agent-benchmark-2026"><img src="media/osworld-cu.jpg" alt="OSWorld" width="100%"></a>
+
+**OpenAI** · [launch](https://openai.com/index/gpt-6-astra/) · [note](cases/failures.md)
+
+CU **72.6%** offline partial — better and faster than Sol, still misses task ~1 of 4.
+
+---
+
+### Room 51 · Agents’ Last Exam 59.3%
+
+**OpenAI** · [launch](https://openai.com/index/gpt-6-astra/) · [note](cases/failures.md)
+
+Complex professional software tasks: SOTA **59.3%**, loses ~4/10.
 
 ---
 ### Also in this mood

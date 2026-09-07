@@ -225,3 +225,54 @@ Room 25 is a **success with a ceiling**: default protocol Astra solved **2/68**.
 - **What it is:** Muse Spark 1.3 reported ahead on DeepSWE (~75.4% vs Astra ~74.1%); some FrontierCode splits go to Fable 5; AA Coding Agent Index effectively a three-way tie (~67).
 - **Why here:** Coding hype sentence vs mixed public/vendor rows.
 - **Evidence boundary:** Overlapping error bars and harness differences; treat as contested ranking, not a wipeout.
+
+## Internal Data Science Tasks 40.9%
+
+- **Author:** OpenAI (Professional table)
+- **Original:** https://openai.com/index/gpt-6-astra/
+- **Date:** 2026-09-03
+- **What it is:** Internal end-to-end data-science tasks: Astra **40.9%** (Sol **30.5%**). Under half — assistance ≠ delegation for notebook-shaped analysis.
+- **Why here:** Closest vendor number to “analyze incomplete scientific tables / plots for me.”
+- **Evidence boundary:** Private internal set; methodology thinner than GeneBench writeup.
+
+## AA-Omniscience · still hallucinates ~half of answered misses
+
+<a href="https://artificialanalysis.ai/articles/benchmarking-gpt-6-astra"><img src="../media/omniscience-half.jpg" alt="AA Omniscience" width="100%"></a>
+
+- **Author:** Artificial Analysis
+- **Original:** https://artificialanalysis.ai/articles/benchmarking-gpt-6-astra
+- **Date:** 2026-09-03
+- **What it is:** Hallucination rate **92% → 51%** at max effort (accuracy +4 pts). Halved vs Sol — still invents on about half of answered misses. Distinct from Room 29’s Intelligence Index / SciCode / GDPval.
+- **Why here:** Literature / methods-section fact recall for scientists.
+- **Evidence boundary:** Bench-specific (misses), not production ChatGPT error rate; max-effort.
+
+## 272K context trapdoor
+
+<a href="https://www.cloudzero.com/blog/gpt-6-pricing/"><img src="../media/context-272k.jpg" alt="272K pricing" width="100%"></a>
+
+- **Author:** CloudZero · OpenAI API model docs · [The Decoded](https://thedecoded.media/astra-context-window-repricing-explained/)
+- **Original:** https://www.cloudzero.com/blog/gpt-6-pricing/ · https://developers.openai.com/api/docs/models/gpt-6-astra
+- **Date:** launch week 2026-09
+- **What it is:** Marketed **~1M** window; **>272K input reprices the entire request** (2× in/cache, 1.5× out). CloudZero: ~280K in + 20K out ≈ **$7.10** vs ~**$3.72** at 272K.
+- **Why here:** Paper corpora, multi-omics dumps, agent loops that hoard context — exactly the science jobs sold.
+- **Evidence boundary:** Rate card is hard fact; dollar examples are arithmetic on published rates.
+
+## OSWorld 2.0 · still ~1-in-4 CU fails
+
+<a href="https://miraflow.ai/blog/osworld-2-explained-computer-use-agent-benchmark-2026"><img src="../media/osworld-cu.jpg" alt="OSWorld" width="100%"></a>
+
+- **Author:** OpenAI · analysis [Miraflow](https://miraflow.ai/blog/osworld-2-explained-computer-use-agent-benchmark-2026)
+- **Original:** https://openai.com/index/gpt-6-astra/ (OSWorld 2.0 offline partial **72.6%**)
+- **Date:** 2026-09-03
+- **What it is:** Best published CU score still misses ~**1/4** long-horizon desktop tasks. Faster than Sol (≈40 vs 75 min) — not “anything on a computer.”
+- **Why here:** Distinct from Robocurve fine-insertion (Room 42); broad desktop research/admin CU.
+- **Evidence boundary:** Offline partial / harnessed; not unattended lab submit.
+
+## Agents’ Last Exam 59.3%
+
+- **Author:** OpenAI Computer Use / professional table
+- **Original:** https://openai.com/index/gpt-6-astra/
+- **Date:** 2026-09-03
+- **What it is:** Complex professional tasks in real software: Astra **59.3%** (Sol 53.6%, Opus 5 55.5%). SOTA in OpenAI’s comparison — still loses ~4/10.
+- **Why here:** Same desk shape as instrument GUIs / analysis suites.
+- **Evidence boundary:** Vendor max-effort; harness-sensitive.
