@@ -2,6 +2,10 @@
 
 Public GPT-6 Astra cases that are **clearly genomics / bioinfo / wet-lab** are still scarce in the first week after launch. This file is a wanted list, not a claim that the demos already exist.
 
+## Filled (official)
+
+- OpenAI launch demo navigates **MultiQC** sequencing QC + Bcftools variant charts — see [official-science.md](official-science.md).
+
 ## Wanted shapes
 
 1. **Public FASTQ/VCF toy run** driven through a real GUI or terminal session with a time log.

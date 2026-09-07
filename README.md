@@ -17,88 +17,82 @@ Preview stills are chosen to show **the tool or result**, not a random video pos
 
 ## Featured
 
-### 01. GoFly · KiCad drone flight-controller PCB
+### 01. Official · MultiQC sequencing QC *(science)*
 
-<a href="https://x.com/GoGoFly23/status/2096145124950708512"><img src="media/gofly-pcb.jpg" alt="GoFly KiCad PCB editor beside Astra" width="100%"></a>
+<a href="https://openai.com/index/gpt-6-astra/"><img src="media/openai-multiqc.jpg" alt="MultiQC sequencing QC" width="100%"></a>
+
+[OpenAI](https://openai.com/index/gpt-6-astra/) · 2026-09-03 · [details](cases/official-science.md)
+
+Astra drives a local **MultiQC** report (FastQC / Samtools / Bcftools) to inspect sequencing quality and variant summaries. Best public genomics still so far.
+
+<a href="https://openai.com/index/gpt-6-astra/"><img src="media/openai-bcftools.jpg" alt="Bcftools substitutions" width="100%"></a>
+
+### 02. Official · FreeCAD transmission *(lab CAD)*
+
+<a href="https://openai.com/index/gpt-6-astra/"><img src="media/openai-freecad.jpg" alt="FreeCAD five-speed transmission" width="100%"></a>
+
+[OpenAI](https://openai.com/index/gpt-6-astra/) · 2026-09-03 · [details](cases/official-science.md)
+
+FreeCAD UI with a cutaway five-speed transmission from a written brief — clear engineering desktop tool use.
+
+### 03. GoFly · KiCad drone PCB
+
+<a href="https://x.com/GoGoFly23/status/2096145124950708512"><img src="media/gofly-pcb.jpg" alt="GoFly KiCad" width="100%"></a>
 
 [GoFly](https://x.com/GoGoFly23) · 2026-09-05 · [original](https://x.com/GoGoFly23/status/2096145124950708512)
 
-Clear KiCad PCB editor + Astra session. Author still wants an engineer for EMI / thermal / fab. Best first-week **lab/EDA GUI** still.
+Independent user KiCad session. Still needs EMI / thermal / fab review.
 
-### 02. ChihYang · KiCad layout ↔ 3D board
+### 04. ChihYang · KiCad layout ↔ 3D board
 
-<a href="https://x.com/ChihYang04/status/2095637507337826741"><img src="media/chihyang-pcb.jpg" alt="KiCad layout and 3D PCB" width="100%"></a>
+<a href="https://x.com/ChihYang04/status/2095637507337826741"><img src="media/chihyang-pcb.jpg" alt="KiCad PCB" width="100%"></a>
 
 [@ChihYang04](https://x.com/ChihYang04) · 2026-09-03 · [original](https://x.com/ChihYang04/status/2095637507337826741)
 
-Frame from the author’s video (not the auto video poster). 2D layout next to populated 3D board.
+### 05. Robot arm 40% → 95% vs Fable 5.1
 
-### 03. Robot arm 40% → 95% vs Fable 5.1
-
-<a href="https://x.com/chooi_jeq/status/2096064315115839904"><img src="https://pbs.twimg.com/media/HRa3vJWaEAAQSRT.jpg" alt="Robot arm success vs fail chart" width="100%"></a>
+<a href="https://x.com/chooi_jeq/status/2096064315115839904"><img src="https://pbs.twimg.com/media/HRa3vJWaEAAQSRT.jpg" alt="Robot arm" width="100%"></a>
 
 [Jay Chooi](https://x.com/chooi_jeq) · 2026-09-05 · [original](https://x.com/chooi_jeq/status/2096064315115839904)
 
-Cost/success plot + grasp frames. Hard metrics; lab-robot transfer.
+### 06. Agentic CAD · Onshape turbofan
 
-### 04. Agentic CAD · Onshape turbofan
-
-<a href="https://x.com/adamdotnew/status/2096053889141489669"><img src="https://pbs.twimg.com/amplify_video_thumb/2096053830857474048/img/FxRQ9VBwd6bCmsP9.jpg" alt="Onshape CAD with agent sidebar" width="100%"></a>
+<a href="https://x.com/adamdotnew/status/2096053889141489669"><img src="https://pbs.twimg.com/amplify_video_thumb/2096053830857474048/img/FxRQ9VBwd6bCmsP9.jpg" alt="Onshape CAD" width="100%"></a>
 
 [@adamdotnew](https://x.com/adamdotnew) · 2026-09-05 · [original](https://x.com/adamdotnew/status/2096053889141489669)
 
-Real CAD viewport + agent checklist — same shape as driving analysis GUIs with verify steps.
+### 07. Connected Gmail emailed Bugatti *(cautionary)*
 
-### 05. Connected Gmail emailed Bugatti *(cautionary)*
-
-<a href="https://x.com/skel/status/2096113092736540685"><img src="https://pbs.twimg.com/media/HRbjvpibcAAS0hC.jpg" alt="Email draft sent by connected Astra" width="100%"></a>
+<a href="https://x.com/skel/status/2096113092736540685"><img src="https://pbs.twimg.com/media/HRbjvpibcAAS0hC.jpg" alt="Bugatti email" width="100%"></a>
 
 [SKEL](https://x.com/skel) · 2026-09-05 · [original](https://x.com/skel/status/2096113092736540685)
 
-Shows the outbound mail UI, not a car beauty shot. Same failure mode as live cluster submit.
+### 08. FireRed vision-only benchmark (18h12m)
 
-### 06. FireRed vision-only benchmark (18h12m)
-
-<a href="https://x.com/Clad3815/status/2095596013168050551"><img src="https://pbs.twimg.com/media/HRT4RchaUAAp_lJ.png" alt="FireRed active-time benchmark chart" width="100%"></a>
+<a href="https://x.com/Clad3815/status/2095596013168050551"><img src="https://pbs.twimg.com/media/HRT4RchaUAAp_lJ.png" alt="FireRed chart" width="100%"></a>
 
 [Clad3815](https://x.com/Clad3815) · 2026-09-03 · [original](https://x.com/Clad3815/status/2095596013168050551)
 
-Author chart of active time to champion across models. Kept for **long-horizon computer-use** shape, not as a biology result.
+Long-horizon computer-use shape — not a biology result.
 
-### 07. Apple Notes · stroke-by-stroke portrait
+### 09. Apple Notes · stroke-by-stroke portrait
 
-<a href="https://x.com/viticci/status/2096025249582039180"><img src="media/notes-drawing.jpg" alt="Notes app mid-drawing with markup tools" width="100%"></a>
+<a href="https://x.com/viticci/status/2096025249582039180"><img src="media/notes-drawing.jpg" alt="Notes drawing" width="100%"></a>
 
 [Federico Viticci](https://x.com/viticci) · 2026-09-04 · [original](https://x.com/viticci/status/2096025249582039180)
 
-Frame from the author’s video showing Notes + markup tools + in-progress drawing (replaces the blank-canvas auto poster).
+### 10. 10-minute Blender donut
 
-### 08. 10-minute Blender donut
-
-<a href="https://x.com/op7418/status/2096065904828416286"><img src="https://pbs.twimg.com/media/HRa4oT1bIAA6F1h.jpg" alt="Blender donut render and UI" width="100%"></a>
+<a href="https://x.com/op7418/status/2096065904828416286"><img src="https://pbs.twimg.com/media/HRa4oT1bIAA6F1h.jpg" alt="Blender donut" width="100%"></a>
 
 [歸藏](https://x.com/op7418) · 2026-09-05 · [original](https://x.com/op7418/status/2096065904828416286)
 
-Render + Blender UI in one still — readable tooling.
+### Text-only / demoted
 
-### Official OpenAI KiCad / UE5 *(link only)*
-
-[OpenAI launch post](https://openai.com/index/gpt-6-astra/) · [X](https://x.com/OpenAI/status/2095595741528125780) · 2026-09-03
-
-The auto tweet poster is a dark cinematic frame, **not** a KiCad UI. For a clear board still, use featured **01–02** above; keep the official post as the company demo citation.
-
-### Text-only (no usable still)
-
-- **First-principles codebase interrogation** — [George Pickett](https://x.com/georgepickett/status/2095979879137460640)
-- **Nine workday agent prompts** — [Greg Isenberg](https://x.com/gregisenberg/status/2095854071580156338)
-- **Build-verify loop** — [dotey](https://x.com/dotey/status/2096051842174087386) (video poster is an empty prompt UI)
-
-### Ceiling classics (games / worlds — demoted)
-
-Useful for calibrating one-shot interactive builds; not leading this science gallery.
-
-- Afterlight — [Anshu](https://x.com/anshuc/status/2096008083826725132)
-- Early long thread — [Matthew Berman](https://x.com/MatthewBerman/status/2095595892464333065)
+- First-principles prompt — [George Pickett](https://x.com/georgepickett/status/2095979879137460640)
+- Workday prompts — [Greg Isenberg](https://x.com/gregisenberg/status/2095854071580156338)
+- Build-verify — [dotey](https://x.com/dotey/status/2096051842174087386)
+- Ceiling games — [Afterlight](https://x.com/anshuc/status/2096008083826725132), [Matthew Berman](https://x.com/MatthewBerman/status/2095595892464333065)
 
 ## Catalog
 
