@@ -1,0 +1,44 @@
+name: New case
+description: Suggest a science / bioinfo / lab Astra case
+title: "[case] "
+labels: ["case"]
+body:
+  - type: input
+    id: url
+    attributes:
+      label: Original URL
+      placeholder: https://x.com/... or https://...
+    validations:
+      required: true
+  - type: input
+    id: author
+    attributes:
+      label: Author credit
+    validations:
+      required: true
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category
+      options:
+        - lab-tooling
+        - computer-use
+        - research-workflow
+        - cautionary
+        - classic
+        - bioinfo
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: Why a scientist / bioinformatician should care
+    validations:
+      required: true
+  - type: textarea
+    id: boundary
+    attributes:
+      label: Evidence boundary
+      description: Author-reported / official demo / you reproduced it?
+    validations:
+      required: true
