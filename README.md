@@ -115,6 +115,9 @@ Long-horizon computer-use shape — not a biology result.
 
 | File | Role |
 |------|------|
+| [cases/official-science.md](cases/official-science.md) | Official MultiQC + FreeCAD demos |
+| [cases/math-research.md](cases/math-research.md) | Lean proofs + prime gaps |
+| [cases/biology-teaching.md](cases/biology-teaching.md) | T-cell lecture / sci-comm |
 | [cases/classics.md](cases/classics.md) | Science-relevant classics |
 | [cases/lab-tooling.md](cases/lab-tooling.md) | KiCad / EDA / wanted lab GUIs |
 | [cases/computer-use.md](cases/computer-use.md) | Long-horizon and official CU |
