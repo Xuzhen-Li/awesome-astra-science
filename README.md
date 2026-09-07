@@ -35,7 +35,24 @@ Astra drives a local **MultiQC** report (FastQC / Samtools / Bcftools) to inspec
 
 FreeCAD UI with a cutaway five-speed transmission from a written brief — clear engineering desktop tool use.
 
-### 03. GoFly · KiCad drone PCB
+### 03. Ten Lean-certified math / TCS advances
+
+<a href="https://openai.com/index/ten-advances-in-mathematics/"><img src="media/openai-ten-math.jpg" alt="Ten advances in mathematics" width="100%"></a>
+
+[OpenAI](https://openai.com/index/ten-advances-in-mathematics/) · [Bubeck](https://x.com/SebastienBubeck/status/2083456300692979886) · [ten-proofs](https://github.com/openai/ten-proofs) · [details](cases/math-research.md)
+
+Machine-checkable research package — strongest public “Astra did science” artifact beyond GUI demos.
+
+### 04. T-cell immunology lecture (one-shot)
+
+<a href="https://x.com/DeryaTR_/status/2095659170661904804"><img src="media/derya-tcell.jpg" alt="Immune team cell panel" width="100%"></a>
+
+[Derya Unutmaz](https://x.com/DeryaTR_/status/2095659170661904804) · [details](cases/biology-teaching.md)
+
+Expert-endorsed biology teaching video; still shows labeled CD4 / CD8 / DC / B cell panel.
+
+### 05. GoFly · KiCad drone PCB
+
 
 <a href="https://x.com/GoGoFly23/status/2096145124950708512"><img src="media/gofly-pcb.jpg" alt="GoFly KiCad" width="100%"></a>
 
@@ -43,31 +60,31 @@ FreeCAD UI with a cutaway five-speed transmission from a written brief — clear
 
 Independent user KiCad session. Still needs EMI / thermal / fab review.
 
-### 04. ChihYang · KiCad layout ↔ 3D board
+### 06. ChihYang · KiCad layout ↔ 3D board
 
 <a href="https://x.com/ChihYang04/status/2095637507337826741"><img src="media/chihyang-pcb.jpg" alt="KiCad PCB" width="100%"></a>
 
 [@ChihYang04](https://x.com/ChihYang04) · 2026-09-03 · [original](https://x.com/ChihYang04/status/2095637507337826741)
 
-### 05. Robot arm 40% → 95% vs Fable 5.1
+### 07. Robot arm 40% → 95% vs Fable 5.1
 
 <a href="https://x.com/chooi_jeq/status/2096064315115839904"><img src="https://pbs.twimg.com/media/HRa3vJWaEAAQSRT.jpg" alt="Robot arm" width="100%"></a>
 
 [Jay Chooi](https://x.com/chooi_jeq) · 2026-09-05 · [original](https://x.com/chooi_jeq/status/2096064315115839904)
 
-### 06. Agentic CAD · Onshape turbofan
+### 08. Agentic CAD · Onshape turbofan
 
 <a href="https://x.com/adamdotnew/status/2096053889141489669"><img src="https://pbs.twimg.com/amplify_video_thumb/2096053830857474048/img/FxRQ9VBwd6bCmsP9.jpg" alt="Onshape CAD" width="100%"></a>
 
 [@adamdotnew](https://x.com/adamdotnew) · 2026-09-05 · [original](https://x.com/adamdotnew/status/2096053889141489669)
 
-### 07. Connected Gmail emailed Bugatti *(cautionary)*
+### 09. Connected Gmail emailed Bugatti *(cautionary)*
 
 <a href="https://x.com/skel/status/2096113092736540685"><img src="https://pbs.twimg.com/media/HRbjvpibcAAS0hC.jpg" alt="Bugatti email" width="100%"></a>
 
 [SKEL](https://x.com/skel) · 2026-09-05 · [original](https://x.com/skel/status/2096113092736540685)
 
-### 08. FireRed vision-only benchmark (18h12m)
+### 10. FireRed vision-only benchmark (18h12m)
 
 <a href="https://x.com/Clad3815/status/2095596013168050551"><img src="https://pbs.twimg.com/media/HRT4RchaUAAp_lJ.png" alt="FireRed chart" width="100%"></a>
 
@@ -75,13 +92,13 @@ Independent user KiCad session. Still needs EMI / thermal / fab review.
 
 Long-horizon computer-use shape — not a biology result.
 
-### 09. Apple Notes · stroke-by-stroke portrait
+### 11. Apple Notes · stroke-by-stroke portrait
 
 <a href="https://x.com/viticci/status/2096025249582039180"><img src="media/notes-drawing.jpg" alt="Notes drawing" width="100%"></a>
 
 [Federico Viticci](https://x.com/viticci) · 2026-09-04 · [original](https://x.com/viticci/status/2096025249582039180)
 
-### 10. 10-minute Blender donut
+### 12. 10-minute Blender donut
 
 <a href="https://x.com/op7418/status/2096065904828416286"><img src="https://pbs.twimg.com/media/HRa4oT1bIAA6F1h.jpg" alt="Blender donut" width="100%"></a>
 

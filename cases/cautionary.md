@@ -21,3 +21,12 @@ Connected tools without a human gate. Required reading before wiring Astra to ma
 - Prefer dry-run / draft folders over live submit.
 - Never paste unpublished genotypes, patient IDs, or private coordinates into a connected session.
 - Log every external send the agent attempts.
+
+### “Research taste” failure — pretty papers, boring hypotheses
+
+- **Author:** Ethan Mollick ([@emollick](https://bsky.app/profile/emollick.bsky.social))
+- **Original:** https://bsky.app/profile/emollick.bsky.social/post/3munzysgt4s2i
+- **Date:** 2026-09-04
+- **What it is:** Asked Astra for original research with online data and pre-registered hypotheses; output looked polished but lacked research taste.
+- **Why here:** Cautionary for agentic lit/hypothesis loops — format ≠ insight.
+- **Evidence boundary:** Author anecdote; no still.

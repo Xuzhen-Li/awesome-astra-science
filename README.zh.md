@@ -4,26 +4,30 @@
 
 [English](README.md) · 中文对照
 
-科研 / 生信 / 实验室工程向的 Astra 精选。**预览图优先能看清工具界面。**
+科研 / 生信 / 实验室工程向 Astra 精选。完整图文见英文首页。
 
-完整图文以 [English README](README.md) 为准。
+## 本轮全网新增
 
-## 本轮新补（官网）
-
-### 01. MultiQC 测序质控
+### MultiQC 测序质控（官网）
 
 <img src="media/openai-multiqc.jpg" alt="MultiQC" width="100%">
 
-[OpenAI 发布页](https://openai.com/index/gpt-6-astra/) · 官方演示帧：本地 MultiQC（FastQC / Samtools / Bcftools）
-
-<img src="media/openai-bcftools.jpg" alt="Bcftools" width="100%">
-
-### 02. FreeCAD 变速箱
+### FreeCAD（官网）
 
 <img src="media/openai-freecad.jpg" alt="FreeCAD" width="100%">
 
-[OpenAI](https://openai.com/index/gpt-6-astra/) · 官方 FreeCAD 界面截图
+### Ten Lean 数学 / TCS 证明
 
-其余用户侧 KiCad / 机械臂 / CAD / 警示邮件等见英文首页。社区纯生信帖仍少；官网这条是目前最硬的基因组 GUI 证据。
+<img src="media/openai-ten-math.jpg" alt="Ten advances" width="100%">
+
+[发布页](https://openai.com/index/ten-advances-in-mathematics/) · [ten-proofs](https://github.com/openai/ten-proofs)
+
+### T 细胞免疫课（Derya）
+
+<img src="media/derya-tcell.jpg" alt="T cells" width="100%">
+
+[原帖](https://x.com/DeryaTR_/status/2095659170661904804)
+
+社区可署名的 **纯生信 GUI**（IGV / Scanpy / 公共 FASTQ）仍几乎没有；征集见 `cases/bioinfo-wanted.md`。
 
 维护：[Xuzhen Li](https://github.com/Xuzhen-Li)

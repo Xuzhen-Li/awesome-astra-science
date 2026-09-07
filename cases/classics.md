@@ -146,3 +146,14 @@ High-signal Astra demos first widely catalogued in [helloianneo/awesome-gpt6-ast
 - **Also listed in:** [awesome-gpt6-astra](https://github.com/helloianneo/awesome-gpt6-astra) prompts
 - Workday-shaped agent prompt set (catalog notes method, not a full dump).
 - **Why here:** Template for structuring a research day agent without giving it live submit rights.
+
+### Cinema 4D shaver (not only Blender)
+
+<a href="https://x.com/mojon1/status/2096189580752081024"><img src="../media/cinema4d-shaver.jpg" alt="Cinema 4D UI with shaver model" width="100%"></a>
+
+- **Author:** モジョン ([@mojon1](https://x.com/mojon1))
+- **Original:** https://x.com/mojon1/status/2096189580752081024
+- **Date:** 2026-09-05
+- **Also listed in:** [awesome-gpt6-astra](https://github.com/helloianneo/awesome-gpt6-astra)
+- Photo still of Cinema 4D with a structured object tree — multi-DCC GUI driving.
+- **Why here:** Same muscle as niche lab viz apps beyond Blender.
