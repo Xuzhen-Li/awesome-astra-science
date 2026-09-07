@@ -67,6 +67,13 @@ Why you do not wire live mail / cluster submit on day one.
 
 Calibration map for multi-day agent iteration.
 
+
+### 9. More KiCad / CAD echoes
+
+[ChihYang04](https://x.com/ChihYang04/status/2095637507337826741) · [adamdotnew](https://x.com/adamdotnew/status/2096053889141489669) · [dotey build-verify](https://x.com/dotey/status/2096051842174087386)
+
+Independent PCB/CAD and verify-loop cases from the first-week wave.
+
 ## Catalog
 
 | File | Role |

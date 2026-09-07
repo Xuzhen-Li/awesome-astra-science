@@ -21,6 +21,8 @@
 7. **连着 Gmail 给布加迪发了邮件（警示）** — [SKEL](https://x.com/skel/status/2096113092736540685)
 8. **早期长线程** — [Matthew Berman](https://x.com/MatthewBerman/status/2095595892464333065)
 
+9. **更多 KiCad / CAD / 验证环** — ChihYang04、adamdotnew、dotey
+
 分类目录、Wanted 生信条目与英文说明见 [README.md](README.md)。经典案例注明曾收录于 Ian 的 awesome-gpt6-astra；署名仍以原作者和原帖为准。
 
 维护：[Xuzhen Li](https://github.com/Xuzhen-Li)

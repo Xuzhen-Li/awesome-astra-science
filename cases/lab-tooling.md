@@ -18,6 +18,15 @@ Desktop apps a scientist or engineer actually opens. Prefer KiCad / CAD / analys
 
 See [classics.md](classics.md) — independent KiCad echo with explicit “still needs an engineer” boundary.
 
+
+### ChihYang04 KiCad routing (user)
+
+See [classics.md](classics.md).
+
+### Agentic CAD
+
+See [classics.md](classics.md).
+
 ## Wanted (open slots)
 
 - RStudio / Positron: QC plot loop on a public RNA-seq toy table

@@ -75,3 +75,40 @@ High-signal Astra demos first widely catalogued in [helloianneo/awesome-gpt6-ast
 - **Also listed in:** [awesome-gpt6-astra](https://github.com/helloianneo/awesome-gpt6-astra) featured #01
 - Concept art to ~60 fps one-shot prototype (author-reported).
 - **Why here:** Classic ceiling case for one-shot interactive builds; keep for calibration, not as a biology result.
+
+
+### KiCad PCB routing (user)
+
+- **Author:** [@ChihYang04](https://x.com/ChihYang04)
+- **Original:** https://x.com/ChihYang04/status/2095637507337826741
+- **Date:** 2026-09-03
+- **Also listed in:** [awesome-gpt6-astra](https://github.com/helloianneo/awesome-gpt6-astra) computer-use / engineering
+- Another independent KiCad routing demo shortly after launch.
+- **Why here:** Reinforces that PCB GUI control is reproducible across users, not only the launch video.
+
+### Agentic CAD
+
+- **Author:** [@adamdotnew](https://x.com/adamdotnew)
+- **Original:** https://x.com/adamdotnew/status/2096053889141489669
+- **Date:** 2026-09-05
+- **Also listed in:** [awesome-gpt6-astra](https://github.com/helloianneo/awesome-gpt6-astra)
+- CAD driven as an agent loop rather than one-shot chat advice.
+- **Why here:** Same pattern as driving lab CAD / instrument software with verify steps.
+
+### Build-verify loop
+
+- **Author:** 宝玉 ([@dotey](https://x.com/dotey))
+- **Original:** https://x.com/dotey/status/2096051842174087386
+- **Date:** 2026-09-05
+- **Also listed in:** [awesome-gpt6-astra](https://github.com/helloianneo/awesome-gpt6-astra)
+- Emphasizes build then verify, not vibe-complete.
+- **Why here:** Portable checklist for analysis pipelines and figure repair (run → check → fix).
+
+### Nine workday agent prompts
+
+- **Author:** Greg Isenberg ([@gregisenberg](https://x.com/gregisenberg))
+- **Original:** https://x.com/gregisenberg/status/2095854071580156338
+- **Date:** 2026-09-04
+- **Also listed in:** [awesome-gpt6-astra](https://github.com/helloianneo/awesome-gpt6-astra) prompts
+- Workday-shaped agent prompt set (catalog notes method, not a full dump).
+- **Why here:** Template for structuring a research day agent without giving it live submit rights.

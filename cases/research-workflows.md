@@ -17,6 +17,11 @@ Prompts and loops that change how you interrogate code, papers, or assumptions �
 
 See [classics.md](classics.md) — multi-day iteration map.
 
+
+### Nine workday agent prompts
+
+See [classics.md](classics.md).
+
 ## Wanted
 
 - Paper → methods checklist → public-data dry run (one theory / one folder style)
