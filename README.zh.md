@@ -31,6 +31,12 @@
 
 <img src="media/openai-bcftools.jpg" alt="Bcftools" width="100%">
 
+### 细胞追踪（附于室 01）
+
+<img src="media/jupyter-cell-tracking.jpg" alt="cell tracking" width="100%">
+
+官方 Jupyter 显微追踪，与 MultiQC 不同页签。
+
 ### 室 02 · Ten Lean 数学 / TCS
 
 <img src="media/openai-ten-math.jpg" alt="Ten advances" width="100%">
@@ -55,16 +61,6 @@
 
 Bloom 精选 68 道未解 Erdős；默认协议 Astra 仅 **3%**（2/68），额外尝试共 5 题。详见 [cases/math-research.md](cases/math-research.md)。
 
-### 细胞追踪（附于室 01）
-
-<img src="media/jupyter-cell-tracking.jpg" alt="cell tracking" width="100%">
-
-官方 Jupyter 显微追踪，与 MultiQC 不同页签。
-
-### 室 26 · 蒸汽机车 → 3295 个可编辑物体
-
-<img src="media/blender-steam-train.jpg" alt="Blender train" width="100%">
-
 ## 二厅 · 实验台
 
 ### 室 05–06 · KiCad
@@ -78,6 +74,10 @@ Bloom 精选 68 道未解 Erdős；默认协议 Astra 仅 **3%**（2/68），额
 见 [英文游廊](README.md#wing-ii--lab-desks)
 
 ### 室 10 · Notes + Blender
+
+### 室 26 · 蒸汽机车 → 3295 个可编辑物体
+
+<img src="media/blender-steam-train.jpg" alt="Blender train" width="100%">
 
 <img src="media/notes-drawing.jpg" alt="Notes" width="100%">
 
