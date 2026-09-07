@@ -17,7 +17,7 @@
 | [一厅 · 证明与基因组](#一厅--证明与基因组) | 什么算科学 | 01–04 |
 | [二厅 · 实验台](#二厅--实验台) | 实验室已有的 GUI | 05–10 |
 | [三厅 · 长程与警示](#三厅--长程与警示) | 连跑 / 别接活账号 | 11–14 |
-| [四厅 · 离谱](#四厅--离谱) | 嵌套模拟 / 评测攻击 / Dyson | 15–19 |
+| [四厅 · 离谱](#四厅--离谱) | 嵌套模拟 / 评测攻击 / Dyson | 15–24 |
 
 ---
 
@@ -96,6 +96,12 @@
 <img src="media/solace-hero.jpg" alt="Solace" width="100%">
 
 <img src="media/helios-dyson.jpg" alt="HELIOS" width="100%">
+
+### 室 20–24 · Unity 城 / 齿轮动画 / Canva / Path / YouTube 流水线
+
+<img src="media/unity-city.jpg" alt="Unity" width="100%">
+
+<img src="media/canva-portrait.jpg" alt="Canva" width="100%">
 
 详见 [英文四厅](README.md#wing-iv--outrageous) 与 [cases/outrageous.md](cases/outrageous.md)。
 

@@ -17,7 +17,7 @@ Stills show the **tool or result** (author photos, or frames we extracted into [
 | [I · Proof & genome](#wing-i--proof--genome) | What counts as science | 01–04 |
 | [II · Lab desks](#wing-ii--lab-desks) | GUIs a lab already owns | 05–10 |
 | [III · Horizon & caution](#wing-iii--horizon--caution) | Long runs / don’t wire live submit | 11–14 |
-| [IV · Outrageous](#wing-iv--outrageous) | Nested sims, cyber evals, Dyson cinema | 15–19 |
+| [IV · Outrageous](#wing-iv--outrageous) | Nested sims, cyber, city, Canva, Path | 15–24 |
 | [Side rooms](#side-rooms) | Catalog files & open call | — |
 
 ---
@@ -222,6 +222,55 @@ Walkable house, working espresso sequence. Spatial viz pipeline.
 <a href="https://developers.openai.com/blog/architectural-visualization-with-astra"><img src="media/helios-dyson.jpg" alt="HELIOS Dyson" width="100%"></a>
 
 Same Developers showcase — astrophysics-adjacent cinema + visual self-critique.
+
+---
+
+
+### Room 20 · Unity city walkthrough
+
+<a href="https://openai.com/index/gpt-6-astra/"><img src="media/unity-city.jpg" alt="Unity city" width="100%"></a>
+
+**OpenAI** · [launch](https://openai.com/index/gpt-6-astra/) · [note](cases/outrageous.md)
+
+Street-level Unity scene — official spatial-sim still.
+
+---
+
+### Room 21 · FreeCAD gears in motion
+
+<a href="https://openai.com/index/gpt-6-astra/"><img src="media/freecad-motion.jpg" alt="Transmission motion" width="100%"></a>
+
+**OpenAI** · companion to Room 04 — animated cutaway (“Gear 1”).
+
+---
+
+### Room 22 · Canva portrait (computer use)
+
+<a href="https://x.com/iam_zachi/status/2095992132620136677"><img src="media/canva-portrait.jpg" alt="Canva portrait" width="100%"></a>
+
+**iam_zachi** · [post](https://x.com/iam_zachi/status/2095992132620136677)
+
+Draw-tool likeness with the browser-control banner still on screen.
+
+---
+
+### Room 23 · Path to Astra · Critical cyber
+
+<a href="https://openai.com/index/path-to-astra/"><img src="media/path-to-astra.jpg" alt="Path to Astra" width="100%"></a>
+
+**OpenAI** · [Path](https://openai.com/index/path-to-astra/) · [system card](https://deploymentsafety.openai.com/gpt-6-astra)
+
+Preparedness Critical designation — ceiling, not a how-to.
+
+---
+
+### Room 24 · One prompt → YouTube
+
+<a href="https://www.mindstudio.ai/blog/gpt-6-astra-video-editing-agent"><img src="media/nate-youtube.jpg" alt="YouTube pipeline" width="100%"></a>
+
+**Nate Herk / MindStudio** · [writeup](https://www.mindstudio.ai/blog/gpt-6-astra-video-editing-agent)
+
+Research→edit produce loop (~50 min, author-reported).
 
 ---
 

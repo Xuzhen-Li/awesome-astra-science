@@ -55,3 +55,57 @@ Extreme Astra cases that still earn a science / research / caution slot. Prefer 
 - **What it is:** Near-closed Dyson-scale solar collector cinema; agent self-critiques washed-out planets from preview renders.
 - **Why here:** Astrophysics-adjacent visualization + visual QA loop.
 - **Evidence boundary:** Cinematic scale, not physical fidelity; NASA imagery credited on the page.
+
+## Unity street-level city walkthrough
+
+<a href="https://openai.com/index/gpt-6-astra/"><img src="../media/unity-city.jpg" alt="Astra Unity city walkthrough" width="100%"></a>
+
+- **Author:** OpenAI (launch demo)
+- **Original:** https://openai.com/index/gpt-6-astra/ · Vimeo `1223245272`
+- **Date:** 2026-09-03
+- **Still:** Frame from official Unity city walkthrough (hosted in `media/`).
+- **What it is:** Street-level navigable city scene assembled in Unity.
+- **Why here:** Spatial sim computer use — lighter cousin of Shumer’s nested worlds.
+- **Evidence boundary:** Official condensed demo.
+
+## FreeCAD transmission in motion
+
+<a href="https://openai.com/index/gpt-6-astra/"><img src="../media/freecad-motion.jpg" alt="Animated transmission cutaway" width="100%"></a>
+
+- **Author:** OpenAI
+- **Original:** https://openai.com/index/gpt-6-astra/ · Vimeo `1223789030`
+- Companion motion render for the FreeCAD gearbox (Room 04) — gears labeled in cutaway.
+
+## Canva portrait by Computer Use
+
+<a href="https://x.com/iam_zachi/status/2095992132620136677"><img src="../media/canva-portrait.jpg" alt="Canva portrait in progress" width="100%"></a>
+
+- **Author:** iam_zachi ([@iam_zachi](https://x.com/iam_zachi))
+- **Original:** https://x.com/iam_zachi/status/2095992132620136677
+- **Date:** 2026-09-04
+- **Still:** Mid-draw Canva frame (ChatGPT browser-control banner visible).
+- **What it is:** Astra rebuilds a likeness inside Canva with draw tools — not a diffusion one-shot.
+- **Why here:** Precision GUI motor control (same family as Notes / ImageJ habits).
+- **Evidence boundary:** Author demo; creative, not lab science.
+
+## Path to Astra · Critical cybersecurity
+
+<a href="https://openai.com/index/path-to-astra/"><img src="../media/path-to-astra.jpg" alt="Path to Astra" width="100%"></a>
+
+- **Author:** OpenAI
+- **Original:** https://openai.com/index/path-to-astra/ · system card https://deploymentsafety.openai.com/gpt-6-astra
+- **Date:** ~2026-09-02–04
+- **What it is:** First model designated Critical cyber under Preparedness; expert-supervised zero-day style assessments summarized publicly.
+- **Why here:** Dual-use ceiling for “lab computers with sharp tools.”
+- **Evidence boundary:** Company assessments; product names/exploits withheld; not a DIY recipe.
+
+## One prompt → finished YouTube (~50 min)
+
+<a href="https://www.mindstudio.ai/blog/gpt-6-astra-video-editing-agent"><img src="../media/nate-youtube.jpg" alt="Nate Herk Astra video pipeline" width="100%"></a>
+
+- **Author:** Nate Herk (MindStudio writeup)
+- **Original:** https://www.mindstudio.ai/blog/gpt-6-astra-video-editing-agent
+- **Date:** ~2026-09-03–05
+- **What it is:** Computer-use pipeline: research → script → voice → avatar → edit → QA; self-reported ~50 min / ~$60.
+- **Why here:** Long-horizon produce loop useful as sci-comm parallel.
+- **Evidence boundary:** Needs preconfigured tools/accounts; cost/time author-reported.
