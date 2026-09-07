@@ -185,3 +185,43 @@ Room 25 is a **success with a ceiling**: default protocol Astra solved **2/68**.
 - **What it is:** Same Inspect Robots policy: bowl task **19/20**, puzzle-into-groove only **2/20** — reaches groove and stalls at final insertion (tied with Fable 5.1).
 - **Why here:** Lab robotics / fine manipulation ceiling under computer use.
 - **Evidence boundary:** Medium effort only; bowl/puzzle rig notes in their limitations; operator-known grading.
+
+## Terminal-Bench-Science · vendor 64.6% vs public ~30% ceiling
+
+<a href="https://www.tbench.ai/news/terminal-bench-science-0-1"><img src="../media/tbench-science.jpg" alt="Terminal-Bench Science" width="100%"></a>
+
+- **Author:** Terminal-Bench-Science / Stanford (public 0.1) · OpenAI launch table · [Vellum explainer](https://www.vellum.ai/blog/gpt-6-astra-benchmarks-explained)
+- **Original:** https://www.tbench.ai/news/terminal-bench-science-0-1 · https://openai.com/index/gpt-6-astra/
+- **Date:** public board Aug/Sep 2026 · OpenAI table 2026-09-03
+- **What it is:** Public TB-Science 0.1 leaderboard tops at **Claude Opus 5 30%** / **Sol+Codex 22.4%** (Astra absent from that published table). OpenAI’s launch row for the same-named bench lists Astra **64.6%** (and Fable **52.6%**, vs public Fable+Claude Code **21.4%**). Sol’s **22.4%** matches across both.
+- **Why here:** Science-workflow cousin of the ARC harness gap — ask which agent harness and whether the Astra trial is on the public board before budgeting on 64.6%.
+- **Evidence boundary:** Not claiming OpenAI fabricated 64.6%; claiming **incomparability** until Astra appears under the public protocol. Room 27 pattern.
+
+## LifeSciBench +0.4 pp · MedChemBench ~49%
+
+- **Author:** OpenAI Science & Health table · [Vellum](https://www.vellum.ai/blog/gpt-6-astra-benchmarks-explained)
+- **Original:** https://openai.com/index/gpt-6-astra/
+- **Date:** 2026-09-03
+- **What it is:** LifeSciBench **60.3%** vs Sol **59.9%** (+0.4). MedChemBench (internal) **49.3%** vs Sol **47.4%** — still fails about half.
+- **Why here:** Thin margins under the “science” banner next to GeneBench’s absolute level.
+- **Evidence boundary:** Vendor table; MedChem internal.
+
+## AutomationBench 41.4% · majority of pro tasks still fail
+
+<a href="https://www.vellum.ai/blog/gpt-6-astra-benchmarks-explained"><img src="../media/automation-thin.jpg" alt="AutomationBench" width="100%"></a>
+
+- **Author:** OpenAI Professional table · Vellum summary
+- **Original:** https://openai.com/index/gpt-6-astra/
+- **Date:** 2026-09-03
+- **What it is:** Best published AutomationBench score **41.4%** (vs Fable 5.1 31.4%, Sol 18.1%). Real jump — still fails most delegated office/science-ops style tasks.
+- **Why here:** “Delegate the desk” marketing vs absolute hit rate.
+- **Evidence boundary:** Vendor bench; absolute rate is the disappointment, not the relative gain.
+
+## “Best for software engineering” contested
+
+- **Author:** OpenAI coding claims · Meta Muse / public DeepSWE / FrontierCode rows (via Vellum / New Stack)
+- **Original:** https://www.vellum.ai/blog/gpt-6-astra-benchmarks-explained · https://openai.com/index/gpt-6-astra/
+- **Date:** 2026-09-03 week
+- **What it is:** Muse Spark 1.3 reported ahead on DeepSWE (~75.4% vs Astra ~74.1%); some FrontierCode splits go to Fable 5; AA Coding Agent Index effectively a three-way tie (~67).
+- **Why here:** Coding hype sentence vs mixed public/vendor rows.
+- **Evidence boundary:** Overlapping error bars and harness differences; treat as contested ranking, not a wipeout.

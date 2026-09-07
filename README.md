@@ -18,7 +18,7 @@ Stills show the **tool or result** (author photos, or frames we extracted into [
 | [II · Lab desks](#wing-ii--lab-desks) | GUIs a lab already owns | 05–10 · 26 |
 | [III · Horizon & caution](#wing-iii--horizon--caution) | Long runs / don’t wire live submit | 11–14 |
 | [IV · Outrageous](#wing-iv--outrageous) | Nested sims, cyber, city, Canva, Path | 15–24 |
-| [V · Reality check](#wing-v--reality-check) | 也就那回事 — harness, edits, FP, citations | 27–42 |
+| [V · Reality check](#wing-v--reality-check) | 也就那回事 — harness, edits, FP, citations | 27–46 |
 | [Side rooms](#side-rooms) | Catalog files & open call | — |
 
 ---
@@ -466,6 +466,42 @@ Astra **57.2%** vs Fable **65.0%** on Humanity’s Last Exam (w/ tools) — the 
 **Robocurve** · [page](https://openai.robocurve.org/gpt-6-astra/) · [note](cases/failures.md)
 
 Bowl 19/20; groove insertion **2/20**. Fine manipulation ceiling under CU.
+
+---
+
+### Room 43 · Terminal-Bench-Science · 64.6% vs public ~30%
+
+<a href="https://www.tbench.ai/news/terminal-bench-science-0-1"><img src="media/tbench-science.jpg" alt="TB-Science" width="100%"></a>
+
+**Stanford TB-Science / OpenAI** · [public 0.1](https://www.tbench.ai/news/terminal-bench-science-0-1) · [launch](https://openai.com/index/gpt-6-astra/) · [note](cases/failures.md)
+
+Public board tops at Opus **30%** / Sol **22.4%** (Astra not listed). OpenAI table: Astra **64.6%**. Same name, ask the harness — Room 27’s science cousin.
+
+---
+
+### Room 44 · LifeSci +0.4 · MedChem ~49%
+
+**OpenAI** · [launch](https://openai.com/index/gpt-6-astra/) · [note](cases/failures.md)
+
+LifeSciBench **60.3 vs 59.9**. MedChemBench **49.3%** — half still wrong. Thin “science” margins.
+
+---
+
+### Room 45 · AutomationBench 41%
+
+<a href="https://www.vellum.ai/blog/gpt-6-astra-benchmarks-explained"><img src="media/automation-thin.jpg" alt="AutomationBench" width="100%"></a>
+
+**OpenAI / Vellum** · [explainer](https://www.vellum.ai/blog/gpt-6-astra-benchmarks-explained) · [note](cases/failures.md)
+
+Best published **41.4%** — real gain over Sol, still fails most delegated desk tasks.
+
+---
+
+### Room 46 · Coding crown contested
+
+**OpenAI vs Meta / AA** · [Vellum](https://www.vellum.ai/blog/gpt-6-astra-benchmarks-explained) · [note](cases/failures.md)
+
+DeepSWE / FrontierCode / AA Coding Index don’t crown one king. “Best for software engineering” is a sentence, not a consensus.
 
 ---
 ### Also in this mood
