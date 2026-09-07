@@ -18,7 +18,7 @@
 | [二厅 · 实验台](#二厅--实验台) | 实验室已有的 GUI | 05–10 · 26 |
 | [三厅 · 长程与警示](#三厅--长程与警示) | 连跑 / 别接活账号 | 11–14 |
 | [四厅 · 离谱](#四厅--离谱) | 嵌套模拟 / 评测攻击 / Dyson | 15–24 |
-| [五厅 · 也就那回事](#五厅--也就那回事) | 脚手架 / 改分 / 独立榜 | 27–30 |
+| [五厅 · 也就那回事](#五厅--也就那回事) | 脚手架 / 改分 / 独立榜 | 27–34 |
 
 ---
 
@@ -141,7 +141,13 @@ Bloom 精选 68 道未解 Erdős；默认协议 Astra 仅 **3%**（2/68），额
 
 <img src="media/aa-intelligence.jpg" alt="AA" width="100%">
 
-独立 Intelligence Index **61**（与 Sol 持平），SciCode 科学 Python 掉 2–3 分。详见英文五厅与 [cases/failures.md](cases/failures.md)。
+独立 Intelligence Index **61**（与 Sol 持平），SciCode 科学 Python 掉 2–3 分。
+
+### 室 31–34 · 误杀 / API 停摆 / 监控变脆 / AGI 话术
+
+<img src="media/cyber-false-positive.jpg" alt="cyber FP" width="100%">
+
+可靠性调试被 `cyber_policy` 连杀；API 任务直接停；自家说监控变脆。详见英文五厅与 [cases/failures.md](cases/failures.md)。
 
 ## 侧室
 

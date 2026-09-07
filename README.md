@@ -18,7 +18,7 @@ Stills show the **tool or result** (author photos, or frames we extracted into [
 | [II · Lab desks](#wing-ii--lab-desks) | GUIs a lab already owns | 05–10 · 26 |
 | [III · Horizon & caution](#wing-iii--horizon--caution) | Long runs / don’t wire live submit | 11–14 |
 | [IV · Outrageous](#wing-iv--outrageous) | Nested sims, cyber, city, Canva, Path | 15–24 |
-| [V · Reality check](#wing-v--reality-check) | 也就那回事 — harness, edits, dull boards | 27–30 |
+| [V · Reality check](#wing-v--reality-check) | 也就那回事 — harness, edits, dull boards | 27–34 |
 | [Side rooms](#side-rooms) | Catalog files & open call | — |
 
 ---
@@ -324,9 +324,9 @@ Standard harness **62.7%** · Provider Adapter **99.9%**. Same weights. ARC Priz
 
 ### Room 28 · Scores that moved
 
-<a href="https://startupfortune.com/openai-changed-gpt-6-astras-benchmark-numbers-days-after-its-launch/"><img src="media/bench-numbers-moved.jpg" alt="Scores revised after launch" width="100%"></a>
+<a href="https://fortune.com/2026/09/04/openai-quietly-boosts-some-of-astras-evaluation-metrics-amid-rare-delay-in-publication-of-the-modeblog-post-announcement/"><img src="media/bench-numbers-moved.jpg" alt="Scores revised after launch" width="100%"></a>
 
-**Startup Fortune / TNW** · [Fortune](https://startupfortune.com/openai-changed-gpt-6-astras-benchmark-numbers-days-after-its-launch/) · [note](cases/failures.md)
+**Startup Fortune / TNW** · [Fortune](https://fortune.com/2026/09/04/openai-quietly-boosts-some-of-astras-evaluation-metrics-amid-rare-delay-in-publication-of-the-modeblog-post-announcement/) · [note](cases/failures.md)
 
 Archived launch-post snapshots: hallucination % flipped, Sol ExploitBench jumped on a non-commercial tier. Ask what changed.
 
@@ -352,6 +352,46 @@ Docs live, broad API lag. You can’t verify a claim you can’t call.
 
 ---
 
+
+### Room 31 · Cyber false positives mid-debug
+
+<a href="https://community.openai.com/t/false-positive-cybersecurity-blocks-during-astra-reliability-audits-in-codex/1395121"><img src="media/cyber-false-positive.jpg" alt="Cyber false positive" width="100%"></a>
+
+**Developer Community** · [thread](https://community.openai.com/t/false-positive-cybersecurity-blocks-during-astra-reliability-audits-in-codex/1395121) · [note](cases/failures.md)
+
+Reliability audit on local Docker `--network none` — **8× `cyber_policy`** kills; ~1 h run dead. Same job finishes on Daybreak Blue.
+
+---
+
+### Room 32 · API job just stops
+
+<a href="https://thenewstack.io/astra-api-safety-stops/"><img src="media/api-stop.jpg" alt="API safety stop" width="100%"></a>
+
+**OpenAI Path / The New Stack** · [Path](https://openai.com/index/path-to-astra/) · [TNS](https://thenewstack.io/astra-api-safety-stops/) · [note](cases/failures.md)
+
+ChatGPT may prompt review; **API → task stops**. Intended long agents are the ones that lose hours.
+
+---
+
+### Room 33 · Monitorability fragile
+
+<a href="https://www.theverge.com/ai-artificial-intelligence/988334/openai-astra-ai-monitoring-safety"><img src="media/monitor-fragile.jpg" alt="Fragile monitoring" width="100%"></a>
+
+**System card / Verge** · [sandbagging](https://deploymentsafety.openai.com/gpt-6-astra/capability-sandbagging) · [note](cases/failures.md)
+
+Own words: harder to monitor than Sol; covert sandbagging “likely” uncaught. Audit trail thinner as capability rises.
+
+---
+
+### Room 34 · “AGI era” vs missing GDPval
+
+<a href="https://www.techtimes.com/articles/326589/20260904/gpt-6-astra-goes-live-agi-claim-fails-openai-own-bar-monitoring-called-fragile.htm"><img src="media/agi-claim.jpg" alt="AGI claim" width="100%"></a>
+
+**TechTimes / ARC / TNW** · [piece](https://www.techtimes.com/articles/326589/20260904/gpt-6-astra-goes-live-agi-claim-fails-openai-own-bar-monitoring-called-fragile.htm) · [note](cases/failures.md)
+
+Charter bar is economic work; launch led with Adapter ARC. GDPval not in launch materials; AA GDPval-AA regresses.
+
+---
 ### Also in this mood
 
 - Room 13 · Bugatti Gmail (connected tools)
