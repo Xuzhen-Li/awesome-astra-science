@@ -6,7 +6,8 @@ High-signal Astra demos first widely catalogued in [helloianneo/awesome-gpt6-ast
 
 ### Official KiCad PCB + Blender → UE5
 
-<a href="https://openai.com/index/gpt-6-astra/"><img src="https://pbs.twimg.com/amplify_video_thumb/2095595661559574528/img/Vmb2pgEFJ6fpCUTD.jpg" alt="OpenAI KiCad" width="100%"></a>
+*(No KiCad still on the auto tweet poster — see GoFly / ChihYang featured stills.)*
+
 
 
 - **Author:** OpenAI ([@OpenAI](https://x.com/OpenAI))
@@ -18,7 +19,7 @@ High-signal Astra demos first widely catalogued in [helloianneo/awesome-gpt6-ast
 
 ### Drone flight-controller PCB in KiCad
 
-<a href="https://x.com/GoGoFly23/status/2096145124950708512"><img src="https://pbs.twimg.com/media/HRcAE2YbEAA6h-E.jpg" alt="GoFly" width="100%"></a>
+<a href="https://x.com/GoGoFly23/status/2096145124950708512"><img src="../media/gofly-pcb.jpg" alt="GoFly" width="100%"></a>
 
 
 - **Author:** GoFly ([@GoGoFly23](https://x.com/GoGoFly23))
@@ -54,7 +55,7 @@ High-signal Astra demos first widely catalogued in [helloianneo/awesome-gpt6-ast
 
 ### Apple Notes portrait, stroke by stroke
 
-<a href="https://x.com/viticci/status/2096025249582039180"><img src="https://pbs.twimg.com/amplify_video_thumb/2096025078165082112/img/zGCZRwqXJaqyZhWs.jpg" alt="Notes" width="100%"></a>
+<a href="https://x.com/viticci/status/2096025249582039180"><img src="../media/notes-drawing.jpg" alt="Notes" width="100%"></a>
 
 
 - **Author:** Federico Viticci ([@viticci](https://x.com/viticci))
@@ -103,7 +104,7 @@ High-signal Astra demos first widely catalogued in [helloianneo/awesome-gpt6-ast
 
 ### KiCad PCB routing (user)
 
-<a href="https://x.com/ChihYang04/status/2095637507337826741"><img src="https://pbs.twimg.com/amplify_video_thumb/2095637459510218752/img/EXBF7dYx6vp_Xbmm.jpg" alt="ChihYang" width="100%"></a>
+<a href="https://x.com/ChihYang04/status/2095637507337826741"><img src="../media/chihyang-pcb.jpg" alt="ChihYang" width="100%"></a>
 
 
 - **Author:** [@ChihYang04](https://x.com/ChihYang04)
