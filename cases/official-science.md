@@ -49,3 +49,12 @@ Cited on the launch page for science positioning (numbers are OpenAI-reported):
 - GPQA Diamond (biology / chemistry / physics reasoning)
 - Terminal-Bench Science 0.1
 - FrontierMath Tier 4 / prime-gap follow-ups — see also https://openai.com/index/ten-advances-in-mathematics/
+
+## BenchCAD · Vision2Code 95.9%
+
+- **Author:** OpenAI (Professional table)
+- **Original:** https://openai.com/index/gpt-6-astra/
+- **Date:** 2026-09-03
+- **What it is:** Reconstruct 3D objects from multi-view renders by generating CAD code — geometric-overlap **95.9%** (Sol 83.3%, Fable 5.1 84.3% with noted eval mods).
+- **Why here:** Strongest published **engineering reconstruction** number; pairs with FreeCAD demos.
+- **Evidence boundary:** Vendor bench; Claude rows used modified settings per footnote.

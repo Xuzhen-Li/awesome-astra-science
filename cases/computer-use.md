@@ -19,3 +19,14 @@ See [classics.md](classics.md) — stroke-level desktop control.
 - **Date:** 2026-09-03
 - Official computer-use chores (forms, calendar, CRM-like steps) in a demonstration environment.
 - **Why here:** Template for “agent fills the boring GUI” — same class as LIMS and grant-portal chores, with the same oversight needs.
+
+## MS Paint portrait (computer use)
+
+<a href="https://x.com/The_Alex/status/2095962639386239400"><img src="../media/paint-cu.jpg" alt="Paint CU" width="100%"></a>
+
+- **Author:** The_Alex ([@The_Alex](https://x.com/The_Alex))
+- **Original:** https://x.com/The_Alex/status/2095962639386239400
+- **Date:** 2026-09-04
+- **What it is:** Classic Paint-app likeness via mouse — widely cited CU motor-control check.
+- **Why here:** Twin to Canva (Room 22); ImageJ/napari-class pixel habits.
+- **Evidence boundary:** Author demo; not a science result.

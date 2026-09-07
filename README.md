@@ -15,10 +15,10 @@ Stills show the **tool or result** (author photos, or frames we extracted into [
 | Wing | Mood | Rooms |
 |------|------|-------|
 | [I · Proof & genome](#wing-i--proof--genome) | What counts as science | 01–04 · 25 |
-| [II · Lab desks](#wing-ii--lab-desks) | GUIs a lab already owns | 05–10 · 26 |
+| [II · Lab desks](#wing-ii--lab-desks) | GUIs a lab already owns | 05–10 · 26 · 52–54 · 52–54 |
 | [III · Horizon & caution](#wing-iii--horizon--caution) | Long runs / don’t wire live submit | 11–14 |
 | [IV · Outrageous](#wing-iv--outrageous) | Nested sims, cyber, city, Canva, Path | 15–24 |
-| [V · Reality check](#wing-v--reality-check) | 也就那回事 — harness, edits, FP, citations | 27–51 |
+| [V · Reality check](#wing-v--reality-check) | 也就那回事 — harness, edits, FP, citations | 27–55 |
 | [Side rooms](#side-rooms) | Catalog files & open call | — |
 
 ---
@@ -155,6 +155,44 @@ Old technical drawing → thousands of **editable** Blender parts (not one fused
 
 ---
 
+
+### Room 52 · Tesla Model X · 334 parts
+
+<a href="https://x.com/ashebytes/status/2096009146248122416"><img src="media/tesla-model-x.jpg" alt="Tesla teardown" width="100%"></a>
+
+**ashebytes** · [post](https://x.com/ashebytes/status/2096009146248122416) · [note](cases/lab-tooling.md)
+
+Exploded web teardown — 334 editable pieces. Instrument/CAD grain.
+
+---
+
+### Room 53 · Photo → Blender house
+
+<a href="https://x.com/tomkrcha/status/2095598645190291775"><img src="media/blender-photo-house.jpg" alt="Blender house" width="100%"></a>
+
+**Tom Krcha** · [post](https://x.com/tomkrcha/status/2095598645190291775) · [note](cases/lab-tooling.md)
+
+Photo in → walkable Blender scene. Sibling to Room 26’s part-count flex.
+
+---
+
+### Room 54 · Paint CU (motor control)
+
+<a href="https://x.com/The_Alex/status/2095962639386239400"><img src="media/paint-cu.jpg" alt="Paint" width="100%"></a>
+
+**The_Alex** · [post](https://x.com/The_Alex/status/2095962639386239400) · [note](cases/computer-use.md)
+
+MS Paint likeness — Canva’s cousin for ImageJ-class desks.
+
+---
+
+### Also · BenchCAD 95.9%
+
+**OpenAI** · [launch](https://openai.com/index/gpt-6-astra/) · [note](cases/official-science.md)
+
+Vision→CAD code geometric overlap **95.9%**. Strong reconstruction win — pair with Room 52 fail-cousin below.
+
+---
 ## Wing III · Horizon & caution
 
 <em>Days-long runs, connected tools, and what not to celebrate.</em>
@@ -550,11 +588,20 @@ CU **72.6%** offline partial — better and faster than Sol, still misses task ~
 Complex professional software tasks: SOTA **59.3%**, loses ~4/10.
 
 ---
+
+### Room 55 · Internal Design Tasks 50%
+
+**OpenAI** · [launch](https://openai.com/index/gpt-6-astra/) · [note](cases/failures.md)
+
+Same professional table as BenchCAD’s 95.9%: broader design tasks **50.0%**. Reconstruction ≠ design judgment.
+
+---
 ### Also in this mood
 
 - Room 13 · Bugatti Gmail (connected tools)
 - Room 14 · “No research taste” (Mollick)
 - Room 25 · FrontierMath Erdős default **3%** — success with a ceiling
+- BenchCAD **95.9%** (win) vs Room 55 **50%** design — same launch table
 
 ---
 ## Side rooms

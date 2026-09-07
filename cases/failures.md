@@ -276,3 +276,12 @@ Room 25 is a **success with a ceiling**: default protocol Astra solved **2/68**.
 - **What it is:** Complex professional tasks in real software: Astra **59.3%** (Sol 53.6%, Opus 5 55.5%). SOTA in OpenAI’s comparison — still loses ~4/10.
 - **Why here:** Same desk shape as instrument GUIs / analysis suites.
 - **Evidence boundary:** Vendor max-effort; harness-sensitive.
+
+## Internal Design Tasks 50%
+
+- **Author:** OpenAI (Professional table)
+- **Original:** https://openai.com/index/gpt-6-astra/
+- **Date:** 2026-09-03
+- **What it is:** Internal Design Tasks **50.0%** (Sol 47.4%). Coin-flip on OpenAI’s own design suite — next to BenchCAD’s 95.9% reconstruction score.
+- **Why here:** Same launch table: CAD reconstruction looks solved; broader “design tasks” still half-fail.
+- **Evidence boundary:** Private internal set; methodology thin.
