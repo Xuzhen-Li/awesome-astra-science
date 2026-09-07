@@ -30,3 +30,12 @@ See [classics.md](classics.md) — stroke-level desktop control.
 - **What it is:** Classic Paint-app likeness via mouse — widely cited CU motor-control check.
 - **Why here:** Twin to Canva (Room 22); ImageJ/napari-class pixel habits.
 - **Evidence boundary:** Author demo; not a science result.
+
+## ScreenSpot-Pro · 92.7% dense-UI grounding
+
+- **Author:** OpenAI (computer-use table)
+- **Original:** https://openai.com/index/gpt-6-astra/
+- **Date:** 2026-09-03
+- **What it is:** Pixel/UI targeting **92.7%** vs Sol **76.9%** — the click layer under lab/CAD GUIs.
+- **Why here:** Explains why KiCad/MultiQC/Notes demos look fluent.
+- **Evidence boundary:** No-tools UI bench; ≠ scientific correctness.

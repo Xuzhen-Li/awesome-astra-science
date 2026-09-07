@@ -15,10 +15,10 @@ Stills show the **tool or result** (author photos, or frames we extracted into [
 | Wing | Mood | Rooms |
 |------|------|-------|
 | [I · Proof & genome](#wing-i--proof--genome) | What counts as science | 01–04 · 25 |
-| [II · Lab desks](#wing-ii--lab-desks) | GUIs a lab already owns | 05–10 · 26 · 52–54 · 52–54 |
+| [II · Lab desks](#wing-ii--lab-desks) | GUIs a lab already owns | 05–10 · 26 · 52–54 · 56–57|
 | [III · Horizon & caution](#wing-iii--horizon--caution) | Long runs / don’t wire live submit | 11–14 |
 | [IV · Outrageous](#wing-iv--outrageous) | Nested sims, cyber, city, Canva, Path | 15–24 |
-| [V · Reality check](#wing-v--reality-check) | 也就那回事 — harness, edits, FP, citations | 27–55 |
+| [V · Reality check](#wing-v--reality-check) | 也就那回事 — harness, edits, FP, citations | 27–60 |
 | [Side rooms](#side-rooms) | Catalog files & open call | — |
 
 ---
@@ -191,6 +191,34 @@ MS Paint likeness — Canva’s cousin for ImageJ-class desks.
 **OpenAI** · [launch](https://openai.com/index/gpt-6-astra/) · [note](cases/official-science.md)
 
 Vision→CAD code geometric overlap **95.9%**. Strong reconstruction win — pair with Room 52 fail-cousin below.
+
+---
+
+### Room 56 · EEBench #1 · 69.3%
+
+<a href="https://eebench.org/"><img src="media/eebench.jpg" alt="EEBench" width="100%"></a>
+
+**atopile EEBench** · [board](https://eebench.org/) · [blog](https://eebench.org/blog/can-ai-design-circuit-boards-yet/) · [note](cases/lab-tooling.md)
+
+Independent SPICE-graded circuits — Astra **69.3%** tops Opus/Sol. Measured EE, not just KiCad clicks. See Room 58 for the ceiling.
+
+---
+
+### Room 57 · Palace of Fine Arts overnight
+
+<a href="https://x.com/sharifshameem/status/2095653641164329143"><img src="media/palace-fine-arts.jpg" alt="Palace of Fine Arts" width="100%"></a>
+
+**Sharif Shameem** · [post](https://x.com/sharifshameem/status/2095653641164329143) · [note](cases/lab-tooling.md)
+
+Archive research (incl. LoC dimensions) → iterated Blender render. Research-ops + CAD.
+
+---
+
+### Also · ScreenSpot-Pro 92.7%
+
+**OpenAI** · [launch](https://openai.com/index/gpt-6-astra/) · [note](cases/computer-use.md)
+
+Dense-UI click grounding — the muscle under lab GUIs. Not a science result by itself.
 
 ---
 ## Wing III · Horizon & caution

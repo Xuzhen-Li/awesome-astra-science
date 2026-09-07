@@ -15,10 +15,10 @@
 | 厅 | 气质 | 室 |
 |----|------|----|
 | [一厅 · 证明与基因组](#一厅--证明与基因组) | 什么算科学 | 01–04 · 25 |
-| [二厅 · 实验台](#二厅--实验台) | 实验室已有的 GUI | 05–10 · 26 · 52–54 |
+| [二厅 · 实验台](#二厅--实验台) | 实验室已有的 GUI | 05–10 · 26 · 52–57|
 | [三厅 · 长程与警示](#三厅--长程与警示) | 连跑 / 别接活账号 | 11–14 |
 | [四厅 · 离谱](#四厅--离谱) | 嵌套模拟 / 评测攻击 / Dyson | 15–24 |
-| [五厅 · 也就那回事](#五厅--也就那回事) | 脚手架 / 改分 / 独立榜 | 27–55 |
+| [五厅 · 也就那回事](#五厅--也就那回事) | 脚手架 / 改分 / 独立榜 | 27–61 |
 
 ---
 
@@ -82,7 +82,15 @@ Bloom 精选 68 道未解 Erdős；默认协议 Astra 仅 **3%**（2/68），额
 
 <img src="media/tesla-model-x.jpg" alt="Tesla" width="100%">
 
-牛逼：工程拆解与空间重建。翻车对照：室 55 内部 Design Tasks **50%**（BenchCAD 95.9% 同表）。
+牛逼：工程拆解与空间重建。翻车对照：室 55 Design Tasks **50%**。
+
+### 室 56–57 · EEBench 69.3% / Fine Arts 过夜
+
+<img src="media/eebench.jpg" alt="EEBench" width="100%">
+
+<img src="media/palace-fine-arts.jpg" alt="Palace" width="100%">
+
+独立电路榜第一；档案馆尺寸→Blender。
 
 <img src="media/blender-steam-train.jpg" alt="Blender train" width="100%">
 

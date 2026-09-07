@@ -67,3 +67,25 @@ See [classics.md](classics.md).
 - **What it is:** House photo → full Blender scene (furniture, toys) browsable ~60 fps (author-reported).
 - **Why here:** Spatial reconstruction for lab/facility walkthroughs.
 - **Evidence boundary:** Author video; time/cost self-reported. Distinct from Room 26 steam-train parts count.
+
+## EEBench · Astra #1 at 69.3% (SPICE-graded)
+
+<a href="https://eebench.org/"><img src="../media/eebench.jpg" alt="EEBench" width="100%"></a>
+
+- **Author:** atopile / EEBench
+- **Original:** https://eebench.org/ · data https://eebench.org/src/leaderboard-data.js · blog https://eebench.org/blog/can-ai-design-circuit-boards-yet/ · HN https://news.ycombinator.com/item?id=49569366
+- **Date:** board `generated_at` ~2026-09-04
+- **What it is:** Independent SPICE-graded circuit tasks. Live JS board: Astra **69.3%** (#1, Codex CLI) vs Opus 5 **61.6%**, Sol **39.4%**; ~$0.83/task avg in published row.
+- **Why here:** Measured EE beyond KiCad pixel demos — instrument electronics grain.
+- **Evidence boundary:** Simulation + cost composite; V1 excludes layout/fab/bring-up. Pair with Reality-check room on the ~30% still-wrong ceiling.
+
+## Palace of Fine Arts · overnight research → Blender
+
+<a href="https://x.com/sharifshameem/status/2095653641164329143"><img src="../media/palace-fine-arts.jpg" alt="Palace of Fine Arts" width="100%"></a>
+
+- **Author:** Sharif Shameem ([@sharifshameem](https://x.com/sharifshameem))
+- **Original:** https://x.com/sharifshameem/status/2095653641164329143
+- **Date:** 2026-09-03/04
+- **What it is:** Overnight: pulled refs, iterated Blender + intermediate renders; used a Library of Congress scan for column dimensions (author-reported); light human steer.
+- **Why here:** Research-ops + architectural/engineering CAD from archives.
+- **Evidence boundary:** Author overnight run; not surveyed as-built fidelity.

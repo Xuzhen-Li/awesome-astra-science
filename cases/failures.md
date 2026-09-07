@@ -285,3 +285,43 @@ Room 25 is a **success with a ceiling**: default protocol Astra solved **2/68**.
 - **What it is:** Internal Design Tasks **50.0%** (Sol 47.4%). Coin-flip on OpenAI’s own design suite — next to BenchCAD’s 95.9% reconstruction score.
 - **Why here:** Same launch table: CAD reconstruction looks solved; broader “design tasks” still half-fail.
 - **Evidence boundary:** Private internal set; methodology thin.
+
+## EEBench ceiling · KiCad clicks ≠ circuits
+
+- **Author:** atopile EEBench
+- **Original:** https://eebench.org/blog/can-ai-design-circuit-boards-yet/ · https://eebench.org/
+- **Date:** ~2026-09-03–04
+- **What it is:** Even #1 **69.3%** fails ~30% of SPICE tasks; V1 excludes layout/manufacture/bring-up. Blog thesis: GUI KiCad burns context on clicks, not electrical correctness — deflates launch PCB stills.
+- **Why here:** Lab/instrument electronics reality check next to EEBench win room.
+- **Evidence boundary:** Sim-only; their line is don’t ship untested hardware.
+
+## HealthBench Professional · 63.4% (~1/3 wrong)
+
+- **Author:** OpenAI Science & Health table
+- **Original:** https://openai.com/index/gpt-6-astra/
+- **Date:** 2026-09-03
+- **What it is:** HealthBench Professional (length-adjusted) **63.4%** vs Sol **60.5%**. Thin absolute reliability for clinical/research prose — distinct from LifeSci/MedChem thin margins (Room 44).
+- **Why here:** Med/health research support ≠ autonomy.
+- **Evidence boundary:** Vendor length-adjusted metric; not a bedside trial.
+
+## Zillow house · wrong details + harness
+
+<a href="https://x.com/realYunfanYe/status/2095612137582526615"><img src="../media/zillow-wrong.jpg" alt="Zillow Blender" width="100%"></a>
+
+- **Author:** Yunfan Ye ([@realYunfanYe](https://x.com/realYunfanYe))
+- **Original:** https://x.com/realYunfanYe/status/2095612137582526615
+- **Date:** 2026-09-03
+- **What it is:** Author flags **wrong details** in one-shot Blender promo; run used Rome workspace with pre-built Zillow/audio tools — not bare Astra.
+- **Why here:** Spatial wow with fidelity tax + scaffold caveat.
+- **Evidence boundary:** Author-reported; blurry listing photos.
+
+## Research writing Elo · #11 below Sol
+
+<a href="https://decrypt.co/377514/openai-gpt-6-astra-review-shockingly-good"><img src="../media/writing-elo.jpg" alt="Writing Elo" width="100%"></a>
+
+- **Author:** Louis-François Bouchard (@Whats_AI) via Decrypt
+- **Original:** https://decrypt.co/377514/openai-gpt-6-astra-review-shockingly-good
+- **Date:** ~2026-09-05
+- **What it is:** Editorial-voice Elo **1995 (#11)** vs Sol **2156 (#6)**; ~1.8× cost per script. Verifiable-form wins; prose/taste can regress — papers/grants risk. Distinct from Mollick Room 14.
+- **Why here:** Science communication / methods narrative.
+- **Evidence boundary:** One lab’s internal Elo; Decrypt secondary.
