@@ -33,3 +33,15 @@ See [classics.md](classics.md).
 - IGV or JBrowse: navigate a public VCF/BAM and export a region figure
 - ImageJ / Fiji: batch measure a public microscopy set
 - draw.io / Illustrator: object-level scientific figure repair (not a flat redraw)
+
+
+## Steam drawing → 3,295 editable Blender objects
+
+<a href="https://x.com/tomkrcha/status/2095756085890310311"><img src="../media/blender-steam-train.jpg" alt="Blender steam train" width="100%"></a>
+
+- **Author:** Tom Krcha ([@tomkrcha](https://x.com/tomkrcha))
+- **Original:** https://x.com/tomkrcha/status/2095756085890310311
+- **Date:** 2026-09-04
+- **What it is:** Old technical drawing → minutes later thousands of fully editable Blender objects (not one fused mesh).
+- **Why here:** Decomposable CAD/geometry for engineering / instrument modeling.
+- **Evidence boundary:** Author-reported count/time/cost; quality subjective.

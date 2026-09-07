@@ -14,8 +14,8 @@ Stills show the **tool or result** (author photos, or frames we extracted into [
 
 | Wing | Mood | Rooms |
 |------|------|-------|
-| [I · Proof & genome](#wing-i--proof--genome) | What counts as science | 01–04 |
-| [II · Lab desks](#wing-ii--lab-desks) | GUIs a lab already owns | 05–10 |
+| [I · Proof & genome](#wing-i--proof--genome) | What counts as science | 01–04 · 25 |
+| [II · Lab desks](#wing-ii--lab-desks) | GUIs a lab already owns | 05–10 · 26 |
 | [III · Horizon & caution](#wing-iii--horizon--caution) | Long runs / don’t wire live submit | 11–14 |
 | [IV · Outrageous](#wing-iv--outrageous) | Nested sims, cyber, city, Canva, Path | 15–24 |
 | [Side rooms](#side-rooms) | Catalog files & open call | — |
@@ -35,6 +35,10 @@ Stills show the **tool or result** (author photos, or frames we extracted into [
 Astra navigates a local MultiQC report — FastQC, Samtools, Bcftools. Clearest public **genomics desk** still.
 
 <a href="https://openai.com/index/gpt-6-astra/"><img src="media/openai-bcftools.jpg" alt="Bcftools substitutions" width="100%"></a>
+
+<a href="https://openai.com/index/gpt-6-astra/"><img src="media/jupyter-cell-tracking.jpg" alt="Jupyter cell tracking" width="100%"></a>
+
+**Also · Cell-tracking workflow** (same launch page, distinct tab) — raw microscopy → labeled tracks + lineage in JupyterLab. Official life-sciences desk, not MultiQC.
 
 ---
 
@@ -65,6 +69,16 @@ Expert-endorsed immunology teaching; labeled CD4 / CD8 / DC / B cell panel.
 **OpenAI** · [launch](https://openai.com/index/gpt-6-astra/) · [note](cases/official-science.md)
 
 Written brief → cutaway five-speed gearbox in FreeCAD. Engineering desk, same muscle as instrument CAD.
+
+---
+
+### Room 25 · FrontierMath Erdős (Bloom 68)
+
+<a href="https://epoch.ai/latest/announcing-frontiermath-erdos"><img src="media/frontiermath-erdos.jpg" alt="FrontierMath Erdős" width="100%"></a>
+
+**Epoch AI + T. Bloom** · [announce](https://epoch.ai/latest/announcing-frontiermath-erdos) · [PDF](https://epoch.ai/files/frontiermath-erdos.pdf) · [note](cases/math-research.md)
+
+Pre-release Astra only nonzero scorer on 68 curated open Erdős problems in Lean — default **2/68 (3%)**; five across looser extra attempts. Beyond ten-proofs / PrimeGaps186.
 
 ---
 
@@ -127,6 +141,16 @@ Multi-DCC GUI driving — same habit as niche lab viz apps.
 <a href="https://x.com/op7418/status/2096065904828416286"><img src="https://pbs.twimg.com/media/HRa4oT1bIAA6F1h.jpg" alt="Blender donut" width="100%"></a>
 
 **歸藏** · [post](https://x.com/op7418/status/2096065904828416286) — render + Blender UI in one still.
+
+---
+
+### Room 26 · Steam drawing → 3,295 Blender objects
+
+<a href="https://x.com/tomkrcha/status/2095756085890310311"><img src="media/blender-steam-train.jpg" alt="Blender steam train wireframe" width="100%"></a>
+
+**Tom Krcha** · [post](https://x.com/tomkrcha/status/2095756085890310311)
+
+Old technical drawing → thousands of **editable** Blender parts (not one fused mesh). Instrument/CAD grain.
 
 ---
 
@@ -286,7 +310,7 @@ Distinct from Room 02’s ten-proofs package. Conditional Lean + numerical certi
 
 | File | What’s inside |
 |------|----------------|
-| [cases/official-science.md](cases/official-science.md) | MultiQC + FreeCAD notes |
+| [cases/official-science.md](cases/official-science.md) | MultiQC + cell-tracking + FreeCAD |
 | [cases/math-research.md](cases/math-research.md) | Lean proofs + prime gaps |
 | [cases/biology-teaching.md](cases/biology-teaching.md) | T-cell lecture |
 | [cases/classics.md](cases/classics.md) | Cross-links & extras |
@@ -298,7 +322,7 @@ Distinct from Room 02’s ten-proofs package. Conditional Lean + numerical certi
 
 Text-only alcoves: [George Pickett](https://x.com/georgepickett/status/2095979879137460640) · [Greg Isenberg](https://x.com/gregisenberg/status/2095854071580156338) · [dotey](https://x.com/dotey/status/2096051842174087386)
 
-Ceiling games (demoted): [Afterlight](https://x.com/anshuc/status/2096008083826725132) · [Matthew Berman](https://x.com/MatthewBerman/status/2095595892464333065)
+Ceiling games (demoted): [Afterlight](https://x.com/anshuc/status/2096008083826725132) · [Matthew Berman](https://x.com/MatthewBerman/status/2095595892464333065) · [Riley CoD-style](https://x.com/rileybrown/status/2095679352927056230) · [Slay the Spire 2](https://x.com/coolish/status/2096195104809873710) · [Gogh Strike](https://x.com/petergostev/status/2095776685807346105)
 
 ---
 

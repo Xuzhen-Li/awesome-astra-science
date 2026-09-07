@@ -18,6 +18,18 @@ Company demonstrations from the [GPT-6 Astra launch post](https://openai.com/ind
 
 Second frame: Bcftools Stats substitutions for `variants.filtered`.
 
+## Cell-tracking workflow (Jupyter)
+
+<a href="https://openai.com/index/gpt-6-astra/"><img src="../media/jupyter-cell-tracking.jpg" alt="Jupyter cell tracking" width="100%"></a>
+
+- **Author:** OpenAI
+- **Original:** https://openai.com/index/gpt-6-astra/ (tab: Cell-tracking workflow) · video https://videos.ctfassets.net/kftzwdyauwt9/3B1VXBpOI7aZb1kKLGcJrH/d422b5898b375ec6b4abd9438eb75578/life-sciences-cell-tracking-30s-realtime-full-frame.mp4
+- **Date:** 2026-09-03
+- **Still:** Mid-demo JupyterLab frame — raw vs labeled masks, lineage export (`track_cells.py`, 36 tracks / division event).
+- **What it is:** Builds & runs a cell-tracking workflow: microscopy frames → instance masks → tracks + lineage.
+- **Why here:** Direct live-cell image analysis desk (napari / TrackAstra-class), distinct from MultiQC sequencing QC.
+- **Evidence boundary:** Official condensed demo; not an independent lab reproduction.
+
 ## FreeCAD five-speed transmission
 
 <a href="https://openai.com/index/gpt-6-astra/"><img src="../media/openai-freecad.jpg" alt="FreeCAD transmission model" width="100%"></a>

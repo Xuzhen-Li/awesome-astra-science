@@ -14,8 +14,8 @@
 
 | 厅 | 气质 | 室 |
 |----|------|----|
-| [一厅 · 证明与基因组](#一厅--证明与基因组) | 什么算科学 | 01–04 |
-| [二厅 · 实验台](#二厅--实验台) | 实验室已有的 GUI | 05–10 |
+| [一厅 · 证明与基因组](#一厅--证明与基因组) | 什么算科学 | 01–04 · 25 |
+| [二厅 · 实验台](#二厅--实验台) | 实验室已有的 GUI | 05–10 · 26 |
 | [三厅 · 长程与警示](#三厅--长程与警示) | 连跑 / 别接活账号 | 11–14 |
 | [四厅 · 离谱](#四厅--离谱) | 嵌套模拟 / 评测攻击 / Dyson | 15–24 |
 
@@ -48,6 +48,22 @@
 <img src="media/openai-freecad.jpg" alt="FreeCAD" width="100%">
 
 ---
+
+### 室 25 · FrontierMath Erdős
+
+<img src="media/frontiermath-erdos.jpg" alt="Erdős" width="100%">
+
+Bloom 精选 68 道未解 Erdős；默认协议 Astra 仅 **3%**（2/68），额外尝试共 5 题。详见 [cases/math-research.md](cases/math-research.md)。
+
+### 细胞追踪（附于室 01）
+
+<img src="media/jupyter-cell-tracking.jpg" alt="cell tracking" width="100%">
+
+官方 Jupyter 显微追踪，与 MultiQC 不同页签。
+
+### 室 26 · 蒸汽机车 → 3295 个可编辑物体
+
+<img src="media/blender-steam-train.jpg" alt="Blender train" width="100%">
 
 ## 二厅 · 实验台
 

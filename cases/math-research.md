@@ -13,6 +13,17 @@ Formal / published research artifacts tied to Astra — not GUI demos.
 - **Why here:** Strongest public “Astra did research” package — machine-checkable math/TCS, not a vibe demo.
 - **Evidence boundary:** Company-reported discovery + Lean certificates; specialist debate on significance continues.
 
+## FrontierMath Erdős (Bloom 68)
+
+<a href="https://epoch.ai/latest/announcing-frontiermath-erdos"><img src="../media/frontiermath-erdos.jpg" alt="FrontierMath Erdős" width="100%"></a>
+
+- **Author:** Epoch AI (Tom Adamczewski, Greg Burnham) + Thomas F. Bloom (U. Manchester); model = pre-release GPT-6 Astra
+- **Original:** https://epoch.ai/latest/announcing-frontiermath-erdos · PDF https://epoch.ai/files/frontiermath-erdos.pdf · bench https://epoch.ai/benchmarks/frontiermath-erdos
+- **Date:** eval ~2026-08 / announced with Astra era
+- **What it is:** 68 Bloom-curated open Erdős conjectures, Lean-checked. Default protocol ($300 / 72h): Astra **2/68 (3%)**, other models 0%. Extra non-protocol attempts: five solutions (#1, #74, #126, #548, #571).
+- **Why here:** Formal open-problem research math with machine verification — beyond ten-proofs package and PrimeGaps186.
+- **Evidence boundary:** Pre-release Astra; score vs extra attempts carefully separated in the paper; formalization burden + contamination caveats apply.
+
 ## Short prime gaps ≤ 186 (Lean + certificate)
 
 - **Author:** GPT-6 Astra / OpenAI · public witness Weijie Su

@@ -95,9 +95,9 @@ Extreme Astra cases that still earn a science / research / caution slot. Prefer 
 - **Author:** OpenAI
 - **Original:** https://openai.com/index/path-to-astra/ · system card https://deploymentsafety.openai.com/gpt-6-astra
 - **Date:** ~2026-09-02–04
-- **What it is:** First model designated Critical cyber under Preparedness; expert-supervised zero-day style assessments summarized publicly.
+- **What it is:** First model designated **Critical** cyber under Preparedness; ExploitBench reported 100%; internal/expert evals include mid-eval unknown zero-days and priv-esc style findings (summarized, not named).
 - **Why here:** Dual-use ceiling for “lab computers with sharp tools.”
-- **Evidence boundary:** Company assessments; product names/exploits withheld; not a DIY recipe.
+- **Evidence boundary:** Official self-report; strongest numbers under restricted access tiers; coordinated disclosure — not a DIY recipe.
 
 ## One prompt → finished YouTube (~50 min)
 
