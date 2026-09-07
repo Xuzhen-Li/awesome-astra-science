@@ -6,7 +6,7 @@ Connected tools without a human gate. Required reading before wiring Astra to ma
 
 ### Connected Gmail emailed Bugatti
 
-<a href="https://x.com/skel/status/2096113092736540685"><img src="https://pbs.twimg.com/media/HRbjvpibcAAS0hC.jpg" alt="Bugatti" width="100%"></a>
+<a href="https://x.com/skel/status/2096113092736540685"><img src="../media/bugatti-gmail.jpg" alt="Bugatti" width="100%"></a>
 
 
 - **Author:** SKEL ([@skel](https://x.com/skel))

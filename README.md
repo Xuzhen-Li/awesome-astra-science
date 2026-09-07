@@ -18,6 +18,7 @@ Stills show the **tool or result** (author photos, or frames we extracted into [
 | [II · Lab desks](#wing-ii--lab-desks) | GUIs a lab already owns | 05–10 · 26 |
 | [III · Horizon & caution](#wing-iii--horizon--caution) | Long runs / don’t wire live submit | 11–14 |
 | [IV · Outrageous](#wing-iv--outrageous) | Nested sims, cyber, city, Canva, Path | 15–24 |
+| [V · Reality check](#wing-v--reality-check) | 也就那回事 — harness, edits, dull boards | 27–30 |
 | [Side rooms](#side-rooms) | Catalog files & open call | — |
 
 ---
@@ -180,7 +181,7 @@ Long-horizon computer-use **shape** — not a biology result.
 
 ### Room 13 · Gmail emailed Bugatti
 
-<a href="https://x.com/skel/status/2096113092736540685"><img src="https://pbs.twimg.com/media/HRbjvpibcAAS0hC.jpg" alt="Bugatti email" width="100%"></a>
+<a href="https://x.com/skel/status/2096113092736540685"><img src="media/bugatti-gmail.jpg" alt="Bugatti email" width="100%"></a>
 
 **SKEL** · 2026-09-05 · [post](https://x.com/skel/status/2096113092736540685) · [note](cases/cautionary.md)
 
@@ -306,6 +307,58 @@ Distinct from Room 02’s ten-proofs package. Conditional Lean + numerical certi
 
 ---
 
+
+## Wing V · Reality check
+
+<em>Also that. Gains can be real and the launch number can still be the wrong number to budget on.</em>
+
+### Room 27 · ARC harness ≠ AGI
+
+<a href="https://arcprize.org/blog/astra"><img src="media/arc-harness-gap.jpg" alt="ARC two harnesses" width="100%"></a>
+
+**ARC Prize** · [blog](https://arcprize.org/blog/astra) · [results](https://arcprize.org/results/openai-gpt-6-astra) · [TNW](https://thenextweb.com/news/openai-astra-arc-agi-3-harness-62-7-vs-99-9-benchmark-revisions) · [note](cases/failures.md)
+
+Standard harness **62.7%** · Provider Adapter **99.9%**. Same weights. ARC Prize is not claiming AGI. Like-for-like vs Sol is 62.7 vs 7.8.
+
+---
+
+### Room 28 · Scores that moved
+
+<a href="https://startupfortune.com/openai-changed-gpt-6-astras-benchmark-numbers-days-after-its-launch/"><img src="media/bench-numbers-moved.jpg" alt="Scores revised after launch" width="100%"></a>
+
+**Startup Fortune / TNW** · [Fortune](https://startupfortune.com/openai-changed-gpt-6-astras-benchmark-numbers-days-after-its-launch/) · [note](cases/failures.md)
+
+Archived launch-post snapshots: hallucination % flipped, Sol ExploitBench jumped on a non-commercial tier. Ask what changed.
+
+---
+
+### Room 29 · Intelligence Index 61 · SciCode dip
+
+<a href="https://artificialanalysis.ai/articles/benchmarking-gpt-6-astra"><img src="media/aa-intelligence.jpg" alt="Artificial Analysis" width="100%"></a>
+
+**Artificial Analysis** · [article](https://artificialanalysis.ai/articles/benchmarking-gpt-6-astra) · [note](cases/failures.md)
+
+Tied with Sol at **61**, behind Fable 5.1. SciCode (scientific Python) down 2–3 pts. More expensive per task at max.
+
+---
+
+### Room 30 · Messy rollout
+
+<a href="https://thenewstack.io/gpt6-astra-developer-access-delayed/"><img src="media/messy-rollout.jpg" alt="Messy rollout" width="100%"></a>
+
+**The New Stack** · [piece](https://thenewstack.io/gpt6-astra-developer-access-delayed/) · [note](cases/failures.md)
+
+Docs live, broad API lag. You can’t verify a claim you can’t call.
+
+---
+
+### Also in this mood
+
+- Room 13 · Bugatti Gmail (connected tools)
+- Room 14 · “No research taste” (Mollick)
+- Room 25 · FrontierMath Erdős default **3%** — success with a ceiling
+
+---
 ## Side rooms
 
 | File | What’s inside |
@@ -330,6 +383,7 @@ Ceiling games (demoted): [Afterlight](https://x.com/anshuc/status/20960080838267
 
 **In:** tool use a researcher recognizes; measurable computer use; formal science; cautionary sends.  
 **Out:** leading with game posters that hide the tool.  
+**Also:** reality-check rooms (harness vs adapter, edited tables, independent boards) so the corridor does not become a shrine.  
 **Evidence:** author-reported / official unless a PR proves otherwise.
 
 ## Credit
