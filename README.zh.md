@@ -18,7 +18,7 @@
 | [二厅 · 实验台](#二厅--实验台) | 实验室已有的 GUI | 05–10 · 26 |
 | [三厅 · 长程与警示](#三厅--长程与警示) | 连跑 / 别接活账号 | 11–14 |
 | [四厅 · 离谱](#四厅--离谱) | 嵌套模拟 / 评测攻击 / Dyson | 15–24 |
-| [五厅 · 也就那回事](#五厅--也就那回事) | 脚手架 / 改分 / 独立榜 | 27–35 |
+| [五厅 · 也就那回事](#五厅--也就那回事) | 脚手架 / 改分 / 独立榜 | 27–42 |
 
 ---
 
@@ -154,6 +154,12 @@ Bloom 精选 68 道未解 Erdős；默认协议 Astra 仅 **3%**（2/68），额
 <img src="media/ten-proofs-citation.jpg" alt="citation" width="100%">
 
 Lean 过了 ≠ 文献规范过了。[SciAm](https://www.scientificamerican.com/article/openais-latest-math-breakthroughs-commit-research-misconduct-experts-say/) · [failures.md](cases/failures.md)。
+
+### 室 36–42 · GeneBench / max_tokens / 机械臂 / HLE / 注入 / 拼图
+
+<img src="media/genebench-pro.jpg" alt="GeneBench" width="100%">
+
+官方基因组代理榜 **~37%**；`max_tokens` 可被静默忽略；细操作拼图 2/20。详见英文五厅。
 
 ## 侧室
 

@@ -20,3 +20,7 @@ Public GPT-6 Astra cases that are **clearly genomics / bioinfo / wet-lab** are s
 Open a PR that adds one CASE.md-shaped block to this file or to `lab-tooling.md`. English. Author + original link + evidence boundary required.
 
 See [CONTRIBUTING.md](../CONTRIBUTING.md).
+
+## Related official number (not a community GUI demo)
+
+OpenAI GeneBench Pro on the launch Science & Health table: Astra **37.1%** / Sol **32.3%** (live as of catalog time). See [failures.md](failures.md) Room 36. Still waiting on independent MultiQC / IGV / Scanpy mid-task fail stills.

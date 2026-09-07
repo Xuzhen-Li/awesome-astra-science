@@ -112,3 +112,76 @@ Room 25 is a **success with a ceiling**: default protocol Astra solved **2/68**.
 - **What it is:** Two flagship results (high-d sphere packing; non-sofic / soficity) accused of incorporating recent literature without proper citation. Launch language that problems had “seen no progress … for at least a decade” was later softened. Lean certificates address formal correctness, not scholarly attribution.
 - **Why here:** Room 02’s shadow — machine-checkable ≠ research-community norms. Scientists should read both the Lean and the literature fight.
 - **Evidence boundary:** Correctness of Lean proofs is a separate claim; OpenAI said it would make small paper updates and take responsibility for correctness. Misconduct vs sloppy write-up is contested.
+
+## GeneBench Pro · genomics agents still fail most workflows
+
+<a href="https://openai.com/index/gpt-6-astra/"><img src="../media/genebench-pro.jpg" alt="GeneBench Pro" width="100%"></a>
+
+- **Author:** OpenAI (Science & Health table on launch page) · product https://openai.com/index/introducing-genebench-pro/
+- **Original:** https://openai.com/index/gpt-6-astra/ (GeneBench Pro row)
+- **Date:** 2026-09-03 (table may drift — Room 28 discipline)
+- **What it is:** Live launch table: Astra **37.1%** vs Sol **32.3%** on GeneBench Pro v13. Still fails ~6/10 multi-stage genomics / statistical-reasoning agent workflows. Claude rows omitted (refuse majority).
+- **Why here:** Closest official number to “bioinfo desk reliability,” not the MultiQC still.
+- **Evidence boundary:** Vendor-built / vendor-scored; early secondary writeups quoted slightly different % — cite the live table. Gain vs Sol is real; absolute level is the disappointment.
+
+## `max_tokens` silently ignored (~58×)
+
+<a href="https://ofox.ai/blog/gpt-6-astra-api-error-model-not-found-fix-2026/"><img src="../media/max-tokens-trap.jpg" alt="max_tokens trap" width="100%"></a>
+
+- **Author:** Ofox (live API measurements)
+- **Original:** https://ofox.ai/blog/gpt-6-astra-api-error-model-not-found-fix-2026/
+- **Date:** 2026-09-06
+- **What it is:** Requests for `max_tokens` 16/50/100 (and `max_completion_tokens: 50`) returned ~2.6k–2.9k completion tokens with `finish_reason: stop`. Sol on same gateway clamps correctly (`50` + `length`).
+- **Why here:** Batch notebook / agent loops that treat token caps as spend guards silently over-burn (~58× in their example).
+- **Evidence boundary:** Small sample on Ofox gateway one day; re-verify on your route / OpenAI-direct.
+
+## Robot-arm physics fails + quota burn (HN)
+
+- **Author:** SillyUsername (Hacker News)
+- **Original:** https://news.ycombinator.com/item?id=49583417
+- **Date:** 2026-09-06
+- **What it is:** Adeept tank arm skill: wrong servo directions (2×), wrong gripper extents, no continuous torque for lift, almost no physical testing; ~£50 / Plus quota burned fast. Switched back to Sol.
+- **Why here:** Same shape as instrument-control loops — fluent code, wrong physical model. (Pairs with Robocurve Room.)
+- **Evidence boundary:** Single field report; not a controlled bench.
+
+## TDD doom loop · delete working code → 8,500 LoC tests
+
+- **Author:** enraged_camel (HN) · corroboration https://news.ycombinator.com/item?id=49583542
+- **Original:** https://news.ycombinator.com/item?id=49583471
+- **Date:** 2026-09-06
+- **What it is:** Implemented a feature, then “proper TDD,” **deleted** working code, wrote **~8,500 LoC** of unit tests; stopped at ~35% quota.
+- **Why here:** Long research agents can burn compute on ritual tests instead of validating against data/hardware.
+- **Evidence boundary:** Anecdote.
+
+## HLE w/ tools · Astra 57.2% trails Fable 65.0%
+
+<a href="https://www.vellum.ai/blog/gpt-6-astra-benchmarks-explained"><img src="../media/vellum-bench.jpg" alt="HLE benchmarks" width="100%"></a>
+
+- **Author:** OpenAI launch Academic table · explainers [Vellum](https://www.vellum.ai/blog/gpt-6-astra-benchmarks-explained) · [OfficeChai](https://officechai.com/ai/gpt-6-astra-benchmarks/)
+- **Original:** https://openai.com/index/gpt-6-astra/
+- **Date:** 2026-09-03
+- **What it is:** Humanity’s Last Exam (w/ tools): Astra **57.2%** vs Claude Fable **65.0%** in OpenAI’s own table — the academic row Astra loses while prose leads with ARC/FrontierMath.
+- **Why here:** Broad “scientific intelligence” claim vs the hard general science row they published against Claude.
+- **Evidence boundary:** Vendor table; Sol cell may be `-`.
+
+## Gray Swan IPI · 8.5% document-injection success
+
+<a href="https://the-decoder.com/openais-gpt-6-astra-hallucinates-less-but-remains-vulnerable-to-hidden-prompt-injections/"><img src="../media/ipi-injection.jpg" alt="Prompt injection" width="100%"></a>
+
+- **Author:** Gray Swan via OpenAI system card · [The Decoder](https://the-decoder.com/openais-gpt-6-astra-hallucinates-less-but-remains-vulnerable-to-hidden-prompt-injections/)
+- **Original:** https://deploymentsafety.openai.com/gpt-6-astra/evaluations-with-challenging-prompts
+- **Date:** ~2026-09-02–04
+- **What it is:** 1,810 curated indirect prompt injections; Astra cracked ≥1× in **8.5%** of scenarios (15 attempts) vs Sol 27% — better, still ~1/12. Opus 5 ~4.8% on same eval.
+- **Why here:** Lit-review / PDF / email agents reading untrusted papers and repos.
+- **Evidence boundary:** Adversarial curated set; improvement is real.
+
+## Robocurve · puzzle insertion 2/20
+
+<a href="https://openai.robocurve.org/gpt-6-astra/"><img src="../media/robocurve-puzzle.jpg" alt="Robocurve puzzle" width="100%"></a>
+
+- **Author:** Robocurve
+- **Original:** https://openai.robocurve.org/gpt-6-astra/ · HN https://news.ycombinator.com/item?id=49582582
+- **Date:** 2026-09-04
+- **What it is:** Same Inspect Robots policy: bowl task **19/20**, puzzle-into-groove only **2/20** — reaches groove and stalls at final insertion (tied with Fable 5.1).
+- **Why here:** Lab robotics / fine manipulation ceiling under computer use.
+- **Evidence boundary:** Medium effort only; bowl/puzzle rig notes in their limitations; operator-known grading.

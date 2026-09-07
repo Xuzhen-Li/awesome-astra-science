@@ -18,7 +18,7 @@ Stills show the **tool or result** (author photos, or frames we extracted into [
 | [II · Lab desks](#wing-ii--lab-desks) | GUIs a lab already owns | 05–10 · 26 |
 | [III · Horizon & caution](#wing-iii--horizon--caution) | Long runs / don’t wire live submit | 11–14 |
 | [IV · Outrageous](#wing-iv--outrageous) | Nested sims, cyber, city, Canva, Path | 15–24 |
-| [V · Reality check](#wing-v--reality-check) | 也就那回事 — harness, edits, FP, citations | 27–35 |
+| [V · Reality check](#wing-v--reality-check) | 也就那回事 — harness, edits, FP, citations | 27–42 |
 | [Side rooms](#side-rooms) | Catalog files & open call | — |
 
 ---
@@ -400,6 +400,72 @@ Charter bar is economic work; launch led with Adapter ARC. GDPval not in launch 
 **Scientific American** · [article](https://www.scientificamerican.com/article/openais-latest-math-breakthroughs-commit-research-misconduct-experts-say/) · [note](cases/failures.md)
 
 Sphere packing / soficity results accused of missing recent citations. Lean checks form; literature norms are another bar. Shadow of Room 02.
+
+---
+
+### Room 36 · GeneBench Pro ~37%
+
+<a href="https://openai.com/index/gpt-6-astra/"><img src="media/genebench-pro.jpg" alt="GeneBench Pro" width="100%"></a>
+
+**OpenAI** · [launch table](https://openai.com/index/gpt-6-astra/) · [GeneBench intro](https://openai.com/index/introducing-genebench-pro/) · [note](cases/failures.md)
+
+Astra **37.1%** vs Sol **32.3%** — still fails most multi-stage genomics agent workflows. Closest official bioinfo reliability number.
+
+---
+
+### Room 37 · `max_tokens` does nothing
+
+<a href="https://ofox.ai/blog/gpt-6-astra-api-error-model-not-found-fix-2026/"><img src="media/max-tokens-trap.jpg" alt="max_tokens trap" width="100%"></a>
+
+**Ofox** · [post](https://ofox.ai/blog/gpt-6-astra-api-error-model-not-found-fix-2026/) · [note](cases/failures.md)
+
+Ask for 50 tokens, get ~2.9k, `finish_reason: stop`. Sol clamps. Spend guards that trust the param are lying.
+
+---
+
+### Room 38 · Robot arm wrong physics (HN)
+
+**SillyUsername** · [HN](https://news.ycombinator.com/item?id=49583417) · [note](cases/failures.md)
+
+Servo directions / gripper extents wrong; quota burned; back to Sol. Fluent code ≠ instrument model.
+
+---
+
+### Room 39 · TDD doom loop
+
+**enraged_camel** · [HN](https://news.ycombinator.com/item?id=49583471) · [note](cases/failures.md)
+
+Deleted working code, wrote ~8,500 LoC of unit tests. Ritual > result.
+
+---
+
+### Room 40 · HLE w/ tools trails Fable
+
+<a href="https://www.vellum.ai/blog/gpt-6-astra-benchmarks-explained"><img src="media/vellum-bench.jpg" alt="HLE" width="100%"></a>
+
+**OpenAI table / Vellum** · [launch](https://openai.com/index/gpt-6-astra/) · [note](cases/failures.md)
+
+Astra **57.2%** vs Fable **65.0%** on Humanity’s Last Exam (w/ tools) — the academic row the prose skips.
+
+---
+
+### Room 41 · Prompt injection still ~1/12
+
+<a href="https://the-decoder.com/openais-gpt-6-astra-hallucinates-less-but-remains-vulnerable-to-hidden-prompt-injections/"><img src="media/ipi-injection.jpg" alt="IPI" width="100%"></a>
+
+**Gray Swan / system card** · [Decoder](https://the-decoder.com/openais-gpt-6-astra-hallucinates-less-but-remains-vulnerable-to-hidden-prompt-injections/) · [note](cases/failures.md)
+
+8.5% IPI success (better than Sol’s 27%). Untrusted PDFs and repos still bite.
+
+---
+
+### Room 42 · Puzzle insertion 2/20
+
+<a href="https://openai.robocurve.org/gpt-6-astra/"><img src="media/robocurve-puzzle.jpg" alt="Robocurve" width="100%"></a>
+
+**Robocurve** · [page](https://openai.robocurve.org/gpt-6-astra/) · [note](cases/failures.md)
+
+Bowl 19/20; groove insertion **2/20**. Fine manipulation ceiling under CU.
 
 ---
 ### Also in this mood
