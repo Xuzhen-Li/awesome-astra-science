@@ -101,3 +101,14 @@ Room 25 is a **success with a ceiling**: default protocol Astra solved **2/68**.
 - **What it is:** Charter AGI ≈ outperform humans at most economically valuable work. Launch led with ARC Adapter score; **GDPval absent** from launch materials; AA’s GDPval-AA shows regressions.
 - **Why here:** Scientists know puzzle-suite saturation ≠ economic AGI.
 - **Evidence boundary:** Brockman hedged (“leave it to the reader”); CU/cyber gains are real. Overclaim relative to own definition.
+
+## Ten-proofs citation fight (Lean ≠ literature)
+
+<a href="https://www.scientificamerican.com/article/openais-latest-math-breakthroughs-commit-research-misconduct-experts-say/"><img src="../media/ten-proofs-citation.jpg" alt="Citation controversy" width="100%"></a>
+
+- **Author:** Scientific American reporting · named: Stephen/Steven Miller (Yeshiva), Francesco Fournier-Facio (Cambridge), Andreas Thom (Dresden)
+- **Original:** https://www.scientificamerican.com/article/openais-latest-math-breakthroughs-commit-research-misconduct-experts-say/
+- **Date:** 2026-08-06 (on July/Aug ten-advances release)
+- **What it is:** Two flagship results (high-d sphere packing; non-sofic / soficity) accused of incorporating recent literature without proper citation. Launch language that problems had “seen no progress … for at least a decade” was later softened. Lean certificates address formal correctness, not scholarly attribution.
+- **Why here:** Room 02’s shadow — machine-checkable ≠ research-community norms. Scientists should read both the Lean and the literature fight.
+- **Evidence boundary:** Correctness of Lean proofs is a separate claim; OpenAI said it would make small paper updates and take responsibility for correctness. Misconduct vs sloppy write-up is contested.

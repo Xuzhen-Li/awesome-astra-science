@@ -11,7 +11,7 @@ Formal / published research artifacts tied to Astra — not GUI demos.
 - **Date:** 2026-08-01 (Bubeck post) / ongoing publication
 - **What it is:** Ten long-open results (non-sofic groups, Connes rigidity, sphere packing, CVP hardness, …) with Lean 4 certificates.
 - **Why here:** Strongest public “Astra did research” package — machine-checkable math/TCS, not a vibe demo.
-- **Evidence boundary:** Company-reported discovery + Lean certificates; specialist debate on significance continues.
+- **Evidence boundary:** Company-reported discovery + Lean certificates; specialist debate on significance continues. Citation / prior-art controversy: [SciAm](https://www.scientificamerican.com/article/openais-latest-math-breakthroughs-commit-research-misconduct-experts-say/) · gallery [Room 35](../README.md#room-35--ten-proofs-citation-fight).
 
 ## FrontierMath Erdős (Bloom 68)
 

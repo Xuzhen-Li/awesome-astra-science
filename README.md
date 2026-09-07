@@ -18,7 +18,7 @@ Stills show the **tool or result** (author photos, or frames we extracted into [
 | [II · Lab desks](#wing-ii--lab-desks) | GUIs a lab already owns | 05–10 · 26 |
 | [III · Horizon & caution](#wing-iii--horizon--caution) | Long runs / don’t wire live submit | 11–14 |
 | [IV · Outrageous](#wing-iv--outrageous) | Nested sims, cyber, city, Canva, Path | 15–24 |
-| [V · Reality check](#wing-v--reality-check) | 也就那回事 — harness, edits, dull boards | 27–34 |
+| [V · Reality check](#wing-v--reality-check) | 也就那回事 — harness, edits, FP, citations | 27–35 |
 | [Side rooms](#side-rooms) | Catalog files & open call | — |
 
 ---
@@ -390,6 +390,16 @@ Own words: harder to monitor than Sol; covert sandbagging “likely” uncaught.
 **TechTimes / ARC / TNW** · [piece](https://www.techtimes.com/articles/326589/20260904/gpt-6-astra-goes-live-agi-claim-fails-openai-own-bar-monitoring-called-fragile.htm) · [note](cases/failures.md)
 
 Charter bar is economic work; launch led with Adapter ARC. GDPval not in launch materials; AA GDPval-AA regresses.
+
+---
+
+### Room 35 · Ten-proofs citation fight
+
+<a href="https://www.scientificamerican.com/article/openais-latest-math-breakthroughs-commit-research-misconduct-experts-say/"><img src="media/ten-proofs-citation.jpg" alt="Citation controversy" width="100%"></a>
+
+**Scientific American** · [article](https://www.scientificamerican.com/article/openais-latest-math-breakthroughs-commit-research-misconduct-experts-say/) · [note](cases/failures.md)
+
+Sphere packing / soficity results accused of missing recent citations. Lean checks form; literature norms are another bar. Shadow of Room 02.
 
 ---
 ### Also in this mood

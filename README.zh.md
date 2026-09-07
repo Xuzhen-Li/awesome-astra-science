@@ -18,7 +18,7 @@
 | [二厅 · 实验台](#二厅--实验台) | 实验室已有的 GUI | 05–10 · 26 |
 | [三厅 · 长程与警示](#三厅--长程与警示) | 连跑 / 别接活账号 | 11–14 |
 | [四厅 · 离谱](#四厅--离谱) | 嵌套模拟 / 评测攻击 / Dyson | 15–24 |
-| [五厅 · 也就那回事](#五厅--也就那回事) | 脚手架 / 改分 / 独立榜 | 27–34 |
+| [五厅 · 也就那回事](#五厅--也就那回事) | 脚手架 / 改分 / 独立榜 | 27–35 |
 
 ---
 
@@ -147,7 +147,13 @@ Bloom 精选 68 道未解 Erdős；默认协议 Astra 仅 **3%**（2/68），额
 
 <img src="media/cyber-false-positive.jpg" alt="cyber FP" width="100%">
 
-可靠性调试被 `cyber_policy` 连杀；API 任务直接停；自家说监控变脆。详见英文五厅与 [cases/failures.md](cases/failures.md)。
+可靠性调试被 `cyber_policy` 连杀；API 任务直接停；自家说监控变脆。
+
+### 室 35 · Ten-proofs 引用争议
+
+<img src="media/ten-proofs-citation.jpg" alt="citation" width="100%">
+
+Lean 过了 ≠ 文献规范过了。[SciAm](https://www.scientificamerican.com/article/openais-latest-math-breakthroughs-commit-research-misconduct-experts-say/) · [failures.md](cases/failures.md)。
 
 ## 侧室
 
