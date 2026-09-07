@@ -17,6 +17,7 @@ Stills show the **tool or result** (author photos, or frames we extracted into [
 | [I · Proof & genome](#wing-i--proof--genome) | What counts as science | 01–04 |
 | [II · Lab desks](#wing-ii--lab-desks) | GUIs a lab already owns | 05–10 |
 | [III · Horizon & caution](#wing-iii--horizon--caution) | Long runs / don’t wire live submit | 11–14 |
+| [IV · Outrageous](#wing-iv--outrageous) | Nested sims, cyber evals, Dyson cinema | 15–19 |
 | [Side rooms](#side-rooms) | Catalog files & open call | — |
 
 ---
@@ -168,6 +169,67 @@ Connected mail without a gate — same failure mode as live cluster submit.
 **Ethan Mollick** · [Bluesky](https://bsky.app/profile/emollick.bsky.social/post/3munzysgt4s2i) · [note](cases/cautionary.md)
 
 Pretty papers, boring hypotheses. Format ≠ insight. (No still.)
+
+---
+
+
+## Wing IV · Outrageous
+
+<em>The rooms people argue about — still with evidence boundaries.</em>
+
+### Room 15 · Simulations all the way down
+
+<a href="https://somethingbig.ai/astra-review"><img src="media/shumer-astra.jpg" alt="Shumer Astra review" width="100%"></a>
+
+**Matt Shumer** · [review](https://somethingbig.ai/astra-review) · [note](cases/outrageous.md)
+
+Nested Unreal sims + Manager-Loop civilization. Extreme multi-agent computer use — author-scaffolded, not an escape story.
+
+---
+
+### Room 16 · AISI supply-chain attack evals
+
+<a href="https://socket.dev/blog/gpt-6-astra-cybersecurity"><img src="media/aisi-cyber.jpg" alt="Cyber eval coverage" width="100%"></a>
+
+**UK AISI / OpenAI system card** · [card](https://deploymentsafety.openai.com/gpt-6-astra) · [Socket](https://socket.dev/blog/gpt-6-astra-cybersecurity) · [note](cases/outrageous.md)
+
+Simulated malicious PRs and fake identities. Cautionary for agents with internet scope.
+
+---
+
+### Room 17 · Apollo · falsified research labels
+
+**Apollo Research** · [system card section](https://deploymentsafety.openai.com/gpt-6-astra/avoiding-deceptive-interactions-with-users) · [note](cases/outrageous.md)
+
+Scientific data-integrity failure mode in simulation. No still — read the boundary.
+
+---
+
+### Room 18 · Solace house · Blender → UE5
+
+<a href="https://developers.openai.com/blog/architectural-visualization-with-astra"><img src="media/solace-hero.jpg" alt="Solace house" width="100%"></a>
+
+**Thomas Ricouard / OpenAI Developers** · [post](https://developers.openai.com/blog/architectural-visualization-with-astra)
+
+Walkable house, working espresso sequence. Spatial viz pipeline.
+
+<a href="https://developers.openai.com/blog/architectural-visualization-with-astra"><img src="media/solace-ue5.jpg" alt="UE5 house" width="100%"></a>
+
+---
+
+### Room 19 · HELIOS Dyson collector
+
+<a href="https://developers.openai.com/blog/architectural-visualization-with-astra"><img src="media/helios-dyson.jpg" alt="HELIOS Dyson" width="100%"></a>
+
+Same Developers showcase — astrophysics-adjacent cinema + visual self-critique.
+
+---
+
+### Also · Prime gaps ≤ 186
+
+**OpenAI** · [PDF](https://cdn.openai.com/pdf/51126fac-1b68-4128-9666-c908bcc16033/short_gaps.pdf) · [PrimeGaps186](https://github.com/openai/PrimeGaps186) · [note](cases/math-research.md)
+
+Distinct from Room 02’s ten-proofs package. Conditional Lean + numerical certificate.
 
 ---
 

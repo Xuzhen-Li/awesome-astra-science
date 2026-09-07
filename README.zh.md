@@ -17,6 +17,7 @@
 | [一厅 · 证明与基因组](#一厅--证明与基因组) | 什么算科学 | 01–04 |
 | [二厅 · 实验台](#二厅--实验台) | 实验室已有的 GUI | 05–10 |
 | [三厅 · 长程与警示](#三厅--长程与警示) | 连跑 / 别接活账号 | 11–14 |
+| [四厅 · 离谱](#四厅--离谱) | 嵌套模拟 / 评测攻击 / Dyson | 15–19 |
 
 ---
 
@@ -75,6 +76,28 @@
 ### 室 13 · 连着 Gmail 发了邮件
 
 见英文游廊 · [警示笔记](cases/cautionary.md)
+
+---
+
+## 四厅 · 离谱
+
+### 室 15 · 套娃模拟世界
+
+<img src="media/shumer-astra.jpg" alt="Shumer" width="100%">
+
+[somethingbig.ai](https://somethingbig.ai/astra-review)
+
+### 室 16 · AISI 供应链攻击评测
+
+<img src="media/aisi-cyber.jpg" alt="cyber" width="100%">
+
+### 室 18–19 · Solace 住宅 / HELIOS
+
+<img src="media/solace-hero.jpg" alt="Solace" width="100%">
+
+<img src="media/helios-dyson.jpg" alt="HELIOS" width="100%">
+
+详见 [英文四厅](README.md#wing-iv--outrageous) 与 [cases/outrageous.md](cases/outrageous.md)。
 
 ---
 
