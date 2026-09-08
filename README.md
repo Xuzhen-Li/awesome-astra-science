@@ -70,13 +70,6 @@ Astra-driven arch-viz pipeline: research / modeling in Blender through to Unreal
 
 Concept build in the same official arch-viz write-up (HELIOS / Dyson-style collector).
 
-### 8 · Ten Lean-certified math advances
-
-<a href="https://openai.com/index/ten-advances-in-mathematics/"><img src="media/openai-ten-math.jpg" alt="Ten advances in mathematics" width="100%"></a>
-
-**OpenAI** · [essay](https://openai.com/index/ten-advances-in-mathematics/) · [ten-proofs](https://github.com/openai/ten-proofs)
-
-Machine-checkable math / TCS advances OpenAI attributes to Astra (Lean-certified artifacts in the public repo).
 
 ---
 
@@ -86,6 +79,7 @@ Machine-checkable math / TCS advances OpenAI attributes to Astra (Lean-certified
 - Benchmark tables (GeneBench, OSWorld, EEBench, …) — scores, not projects  
 - Journalism / “reality check” rooms  
 - Wrong MultiQC attribution (never an Astra-built project; launch electronics desk is KiCad)
+- Ten Lean math essay (OpenAI text says **internal** Astra, not clearly public GPT-6 Astra builds)
 
 Broader Astra link dump: [helloianneo/awesome-gpt6-astra](https://github.com/helloianneo/awesome-gpt6-astra).
 

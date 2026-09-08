@@ -56,16 +56,11 @@
 
 同上官方建筑可视化文
 
-### 8 · 十项 Lean 数学进展
-
-<img src="media/openai-ten-math.jpg" alt="Ten advances" width="100%">
-
-[文章](https://openai.com/index/ten-advances-in-mathematics/) · [ten-proofs](https://github.com/openai/ten-proofs)
 
 ---
 
 ## 已排除
 
-第三方「我用 Astra」演示、各类榜、新闻翻车室、以及错安的 MultiQC。
+第三方演示、榜、新闻、错安 MultiQC、以及原文写「内部版 Astra」的十项 Lean 数学文。
 
 **整理：** [Xuzhen Li](https://github.com/Xuzhen-Li)
