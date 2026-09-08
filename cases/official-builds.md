@@ -10,3 +10,4 @@ Canonical list lives in the root README. Primary sources:
 | Unity city | https://openai.com/index/gpt-6-astra/ |
 | Solace / HELIOS | https://developers.openai.com/blog/architectural-visualization-with-astra |
 | Void Explorer ship / Sunwake | https://developers.openai.com/blog/how-to-build-games-with-astra |
+| Shipyard AURELION-07 | https://developers.openai.com/blog/architectural-visualization-with-astra |

@@ -70,6 +70,13 @@
 同上：Astra 做 Three.js 水面渲染，并在 Blender 里做船。
 
 
+### 10 · Shipyard · AURELION-07 巡洋舰
+
+<img src="media/aurelion-shipyard.jpg" alt="AURELION-07" width="100%">
+
+[建筑可视化文](https://developers.openai.com/blog/architectural-visualization-with-astra) — Astra 在 Blender 里建的巡洋舰。
+
+
 ---
 
 ## 已排除

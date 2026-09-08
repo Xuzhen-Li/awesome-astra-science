@@ -88,6 +88,15 @@ Astra builds an editable Blender ship (AURORA: 193 meshes → runtime asset) for
 Astra builds a custom Three.js water renderer and a Blender boat brought into Sunwake.
 
 
+### 10 · Shipyard · AURELION-07 cruiser
+
+<a href="https://developers.openai.com/blog/architectural-visualization-with-astra"><img src="media/aurelion-shipyard.jpg" alt="AURELION-07 cruiser in Blender" width="100%"></a>
+
+**OpenAI Developers** · [Architectural visualization with Astra](https://developers.openai.com/blog/architectural-visualization-with-astra)
+
+Astra builds AURELION-07 in Blender (Shipyard project): tapered hull, segmented ring, four drives — editable geometry/materials.
+
+
 ---
 
 ## Out of scope (removed)
