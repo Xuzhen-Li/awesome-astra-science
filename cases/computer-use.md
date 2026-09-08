@@ -37,5 +37,5 @@ See [classics.md](classics.md) — stroke-level desktop control.
 - **Original:** https://openai.com/index/gpt-6-astra/
 - **Date:** 2026-09-03
 - **What it is:** Pixel/UI targeting **92.7%** vs Sol **76.9%** — the click layer under lab/CAD GUIs.
-- **Why here:** Explains why KiCad/MultiQC/Notes demos look fluent.
+- **Why here:** Explains why KiCad/Notes-style computer-use demos look fluent.
 - **Evidence boundary:** No-tools UI bench; ≠ scientific correctness.

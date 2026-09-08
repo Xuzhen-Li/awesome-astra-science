@@ -27,19 +27,15 @@ Stills show the **tool or result** (author photos, or frames we extracted into [
 
 <em>Formal results and vendor computer-use desks — not “Astra did the science.”</em>
 
-### Room 01 · MultiQC sequencing QC
-
-<a href="https://openai.com/index/gpt-6-astra/"><img src="media/openai-multiqc.jpg" alt="MultiQC sequencing QC" width="100%"></a>
-
-**OpenAI** · 2026-09-03 · [launch](https://openai.com/index/gpt-6-astra/) · [note](cases/official-science.md)
-
-Official **computer-use demo**: Astra clicks through a local MultiQC report (FastQC / Samtools / Bcftools). This is UI navigation on vendor sample QC pages — **not** Astra running a genomics study or producing biological results.
-
-<a href="https://openai.com/index/gpt-6-astra/"><img src="media/openai-bcftools.jpg" alt="Bcftools substitutions" width="100%"></a>
+### Room 01 · Cell-tracking workflow (Jupyter)
 
 <a href="https://openai.com/index/gpt-6-astra/"><img src="media/jupyter-cell-tracking.jpg" alt="Jupyter cell tracking" width="100%"></a>
 
-**Also · Cell-tracking workflow** (same launch page, distinct tab) — official condensed demo: microscopy frames → tracks in JupyterLab. Vendor life-sciences **desk demo**, not a published cell-biology paper.
+**OpenAI** · 2026-09-03 · [launch](https://openai.com/index/gpt-6-astra/) (tab: Cell-tracking workflow) · [note](cases/official-science.md)
+
+Official condensed **computer-use** demo on the launch page: microscopy frames → labeled tracks in JupyterLab. Vendor desk demo — not a published cell-biology paper.
+
+**Removed:** earlier MultiQC / Bcftools stills were **wrongly attributed** — the launch page does not show MultiQC. Those frames are gone from the corridor.
 
 ---
 
@@ -636,7 +632,7 @@ Same professional table as BenchCAD’s 95.9%: broader design tasks **50.0%**. R
 
 | File | What’s inside |
 |------|----------------|
-| [cases/official-science.md](cases/official-science.md) | MultiQC + cell-tracking + FreeCAD |
+| [cases/official-science.md](cases/official-science.md) | Cell-tracking + FreeCAD (MultiQC removed) |
 | [cases/math-research.md](cases/math-research.md) | Lean proofs + prime gaps |
 | [cases/biology-teaching.md](cases/biology-teaching.md) | T-cell lecture |
 | [cases/classics.md](cases/classics.md) | Cross-links & extras |

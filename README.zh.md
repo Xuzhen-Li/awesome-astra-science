@@ -22,19 +22,13 @@
 
 ## 一厅 · 证明与官方工位
 
-### 室 01 · MultiQC 界面演示
-
-<img src="media/openai-multiqc.jpg" alt="MultiQC" width="100%">
-
-[OpenAI](https://openai.com/index/gpt-6-astra/) · 官方电脑操控：点开本地 MultiQC（FastQC / Samtools / Bcftools）。**界面导航，不是测序研究。**
-
-<img src="media/openai-bcftools.jpg" alt="Bcftools" width="100%">
-
-### 细胞追踪（附于室 01）
+### 室 01 · 细胞追踪（Jupyter）
 
 <img src="media/jupyter-cell-tracking.jpg" alt="cell tracking" width="100%">
 
-官方 Jupyter 显微追踪演示（另一页签）——厂商工位短片，不是已发表的细胞论文。
+[OpenAI](https://openai.com/index/gpt-6-astra/) · 发布页 **Cell-tracking workflow** 页签。官方电脑操控短片，不是已发表的细胞论文。
+
+**已撤：** 原先 MultiQC / Bcftools 静帧属**错安**——发布页上没有 MultiQC，已从游廊删除。
 
 ### 室 02 · Ten Lean 数学 / TCS
 

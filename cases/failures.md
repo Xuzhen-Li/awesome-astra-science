@@ -121,7 +121,7 @@ Room 25 is a **success with a ceiling**: default protocol Astra solved **2/68**.
 - **Original:** https://openai.com/index/gpt-6-astra/ (GeneBench Pro row)
 - **Date:** 2026-09-03 (table may drift — Room 28 discipline)
 - **What it is:** Live launch table: Astra **37.1%** vs Sol **32.3%** on GeneBench Pro v13. Still fails ~6/10 multi-stage genomics / statistical-reasoning agent workflows. Claude rows omitted (refuse majority).
-- **Why here:** Official agent-benchmark reliability on staged genomics *tasks* — not “Astra did genomics.” Distinct from the MultiQC UI still.
+- **Why here:** Official agent-benchmark reliability on staged genomics *tasks* — not “Astra did genomics.”
 - **Evidence boundary:** Vendor-built / vendor-scored; early secondary writeups quoted slightly different % — cite the live table. Gain vs Sol is real; absolute level is the disappointment.
 
 ## `max_tokens` silently ignored (~58×)
