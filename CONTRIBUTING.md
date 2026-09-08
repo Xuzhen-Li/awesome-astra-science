@@ -1,23 +1,12 @@
 # Contributing
 
-## Scope
+This repo lists **only projects GPT-6 Astra produced** in official OpenAI materials (launch page or OpenAI blogs/repos with a clear artifact).
 
-Cases where GPT-6 Astra (or clear Astra computer-use / tool-use) does something a **scientist, bioinformatician, or lab engineer** would recognize as relevant:
+Do **not** PR:
 
-- Desktop tool use (KiCad, RStudio, IGV, ImageJ, Excel/Sheets QC, LIMS-like chores)
-- Long-horizon computer use with measurable outcomes
-- Research workflows (assumption-challenging, literature → notebook, figure repair)
-- Cautionary connected-tool stories
+- Third-party social demos (“I used Astra…”)
+- Benchmark score rows without a built artifact
+- News / commentary rooms
+- Tools Astra merely opened (e.g. MultiQC) — that is not an Astra-built project
 
-Games and pure entertainment 3D demos belong in [awesome-gpt6-astra](https://github.com/helloianneo/awesome-gpt6-astra), not here — unless you argue a clear methods transfer in the PR.
-
-## Add a case
-
-1. Prefer a short PR that adds one bullet to the right file under `cases/` using [templates/CASE.md](templates/CASE.md).
-2. Required: author credit, original URL, date, one-sentence evidence boundary.
-3. Do not paste unpublished data, private genotype files, or paywalled full texts.
-4. English for public files. Optional Chinese note in the PR body is fine.
-
-## Classics
-
-Re-listing a case already in awesome-gpt6-astra is OK if you keep author + original link primary and add a science/bioinfo “why here” line.
+PRs need: official URL, still of the artifact, one-line what Astra built.
