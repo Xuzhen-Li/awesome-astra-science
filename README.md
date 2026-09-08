@@ -463,9 +463,9 @@ OpenAI’s own **agent benchmark** score (GeneBench Pro): Astra **37.1%** vs Sol
 
 ### Room 40 · HLE w/ tools trails Fable
 
-<a href="https://www.vellum.ai/blog/gpt-6-astra-benchmarks-explained"><img src="media/vellum-bench.jpg" alt="HLE" width="100%"></a>
+<a href="https://openai.com/index/gpt-6-astra/"><img src="media/vellum-bench.jpg" alt="HLE" width="100%"></a>
 
-**OpenAI table / Vellum** · [launch](https://openai.com/index/gpt-6-astra/) · [note](cases/failures.md)
+**OpenAI** · [launch table](https://openai.com/index/gpt-6-astra/) · [note](cases/failures.md)
 
 Astra **57.2%** vs Fable **65.0%** on Humanity’s Last Exam (w/ tools) — the academic row the prose skips.
 
@@ -491,9 +491,9 @@ LifeSciBench **60.3 vs 59.9**. MedChemBench **49.3%** — half still wrong. Thin
 
 ### Room 45 · AutomationBench 41%
 
-<a href="https://www.vellum.ai/blog/gpt-6-astra-benchmarks-explained"><img src="media/automation-thin.jpg" alt="AutomationBench" width="100%"></a>
+<a href="https://openai.com/index/gpt-6-astra/"><img src="media/automation-thin.jpg" alt="AutomationBench" width="100%"></a>
 
-**OpenAI / Vellum** · [explainer](https://www.vellum.ai/blog/gpt-6-astra-benchmarks-explained) · [note](cases/failures.md)
+**OpenAI** · [launch table](https://openai.com/index/gpt-6-astra/) · [note](cases/failures.md)
 
 Best published **41.4%** — real gain over Sol, still fails most delegated desk tasks.
 
