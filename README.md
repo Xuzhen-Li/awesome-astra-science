@@ -202,7 +202,7 @@ Vision→CAD code geometric overlap **95.9%**. Strong reconstruction win — pai
 
 **atopile EEBench** · [board](https://eebench.org/) · [blog](https://eebench.org/blog/can-ai-design-circuit-boards-yet/) · [note](cases/lab-tooling.md)
 
-Independent SPICE-graded circuits — Astra **69.3%** tops Opus/Sol. Measured EE, not just KiCad clicks. See Room 58 for the ceiling.
+Independent SPICE-graded circuits — Astra **69.3%** in [`leaderboard-data.js`](https://eebench.org/src/leaderboard-data.js) (blog once said no Astra result yet; trust the live board). Measured EE, not just KiCad clicks. See Room 58 for the ceiling.
 
 ---
 
@@ -357,16 +357,6 @@ Preparedness Critical designation — ceiling, not a how-to.
 
 ---
 
-### Room 24 · One prompt → YouTube
-
-<a href="https://www.mindstudio.ai/blog/gpt-6-astra-video-editing-agent"><img src="media/nate-youtube.jpg" alt="YouTube pipeline" width="100%"></a>
-
-**Nate Herk / MindStudio** · [writeup](https://www.mindstudio.ai/blog/gpt-6-astra-video-editing-agent)
-
-Research→edit produce loop (~50 min, author-reported).
-
----
-
 ### Also · Prime gaps ≤ 186
 
 **OpenAI** · [PDF](https://cdn.openai.com/pdf/51126fac-1b68-4128-9666-c908bcc16033/short_gaps.pdf) · [PrimeGaps186](https://github.com/openai/PrimeGaps186) · [note](cases/math-research.md)
@@ -465,7 +455,7 @@ Sphere packing / soficity results accused of missing recent citations. Lean chec
 
 <a href="https://openai.com/index/gpt-6-astra/"><img src="media/genebench-pro.jpg" alt="GeneBench Pro" width="100%"></a>
 
-**OpenAI** · [launch table](https://openai.com/index/gpt-6-astra/) · [GeneBench intro](https://openai.com/index/introducing-genebench-pro/) · [note](cases/failures.md)
+**OpenAI** · [launch table](https://openai.com/index/gpt-6-astra/) · [note](cases/failures.md)
 
 OpenAI’s own **agent benchmark** score (GeneBench Pro): Astra **37.1%** vs Sol **32.3%**. A reliability number on staged genomics *tasks* — not evidence Astra completed real genomics research.
 
@@ -478,26 +468,6 @@ OpenAI’s own **agent benchmark** score (GeneBench Pro): Astra **37.1%** vs Sol
 **OpenAI table / Vellum** · [launch](https://openai.com/index/gpt-6-astra/) · [note](cases/failures.md)
 
 Astra **57.2%** vs Fable **65.0%** on Humanity’s Last Exam (w/ tools) — the academic row the prose skips.
-
----
-
-### Room 41 · Prompt injection still ~1/12
-
-<a href="https://the-decoder.com/openais-gpt-6-astra-hallucinates-less-but-remains-vulnerable-to-hidden-prompt-injections/"><img src="media/ipi-injection.jpg" alt="IPI" width="100%"></a>
-
-**Gray Swan / system card** · [Decoder](https://the-decoder.com/openais-gpt-6-astra-hallucinates-less-but-remains-vulnerable-to-hidden-prompt-injections/) · [note](cases/failures.md)
-
-8.5% IPI success (better than Sol’s 27%). Untrusted PDFs and repos still bite.
-
----
-
-### Room 42 · Puzzle insertion 2/20
-
-<a href="https://openai.robocurve.org/gpt-6-astra/"><img src="media/robocurve-puzzle.jpg" alt="Robocurve" width="100%"></a>
-
-**Robocurve** · [page](https://openai.robocurve.org/gpt-6-astra/) · [note](cases/failures.md)
-
-Bowl 19/20; groove insertion **2/20**. Fine manipulation ceiling under CU.
 
 ---
 
@@ -529,14 +499,6 @@ Best published **41.4%** — real gain over Sol, still fails most delegated desk
 
 ---
 
-### Room 46 · Coding crown contested
-
-**OpenAI vs Meta / AA** · [Vellum](https://www.vellum.ai/blog/gpt-6-astra-benchmarks-explained) · [note](cases/failures.md)
-
-DeepSWE / FrontierCode / AA Coding Index don’t crown one king. “Best for software engineering” is a sentence, not a consensus.
-
----
-
 ### Room 47 · Internal data science 40.9%
 
 **OpenAI** · [launch](https://openai.com/index/gpt-6-astra/) · [note](cases/failures.md)
@@ -552,16 +514,6 @@ End-to-end data-science tasks **40.9%**. Under half — don’t hand off the not
 **Artificial Analysis** · [article](https://artificialanalysis.ai/articles/benchmarking-gpt-6-astra) · [note](cases/failures.md)
 
 92% → **51%** hallucination at max. Better than Sol; still invents half the time it answers wrong. Not Room 29’s Index.
-
----
-
-### Room 49 · 272K context trapdoor
-
-<a href="https://www.cloudzero.com/blog/gpt-6-pricing/"><img src="media/context-272k.jpg" alt="272K" width="100%"></a>
-
-**CloudZero / OpenAI pricing** · [CloudZero](https://www.cloudzero.com/blog/gpt-6-pricing/) · [note](cases/failures.md)
-
-1M window marketed; **>272K input reprices the whole request**. Paper dumps and agent loops fall through.
 
 ---
 
