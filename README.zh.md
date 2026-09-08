@@ -28,7 +28,11 @@
 
 [OpenAI](https://openai.com/index/gpt-6-astra/) · 发布页 **Cell-tracking workflow** 页签。官方电脑操控短片，不是已发表的细胞论文。
 
-**已撤：** 原先 MultiQC / Bcftools 静帧属**错安**——发布页上没有 MultiQC，已从游廊删除。
+### 附 · 官方 KiCad 电路板（`chip_design`）
+
+<img src="media/openai-kicad.jpg" alt="KiCad PCB" width="100%">
+
+发布页电子工位：KiCad 原理图 → 可制造 PCB（2D + 3D）。**不是** MultiQC；先前错安已删。
 
 ### 室 02 · Ten Lean 数学 / TCS
 

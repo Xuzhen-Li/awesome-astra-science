@@ -2,6 +2,17 @@
 
 Company demonstrations from the [GPT-6 Astra launch post](https://openai.com/index/gpt-6-astra/). Demonstration environment — not an independent user reproduction log.
 
+## KiCad PCB layout (official `chip_design`)
+
+<a href="https://openai.com/index/gpt-6-astra/"><img src="../media/openai-kicad.jpg" alt="Official KiCad PCB" width="100%"></a>
+
+- **Author:** OpenAI
+- **Original:** https://openai.com/index/gpt-6-astra/ · video `chip_design_no_captions_15s.mp4`
+- **Still:** Mid-demo frame — 2D KiCad layout + 3D board view.
+- **What it is:** Computer-use: electronic schematic → component placement / routing toward a manufacturable PCB.
+- **Why here:** Real launch-page electronics desk. **Not** MultiQC or sequencing QC (that mis-entry was removed).
+- **Evidence boundary:** Official condensed demo.
+
 ## Cell-tracking workflow (Jupyter)
 
 <a href="https://openai.com/index/gpt-6-astra/"><img src="../media/jupyter-cell-tracking.jpg" alt="Jupyter cell tracking" width="100%"></a>

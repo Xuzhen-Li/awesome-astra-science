@@ -35,7 +35,13 @@ Stills show the **tool or result** (author photos, or frames we extracted into [
 
 Official condensed **computer-use** demo on the launch page: microscopy frames → labeled tracks in JupyterLab. Vendor desk demo — not a published cell-biology paper.
 
-**Removed:** earlier MultiQC / Bcftools stills were **wrongly attributed** — the launch page does not show MultiQC. Those frames are gone from the corridor.
+### Also · Official KiCad PCB (`chip_design`)
+
+<a href="https://openai.com/index/gpt-6-astra/"><img src="media/openai-kicad.jpg" alt="Official KiCad PCB computer-use" width="100%"></a>
+
+**OpenAI** · [launch](https://openai.com/index/gpt-6-astra/) · video asset `chip_design_no_captions_15s.mp4`
+
+This is the launch-page electronics desk: schematic → manufacturable PCB in **KiCad** (2D layout + 3D board). **Not** MultiQC / sequencing QC — an earlier gallery entry confused the two and has been deleted.
 
 ---
 
@@ -445,16 +451,6 @@ Own words: harder to monitor than Sol; covert sandbagging “likely” uncaught.
 
 ---
 
-### Room 34 · “AGI era” vs missing GDPval
-
-<a href="https://www.techtimes.com/articles/326589/20260904/gpt-6-astra-goes-live-agi-claim-fails-openai-own-bar-monitoring-called-fragile.htm"><img src="media/agi-claim.jpg" alt="AGI claim" width="100%"></a>
-
-**TechTimes / ARC / TNW** · [piece](https://www.techtimes.com/articles/326589/20260904/gpt-6-astra-goes-live-agi-claim-fails-openai-own-bar-monitoring-called-fragile.htm) · [note](cases/failures.md)
-
-Charter bar is economic work; launch led with Adapter ARC. GDPval not in launch materials; AA GDPval-AA regresses.
-
----
-
 ### Room 35 · Ten-proofs citation fight
 
 <a href="https://www.scientificamerican.com/article/openais-latest-math-breakthroughs-commit-research-misconduct-experts-say/"><img src="media/ten-proofs-citation.jpg" alt="Citation controversy" width="100%"></a>
@@ -472,32 +468,6 @@ Sphere packing / soficity results accused of missing recent citations. Lean chec
 **OpenAI** · [launch table](https://openai.com/index/gpt-6-astra/) · [GeneBench intro](https://openai.com/index/introducing-genebench-pro/) · [note](cases/failures.md)
 
 OpenAI’s own **agent benchmark** score (GeneBench Pro): Astra **37.1%** vs Sol **32.3%**. A reliability number on staged genomics *tasks* — not evidence Astra completed real genomics research.
-
----
-
-### Room 37 · `max_tokens` does nothing
-
-<a href="https://ofox.ai/blog/gpt-6-astra-api-error-model-not-found-fix-2026/"><img src="media/max-tokens-trap.jpg" alt="max_tokens trap" width="100%"></a>
-
-**Ofox** · [post](https://ofox.ai/blog/gpt-6-astra-api-error-model-not-found-fix-2026/) · [note](cases/failures.md)
-
-Ask for 50 tokens, get ~2.9k, `finish_reason: stop`. Sol clamps. Spend guards that trust the param are lying.
-
----
-
-### Room 38 · Robot arm wrong physics (HN)
-
-**SillyUsername** · [HN](https://news.ycombinator.com/item?id=49583417) · [note](cases/failures.md)
-
-Servo directions / gripper extents wrong; quota burned; back to Sol. Fluent code ≠ instrument model.
-
----
-
-### Room 39 · TDD doom loop
-
-**enraged_camel** · [HN](https://news.ycombinator.com/item?id=49583471) · [note](cases/failures.md)
-
-Deleted working code, wrote ~8,500 LoC of unit tests. Ritual > result.
 
 ---
 
@@ -632,7 +602,7 @@ Same professional table as BenchCAD’s 95.9%: broader design tasks **50.0%**. R
 
 | File | What’s inside |
 |------|----------------|
-| [cases/official-science.md](cases/official-science.md) | Cell-tracking + FreeCAD (MultiQC removed) |
+| [cases/official-science.md](cases/official-science.md) | Cell-tracking + official KiCad + FreeCAD |
 | [cases/math-research.md](cases/math-research.md) | Lean proofs + prime gaps |
 | [cases/biology-teaching.md](cases/biology-teaching.md) | T-cell lecture |
 | [cases/classics.md](cases/classics.md) | Cross-links & extras |
