@@ -17,7 +17,7 @@ Cases that keep the corridor honest. Gains can be real **and** the launch number
 
 <a href="https://fortune.com/2026/09/04/openai-quietly-boosts-some-of-astras-evaluation-metrics-amid-rare-delay-in-publication-of-the-modeblog-post-announcement/"><img src="../media/bench-numbers-moved.jpg" alt="Benchmark revisions after launch" width="100%"></a>
 
-- **Author:** Startup Fortune / Emily Forlini reporting · also [TNW](https://thenextweb.com/news/openai-astra-arc-agi-3-harness-62-7-vs-99-9-benchmark-revisions)
+- **Author:** Fortune / Emily Forlini reporting · also [TNW](https://thenextweb.com/news/openai-astra-arc-agi-3-harness-62-7-vs-99-9-benchmark-revisions)
 - **Original:** https://fortune.com/2026/09/04/openai-quietly-boosts-some-of-astras-evaluation-metrics-amid-rare-delay-in-publication-of-the-modeblog-post-announcement/
 - **Date:** ~2026-09-04–05
 - **What it is:** Archived snapshots of the launch post show metrics edited after publish (e.g. hallucination rate 4.2% → 2% → back; Sol ExploitBench 5.5% → 11.5% on a non-commercial reasoning tier; embargo draft ARC 98.6% vs live 99.99%).
@@ -121,7 +121,7 @@ Room 25 is a **success with a ceiling**: default protocol Astra solved **2/68**.
 - **Original:** https://openai.com/index/gpt-6-astra/ (GeneBench Pro row)
 - **Date:** 2026-09-03 (table may drift — Room 28 discipline)
 - **What it is:** Live launch table: Astra **37.1%** vs Sol **32.3%** on GeneBench Pro v13. Still fails ~6/10 multi-stage genomics / statistical-reasoning agent workflows. Claude rows omitted (refuse majority).
-- **Why here:** Closest official number to “bioinfo desk reliability,” not the MultiQC still.
+- **Why here:** Official agent-benchmark reliability on staged genomics *tasks* — not “Astra did genomics.” Distinct from the MultiQC UI still.
 - **Evidence boundary:** Vendor-built / vendor-scored; early secondary writeups quoted slightly different % — cite the live table. Gain vs Sol is real; absolute level is the disappointment.
 
 ## `max_tokens` silently ignored (~58×)

@@ -11,7 +11,7 @@ Company demonstrations from the [GPT-6 Astra launch post](https://openai.com/ind
 - **Date:** 2026-09-03
 - **Still:** Frame from the official demo video (hosted in `media/`), showing a local MultiQC v1.18 report with Samtools / FastQC / Bcftools sections and substitution chart.
 - **What it is:** Astra navigates scientific software to inspect sequencing QC and genetic-variation summaries.
-- **Why here:** Clearest public **genomics / bioinfo GUI** still tied to Astra — MultiQC is everyday lab tooling.
+- **Why here:** Clearest public **lab-GUI computer-use** still tied to Astra. MultiQC is everyday tooling; the demo is navigation, not a genomics paper.
 - **Evidence boundary:** Official condensed playback. Toy/demo paths (`127.0.0.1`, `/workspace/base/output`); not a claim about clinical interpretation.
 
 <a href="https://openai.com/index/gpt-6-astra/"><img src="../media/openai-bcftools.jpg" alt="Bcftools substitutions in MultiQC" width="100%"></a>
@@ -27,7 +27,7 @@ Second frame: Bcftools Stats substitutions for `variants.filtered`.
 - **Date:** 2026-09-03
 - **Still:** Mid-demo JupyterLab frame — raw vs labeled masks, lineage export (`track_cells.py`, 36 tracks / division event).
 - **What it is:** Builds & runs a cell-tracking workflow: microscopy frames → instance masks → tracks + lineage.
-- **Why here:** Direct live-cell image analysis desk (napari / TrackAstra-class), distinct from MultiQC sequencing QC.
+- **Why here:** Official condensed live-cell image desk demo, distinct from MultiQC. Vendor video, not a published tracking study.
 - **Evidence boundary:** Official condensed demo; not an independent lab reproduction.
 
 ## FreeCAD five-speed transmission

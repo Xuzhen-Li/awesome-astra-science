@@ -4,7 +4,7 @@
 
 [中文游廊](README.zh.md) · English promenade
 
-A **gallery corridor** of GPT-6 Astra cases for scientists, bioinformaticians, and lab engineers — walk wing by wing, one room / one still.
+A **gallery corridor** of GPT-6 Astra cases relevant to science and lab tooling — walk wing by wing, one room / one still. Stills and scores are demos/benchmarks unless a case says otherwise; **Astra did not author the underlying science.**
 
 Stills show the **tool or result** (author photos, or frames we extracted into [`media/`](media/)). Copyright stays with authors. Broad Astra catalog: [helloianneo/awesome-gpt6-astra](https://github.com/helloianneo/awesome-gpt6-astra).
 
@@ -14,7 +14,7 @@ Stills show the **tool or result** (author photos, or frames we extracted into [
 
 | Wing | Mood | Rooms |
 |------|------|-------|
-| [I · Proof & genome](#wing-i--proof--genome) | What counts as science | 01–04 · 25 |
+| [I · Proof & official desks](#wing-i--proof--official-desks) | What counts as science | 01–04 · 25 |
 | [II · Lab desks](#wing-ii--lab-desks) | GUIs a lab already owns | 05–10 · 26 · 52–54 · 56–57|
 | [III · Horizon & caution](#wing-iii--horizon--caution) | Long runs / don’t wire live submit | 11–14 |
 | [IV · Outrageous](#wing-iv--outrageous) | Nested sims, cyber, city, Canva, Path | 15–24 |
@@ -23,9 +23,9 @@ Stills show the **tool or result** (author photos, or frames we extracted into [
 
 ---
 
-## Wing I · Proof & genome
+## Wing I · Proof & official desks
 
-<em>Formal results and the rare public genomics GUI.</em>
+<em>Formal results and vendor computer-use desks — not “Astra did the science.”</em>
 
 ### Room 01 · MultiQC sequencing QC
 
@@ -33,13 +33,13 @@ Stills show the **tool or result** (author photos, or frames we extracted into [
 
 **OpenAI** · 2026-09-03 · [launch](https://openai.com/index/gpt-6-astra/) · [note](cases/official-science.md)
 
-Astra navigates a local MultiQC report — FastQC, Samtools, Bcftools. Clearest public **genomics desk** still.
+Official **computer-use demo**: Astra clicks through a local MultiQC report (FastQC / Samtools / Bcftools). This is UI navigation on vendor sample QC pages — **not** Astra running a genomics study or producing biological results.
 
 <a href="https://openai.com/index/gpt-6-astra/"><img src="media/openai-bcftools.jpg" alt="Bcftools substitutions" width="100%"></a>
 
 <a href="https://openai.com/index/gpt-6-astra/"><img src="media/jupyter-cell-tracking.jpg" alt="Jupyter cell tracking" width="100%"></a>
 
-**Also · Cell-tracking workflow** (same launch page, distinct tab) — raw microscopy → labeled tracks + lineage in JupyterLab. Official life-sciences desk, not MultiQC.
+**Also · Cell-tracking workflow** (same launch page, distinct tab) — official condensed demo: microscopy frames → tracks in JupyterLab. Vendor life-sciences **desk demo**, not a published cell-biology paper.
 
 ---
 
@@ -392,7 +392,7 @@ Standard harness **62.7%** · Provider Adapter **99.9%**. Same weights. ARC Priz
 
 <a href="https://fortune.com/2026/09/04/openai-quietly-boosts-some-of-astras-evaluation-metrics-amid-rare-delay-in-publication-of-the-modeblog-post-announcement/"><img src="media/bench-numbers-moved.jpg" alt="Scores revised after launch" width="100%"></a>
 
-**Startup Fortune / TNW** · [Fortune](https://fortune.com/2026/09/04/openai-quietly-boosts-some-of-astras-evaluation-metrics-amid-rare-delay-in-publication-of-the-modeblog-post-announcement/) · [note](cases/failures.md)
+**Fortune / TNW** · [Fortune](https://fortune.com/2026/09/04/openai-quietly-boosts-some-of-astras-evaluation-metrics-amid-rare-delay-in-publication-of-the-modeblog-post-announcement/) · [note](cases/failures.md)
 
 Archived launch-post snapshots: hallucination % flipped, Sol ExploitBench jumped on a non-commercial tier. Ask what changed.
 
@@ -475,7 +475,7 @@ Sphere packing / soficity results accused of missing recent citations. Lean chec
 
 **OpenAI** · [launch table](https://openai.com/index/gpt-6-astra/) · [GeneBench intro](https://openai.com/index/introducing-genebench-pro/) · [note](cases/failures.md)
 
-Astra **37.1%** vs Sol **32.3%** — still fails most multi-stage genomics agent workflows. Closest official bioinfo reliability number.
+OpenAI’s own **agent benchmark** score (GeneBench Pro): Astra **37.1%** vs Sol **32.3%**. A reliability number on staged genomics *tasks* — not evidence Astra completed real genomics research.
 
 ---
 
@@ -644,7 +644,7 @@ Same professional table as BenchCAD’s 95.9%: broader design tasks **50.0%**. R
 | [cases/computer-use.md](cases/computer-use.md) | Long-horizon CU |
 | [cases/research-workflows.md](cases/research-workflows.md) | Research loops |
 | [cases/cautionary.md](cases/cautionary.md) | Connected-tool failures |
-| [cases/bioinfo-wanted.md](cases/bioinfo-wanted.md) | Open call: IGV / Scanpy / public FASTQ |
+| [cases/bioinfo-wanted.md](cases/bioinfo-wanted.md) | Scarcity note (no Vitis / private-lab wishlist) |
 
 Text-only alcoves: [George Pickett](https://x.com/georgepickett/status/2095979879137460640) · [Greg Isenberg](https://x.com/gregisenberg/status/2095854071580156338) · [dotey](https://x.com/dotey/status/2096051842174087386)
 

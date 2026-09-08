@@ -4,9 +4,7 @@
 
 [English promenade](README.md) · 中文游廊
 
-面向科研 / 生信 / 实验室工程的 **GPT-6 Astra 游廊**——按厅走动，一室一图。
-
-预览图只收能看清工具或结果的帧；版权归原作者。完整图文仍以英文游廊为准，本页是导览图。
+面向科研与实验室工具的 **GPT-6 Astra 游廊**——按厅走动，一室一图。静帧与分数默认是演示 / 榜，**不是 Astra 写出了那门科学**；完整图文以英文游廊为准。
 
 ---
 
@@ -14,7 +12,7 @@
 
 | 厅 | 气质 | 室 |
 |----|------|----|
-| [一厅 · 证明与基因组](#一厅--证明与基因组) | 什么算科学 | 01–04 · 25 |
+| [一厅 · 证明与官方工位](#一厅--证明与官方工位) | 正式结果 / 官方工位（≠做出科学） | 01–04 · 25 |
 | [二厅 · 实验台](#二厅--实验台) | 实验室已有的 GUI | 05–10 · 26 · 52–57|
 | [三厅 · 长程与警示](#三厅--长程与警示) | 连跑 / 别接活账号 | 11–14 |
 | [四厅 · 离谱](#四厅--离谱) | 嵌套模拟 / 评测攻击 / Dyson | 15–24 |
@@ -22,13 +20,13 @@
 
 ---
 
-## 一厅 · 证明与基因组
+## 一厅 · 证明与官方工位
 
-### 室 01 · MultiQC 测序质控
+### 室 01 · MultiQC 界面演示
 
 <img src="media/openai-multiqc.jpg" alt="MultiQC" width="100%">
 
-[OpenAI](https://openai.com/index/gpt-6-astra/)
+[OpenAI](https://openai.com/index/gpt-6-astra/) · 官方电脑操控：点开本地 MultiQC（FastQC / Samtools / Bcftools）。**界面导航，不是测序研究。**
 
 <img src="media/openai-bcftools.jpg" alt="Bcftools" width="100%">
 
@@ -36,7 +34,7 @@
 
 <img src="media/jupyter-cell-tracking.jpg" alt="cell tracking" width="100%">
 
-官方 Jupyter 显微追踪，与 MultiQC 不同页签。
+官方 Jupyter 显微追踪演示（另一页签）——厂商工位短片，不是已发表的细胞论文。
 
 ### 室 02 · Ten Lean 数学 / TCS
 
@@ -173,7 +171,7 @@ Lean 过了 ≠ 文献规范过了。[SciAm](https://www.scientificamerican.com/
 
 <img src="media/genebench-pro.jpg" alt="GeneBench" width="100%">
 
-官方基因组代理榜 **~37%**；`max_tokens` 可被静默忽略；细操作拼图 2/20。
+官方 GeneBench 代理任务榜 **~37%**（不是 Astra 做出了基因组研究）；`max_tokens` 可被静默忽略；细操作拼图 2/20。
 
 ### 室 43–46 · TB-Science 脚手架差 / 薄增益 / Automation 41% / 编程王冠争议
 
@@ -189,6 +187,6 @@ Lean 过了 ≠ 文献规范过了。[SciAm](https://www.scientificamerican.com/
 
 ## 侧室
 
-分类文件与 **生信征集**（IGV / Scanpy / 公共 FASTQ）见 [cases/](cases/) 与英文 [Side rooms](README.md#side-rooms)。
+分类文件与 **生信缺口说明**（IGV / Scanpy / 公共 FASTQ）见 [cases/](cases/) 与英文 [Side rooms](README.md#side-rooms)。
 
 维护：[Xuzhen Li](https://github.com/Xuzhen-Li)
