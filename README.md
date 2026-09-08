@@ -71,6 +71,23 @@ Astra-driven arch-viz pipeline: research / modeling in Blender through to Unreal
 Concept build in the same official arch-viz write-up (HELIOS / Dyson-style collector).
 
 
+### 8 · Void Explorer ship (Blender)
+
+<a href="https://developers.openai.com/blog/how-to-build-games-with-astra"><img src="media/void-explorer-ship.jpg" alt="AURORA ship modeled in Blender" width="100%"></a>
+
+**OpenAI Developers** · [Building games with Astra](https://developers.openai.com/blog/how-to-build-games-with-astra)
+
+Astra builds an editable Blender ship (AURORA: 193 meshes → runtime asset) for the Void Explorer game.
+
+### 9 · Sunwake ocean + boat
+
+<a href="https://developers.openai.com/blog/how-to-build-games-with-astra"><img src="media/sunwake-water.jpg" alt="Sunwake procedural ocean and boat" width="100%"></a>
+
+**OpenAI Developers** · same [games](https://developers.openai.com/blog/how-to-build-games-with-astra) post
+
+Astra builds a custom Three.js water renderer and a Blender boat brought into Sunwake.
+
+
 ---
 
 ## Out of scope (removed)

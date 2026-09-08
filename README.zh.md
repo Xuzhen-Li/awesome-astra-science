@@ -57,6 +57,19 @@
 同上官方建筑可视化文
 
 
+### 8 · Void Explorer 飞船（Blender）
+
+<img src="media/void-explorer-ship.jpg" alt="飞船" width="100%">
+
+[Building games with Astra](https://developers.openai.com/blog/how-to-build-games-with-astra) — Astra 在 Blender 里建模 AURORA 飞船。
+
+### 9 · Sunwake 海面与船
+
+<img src="media/sunwake-water.jpg" alt="Sunwake" width="100%">
+
+同上：Astra 做 Three.js 水面渲染，并在 Blender 里做船。
+
+
 ---
 
 ## 已排除
