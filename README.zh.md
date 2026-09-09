@@ -77,6 +77,19 @@
 [建筑可视化文](https://developers.openai.com/blog/architectural-visualization-with-astra) — Astra 在 Blender 里建的巡洋舰。
 
 
+### 11 · Hollowflux 水系 RPG
+
+<img src="media/hollowflux-water.jpg" alt="Hollowflux" width="100%">
+
+[games 文](https://developers.openai.com/blog/how-to-build-games-with-astra) — Astra 迭代代码绘制的地下河流关卡。
+
+### 12 · Giverny 水上花园
+
+<img src="media/giverny-garden.jpg" alt="Giverny" width="100%">
+
+[建筑可视化文](https://developers.openai.com/blog/architectural-visualization-with-astra) — Astra 建的莫奈花园场景。
+
+
 ---
 
 ## 已排除

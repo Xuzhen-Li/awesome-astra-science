@@ -97,6 +97,23 @@ Astra builds a custom Three.js water renderer and a Blender boat brought into Su
 Astra builds AURELION-07 in Blender (Shipyard project): tapered hull, segmented ring, four drives — editable geometry/materials.
 
 
+### 11 · Hollowflux water RPG
+
+<a href="https://developers.openai.com/blog/how-to-build-games-with-astra"><img src="media/hollowflux-water.jpg" alt="Hollowflux glowing river" width="100%"></a>
+
+**OpenAI Developers** · [Building games with Astra](https://developers.openai.com/blog/how-to-build-games-with-astra)
+
+Astra iterates a code-drawn 2D action RPG around a simulated underground river (water grid, currents, combat coupling).
+
+### 12 · Giverny water garden
+
+<a href="https://developers.openai.com/blog/architectural-visualization-with-astra"><img src="media/giverny-garden.jpg" alt="Monet-inspired Giverny garden" width="100%"></a>
+
+**OpenAI Developers** · [Architectural visualization with Astra](https://developers.openai.com/blog/architectural-visualization-with-astra)
+
+Astra builds a Monet/Giverny-inspired garden scene (lily pond, bridge, planting) in the same official arch-viz write-up.
+
+
 ---
 
 ## Out of scope (removed)

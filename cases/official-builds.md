@@ -11,3 +11,4 @@ Canonical list lives in the root README. Primary sources:
 | Solace / HELIOS | https://developers.openai.com/blog/architectural-visualization-with-astra |
 | Void Explorer ship / Sunwake | https://developers.openai.com/blog/how-to-build-games-with-astra |
 | Shipyard AURELION-07 | https://developers.openai.com/blog/architectural-visualization-with-astra |
+| Hollowflux / Giverny garden | official games + arch-viz blogs |
