@@ -1,44 +1,59 @@
-name: New case
-description: Suggest a science / bioinfo / lab Astra case
-title: "[case] "
+name: New work
+description: Suggest a work an AI model actually produced (demo, figure, 3D scene, game, …)
+title: "[work] "
 labels: ["case"]
 body:
   - type: input
     id: url
     attributes:
-      label: Original URL
-      placeholder: https://x.com/... or https://...
+      label: Primary source URL
+      description: Official page, paper, or repo where the model produced the work. No third-party social demos.
+      placeholder: https://...
+    validations:
+      required: true
+  - type: input
+    id: model
+    attributes:
+      label: Model (maker)
+      placeholder: e.g. GPT-6 Astra (OpenAI)
     validations:
       required: true
   - type: input
     id: author
     attributes:
-      label: Author credit
+      label: Publisher / author credit
     validations:
       required: true
   - type: dropdown
-    id: category
+    id: kind
     attributes:
-      label: Category
+      label: Kind of work
       options:
-        - lab-tooling
-        - computer-use
-        - research-workflow
-        - cautionary
-        - classic
-        - bioinfo
+        - demo
+        - figure
+        - 3D scene
+        - game
+        - other
     validations:
       required: true
   - type: textarea
-    id: why
+    id: prompt
     attributes:
-      label: Why a scientist / bioinformatician should care
+      label: Published prompt or brief
+      description: Quote or link it only if the source published one. Leave empty otherwise.
+    validations:
+      required: false
+  - type: textarea
+    id: what
+    attributes:
+      label: What the model produced
+      description: One or two lines. No metrics or claims beyond the source.
     validations:
       required: true
   - type: textarea
     id: boundary
     attributes:
       label: Evidence boundary
-      description: Author-reported / official demo / you reproduced it?
+      description: Official demo / author-reported / you reproduced it?
     validations:
       required: true

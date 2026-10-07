@@ -2,7 +2,7 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-English · [中文 (earlier Astra-only list)](README.zh.md)
+English · [中文](README.zh.md)
 
 **Works that AI models actually produced:** demos and figures, each shown with a still and linked to its primary source, plus the prompt or brief where one was published. No third-party "I used model X to…" demos, no benchmark scoreboards, no journalism.
 
