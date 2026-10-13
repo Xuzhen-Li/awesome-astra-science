@@ -1,7 +1,5 @@
 # AI Model Works（AI 模型作品集）
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-
 [English](README.md) · 中文
 
 **只收 AI 模型自己真正做出来的作品**：演示和图像。每条配一张静帧，链接到一手来源；如果官方公开了提示词或任务说明，也一并给出。不收第三方「我用模型 X 做了……」演示，不收榜单分数，不收新闻评论。
