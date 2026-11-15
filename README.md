@@ -2,7 +2,7 @@
 
 English · [中文](README.zh.md)
 
-AI projects in science that you can open, run, or look at: protein models, math search, weather models, lab agents, and AI "research teams". Each entry links to its paper and to the code, data, or tool you can try. Every number in an entry is copied from the linked pages; the pages I read are listed in [SOURCES_READ.tsv](SOURCES_READ.tsv).
+AI projects in science that you can open, run, or look at: protein models, math search, weather models, lab agents, and AI "research teams". Each entry links to its paper and to the code, data, or tool you can try. Every number in a science entry is copied from the linked pages, read on 2026-11-15 and listed in [SOURCES_READ.tsv](SOURCES_READ.tsv). The GPT-6 Astra section is carried over from the earlier version and was not re-checked.
 
 The repo name `awesome-astra-science` is left over from when this list covered GPT-6 Astra only. Those works are still here, under [Model showcases](#model-showcases).
 
@@ -39,7 +39,7 @@ Predicts how proteins sit together with nucleic acids, small molecules, ions and
 - Open it: [AlphaFold Server](https://alphafoldserver.com/) (web tool)
 
 ### ESM3 (EvolutionaryScale, 2025)
-A protein language model asked to write new fluorescent proteins. One bright one shares only 58% of its sequence with known fluorescent proteins; the authors put that gap at about 500 million years of evolution.
+A protein language model asked to write new fluorescent proteins. One of them, a bright fluorescent protein, shares only 58% of its sequence with known fluorescent proteins; the authors put that gap at about 500 million years of evolution.
 - Paper: [Hayes et al., Science 2025](https://doi.org/10.1126/science.ads0018)
 - Code: [evolutionaryscale/esm](https://github.com/evolutionaryscale/esm) (now redirects to Biohub/esm)
 
@@ -52,9 +52,9 @@ A DNA model trained on 9.3 trillion base pairs from all domains of life, reading
 Genome language models designed complete bacteriophage genomes, using phage ΦX174 as the template. Lab tests gave 16 working phages.
 - Paper: [Science 2026](https://doi.org/10.1126/science.aec2657)
 
-### AlphaGenome (Google DeepMind, 2025)
+### AlphaGenome (Google DeepMind, 2025/2026)
 Reads 1 megabase of DNA, predicts thousands of genome tracks, and scores what a variant changes. The API is free for non-commercial use.
-- Preprint: [Avsec et al., bioRxiv 2025](https://doi.org/10.1101/2025.06.25.661532)
+- Paper: [Avsec et al., Nature 2026](https://doi.org/10.1038/s41586-025-10014-0) · preprint [bioRxiv 2025](https://doi.org/10.1101/2025.06.25.661532)
 - API and code: [google-deepmind/alphagenome](https://github.com/google-deepmind/alphagenome)
 
 ### Nanobodies from a "Virtual Lab" (Stanford, 2025)
@@ -82,7 +82,7 @@ Solved 25 of 30 recent olympiad geometry problems; the previous best method solv
 ## Materials
 
 ### GNoME (Google DeepMind, 2023)
-Graph networks predicted 2.2 million new crystal structures. Of the stable ones, 736 had already been made independently in labs.
+Graph networks found 2.2 million crystal structures that are stable relative to earlier data. Of the stable structures, 736 had already been made independently in labs.
 - Paper: [Merchant et al., Nature 2023](https://www.nature.com/articles/s41586-023-06735-9)
 - Data and Colabs: [google-deepmind/materials_discovery](https://github.com/google-deepmind/materials_discovery)
 

@@ -18,7 +18,7 @@ A blank entry is in [templates/ENTRY.md](templates/ENTRY.md).
 
 ## A model showcase entry needs
 
-The rules in [templates/CASE.md](templates/CASE.md): the maker's own page where the model produced the work, a still at `media/<model-slug>/<work-slug>.<ext>`, the prompt only if it was published, and one or two lines on what the model made.
+The rules in [templates/CASE.md](templates/CASE.md): the maker's own page where the model produced the work, a still in `media/` (new stills go in `media/<model-slug>/<work-slug>.<ext>`; the existing Astra stills sit directly in `media/`), the prompt only if it was published, and one or two lines on what the model made.
 
 ## Please do not send
 

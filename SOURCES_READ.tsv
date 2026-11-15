@@ -39,6 +39,8 @@ https://arxiv.org/abs/2511.02824	Kosmos	2026-11-15	fetched as text; numbers in t
 https://research.google/blog/accelerating-scientific-breakthroughs-with-an-ai-co-scientist/	AI co-scientist (blog)	2026-11-15	fetched as text; numbers in the entry checked against it
 https://arxiv.org/abs/2502.18864	AI co-scientist (paper)	2026-11-15	fetched as text; numbers in the entry checked against it
 https://www.nature.com/articles/s42256-024-00832-8	ChemCrow (paper)	2026-11-15	fetched as text; numbers in the entry checked against it
+https://www.nature.com/articles/s41586-025-10014-0	AlphaGenome (Nature 2026 paper)	2026-11-15	fetched as text; title, authors, publication date checked
+https://api.crossref.org/works/10.1038/s41586-025-10014-0	AlphaGenome (Crossref record)	2026-11-15	published-print 2026-01-29; 1 Mb input checked
 https://openai.com/index/gpt-6-astra/	GPT-6 Astra: launch demos	earlier version	section carried over unchanged; not re-read for this change
 https://developers.openai.com/blog/architectural-visualization-with-astra	GPT-6 Astra: 3D scenes	earlier version	section carried over unchanged; not re-read for this change
 https://developers.openai.com/blog/how-to-build-games-with-astra	GPT-6 Astra: games	earlier version	section carried over unchanged; not re-read for this change

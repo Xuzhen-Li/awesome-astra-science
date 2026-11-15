@@ -2,7 +2,7 @@
 
 [English](README.md) · 中文
 
-能打开、能运行、能看到结果的 AI 科学项目：蛋白质模型、数学搜索、天气模型、实验室智能体，还有 AI「科研团队」。每条都链接到论文，以及可以动手试的代码、数据或工具。条目里的数字都抄自链接的页面；我读过的页面列在 [SOURCES_READ.tsv](SOURCES_READ.tsv)。
+能打开、能运行、能看到结果的 AI 科学项目：蛋白质模型、数学搜索、天气模型、实验室智能体，还有 AI「科研团队」。每条都链接到论文，以及可以动手试的代码、数据或工具。科学条目里的数字都抄自 2026-11-15 读过的链接页面，列在 [SOURCES_READ.tsv](SOURCES_READ.tsv)。GPT-6 Astra 部分沿用旧版，未重新核对。
 
 仓库名 `awesome-astra-science` 是只收 GPT-6 Astra 时留下的。那些作品还在，放在 [模型作品展示](#模型作品展示)。
 
@@ -39,7 +39,7 @@
 - 打开看看：[AlphaFold Server](https://alphafoldserver.com/)（网页工具）
 
 ### ESM3（EvolutionaryScale，2025）
-让蛋白质语言模型写新的荧光蛋白。其中一个很亮的蛋白与已知荧光蛋白的序列相同度只有 58%，作者估计这相当于约 5 亿年的进化距离。
+让蛋白质语言模型写新的荧光蛋白。其中一个很亮的荧光蛋白与已知荧光蛋白的序列相同度只有 58%，作者估计这相当于约 5 亿年的进化距离。
 - 论文：[Hayes et al., Science 2025](https://doi.org/10.1126/science.ads0018)
 - 代码：[evolutionaryscale/esm](https://github.com/evolutionaryscale/esm)（现在跳转到 Biohub/esm）
 
@@ -52,9 +52,9 @@
 以噬菌体 ΦX174 为模板，用基因组语言模型设计完整的噬菌体基因组。实验得到 16 个能工作的噬菌体。
 - 论文：[Science 2026](https://doi.org/10.1126/science.aec2657)
 
-### AlphaGenome（Google DeepMind，2025）
+### AlphaGenome（Google DeepMind，2025/2026）
 读入 1 Mb 的 DNA，预测上千条基因组功能轨迹，并评估一个变异会改变什么。API 对非商业用途免费。
-- 预印本：[Avsec et al., bioRxiv 2025](https://doi.org/10.1101/2025.06.25.661532)
+- 论文：[Avsec et al., Nature 2026](https://doi.org/10.1038/s41586-025-10014-0) · 预印本 [bioRxiv 2025](https://doi.org/10.1101/2025.06.25.661532)
 - API 与代码：[google-deepmind/alphagenome](https://github.com/google-deepmind/alphagenome)
 
 ### 「虚拟实验室」设计的纳米抗体（Stanford，2025）
@@ -82,7 +82,7 @@
 ## 材料
 
 ### GNoME（Google DeepMind，2023）
-图网络预测了 220 万个新晶体结构。其中稳定的结构里，有 736 个已被其他实验室独立合成出来。
+图网络找到 220 万个相对已有数据稳定的晶体结构，其中 736 个已被其他实验室独立合成出来。
 - 论文：[Merchant et al., Nature 2023](https://www.nature.com/articles/s41586-023-06735-9)
 - 数据与 Colab：[google-deepmind/materials_discovery](https://github.com/google-deepmind/materials_discovery)
 
@@ -117,7 +117,7 @@
 - 论文：[arXiv 2502.18864](https://arxiv.org/abs/2502.18864) · [Google Research 博客](https://research.google/blog/accelerating-scientific-breakthroughs-with-an-ai-co-scientist/)
 
 ### Robin（2025）
-一个多智能体系统，提出用临床上已在用的 ROCK 抑制剂 ripasudil 治疗干性年龄相关性黄斑变性。
+一个多智能体系统，提出把临床上已在用的 ROCK 抑制剂 ripasudil 作为干性年龄相关性黄斑变性的候选疗法。
 - 论文：[arXiv 2505.13400](https://arxiv.org/abs/2505.13400)
 - 代码：[Future-House/robin](https://github.com/Future-House/robin)
 
