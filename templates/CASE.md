@@ -6,7 +6,7 @@
 - **Publisher:** who published the source
 - **Date:** YYYY-MM-DD (of the source)
 - **Prompt:** published prompt or brief, quoted or linked. Leave out if none was published.
-- **Still:** `media/<model-slug>/<work-slug>.<ext>`
+- **Still:** `media/<model-slug>/<work-slug>.<ext>` (new stills). Existing Astra stills sit directly in `media/`.
 - **Tools:** software the model drove, e.g. KiCad · Blender (optional)
 - **Also listed in:** another catalog, e.g. [awesome-gpt6-astra](https://github.com/helloianneo/awesome-gpt6-astra) (optional)
 
