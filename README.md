@@ -2,16 +2,16 @@
 
 English · [中文](README.zh.md)
 
-AI projects in science that you can open, run, or look at: protein models, math search, weather models, lab agents, and AI "research teams". Each entry links to its paper and to the code, data, or tool you can try. Every number in a science entry is copied from the linked pages, read on 2026-11-15 and listed in [SOURCES_READ.tsv](SOURCES_READ.tsv). The GPT-6 Astra section is carried over from the earlier version and was not re-checked.
+AI projects in science that you can open, run, or inspect: protein models, math search, weather models, lab agents, and AI "research teams". Each entry links to its paper and to the code, data, or tool you can try. Every number in a science entry is copied from the linked pages, read on 2026-11-15 and listed in [SOURCES_READ.tsv](SOURCES_READ.tsv). The GPT-6 Astra section is carried over from the earlier version and was not re-checked.
 
-The repo name `awesome-astra-science` is left over from when this list covered GPT-6 Astra only. Those works are still here, under [Model showcases](#model-showcases).
+The repository name `awesome-astra-science` is left over from when this list covered GPT-6 Astra only. Those works remain here under [Model showcases](#model-showcases).
 
 ## How entries are chosen
 
-- The project did something in science you can check: a structure, a proof, a forecast, a molecule, a lab result.
-- There is a primary source: the paper, or the maker's own page.
+- The project produced a verifiable scientific result: a structure, a proof, a forecast, a molecule, or a lab result.
+- There is a primary source: the paper or the maker's own page.
 - There is something to open: a repo, a database, a web tool, or an API.
-- One or two lines on what the AI did, with numbers from the source only. No benchmark tables, no news coverage.
+- Each entry has one or two lines on what the AI did, using numbers from the source only, with no benchmark tables or news coverage.
 
 ## Contents
 
@@ -34,108 +34,108 @@ Predicts a protein's 3D structure from its amino-acid sequence. At CASP14 its ac
 - Open it: [AlphaFold Protein Structure Database](https://alphafold.ebi.ac.uk/), over 200 million predicted structures, free to browse and download
 
 ### AlphaFold 3 (Google DeepMind, 2024)
-Predicts how proteins sit together with nucleic acids, small molecules, ions and modified residues, not just single proteins.
+Predicts how proteins bind and assemble with nucleic acids, small molecules, ions, and modified residues, rather than single proteins alone.
 - Paper: [Abramson et al., Nature 2024](https://www.nature.com/articles/s41586-024-07487-w)
 - Open it: [AlphaFold Server](https://alphafoldserver.com/) (web tool)
 
 ### ESM3 (EvolutionaryScale, 2025)
-A protein language model asked to write new fluorescent proteins. One of them, a bright fluorescent protein, shares only 58% of its sequence with known fluorescent proteins; the authors put that gap at about 500 million years of evolution.
+A protein language model prompted to design new fluorescent proteins. One bright fluorescent protein it generated shares only 58% of its sequence with known fluorescent proteins, a gap the authors estimate at about 500 million years of evolution.
 - Paper: [Hayes et al., Science 2025](https://doi.org/10.1126/science.ads0018)
 - Code: [evolutionaryscale/esm](https://github.com/evolutionaryscale/esm) (now redirects to Biohub/esm)
 
 ### Evo 2 (Arc Institute and partners, 2025)
-A DNA model trained on 9.3 trillion base pairs from all domains of life, reading up to 1 million bases at a time.
+A DNA model trained on 9.3 trillion base pairs from all domains of life, processing up to 1 million bases at a time.
 - Preprint: [Brixi et al., bioRxiv 2025](https://doi.org/10.1101/2025.02.18.638918)
 - Code: [ArcInstitute/evo2](https://github.com/ArcInstitute/evo2)
 
 ### Whole phage genomes written by a genome model (2026)
-Genome language models designed complete bacteriophage genomes, using phage ΦX174 as the template. Lab tests gave 16 working phages.
+Genome language models designed complete bacteriophage genomes using phage ΦX174 as a template, yielding 16 viable phages in lab tests.
 - Paper: [Science 2026](https://doi.org/10.1126/science.aec2657)
 
 ### AlphaGenome (Google DeepMind, 2025/2026)
-Reads 1 megabase of DNA, predicts thousands of genome tracks, and scores what a variant changes. The API is free for non-commercial use.
+Reads 1 megabase of DNA, predicts thousands of genome tracks, and scores the effects of genetic variants. The API is free for non-commercial use.
 - Paper: [Avsec et al., Nature 2026](https://doi.org/10.1038/s41586-025-10014-0) · preprint [bioRxiv 2025](https://doi.org/10.1101/2025.06.25.661532)
 - API and code: [google-deepmind/alphagenome](https://github.com/google-deepmind/alphagenome)
 
 ### Nanobodies from a "Virtual Lab" (Stanford, 2025)
-An AI "principal investigator" agent ran a team of AI scientist agents. Using ESM, AlphaFold-Multimer and Rosetta, they designed 92 new nanobodies against SARS-CoV-2 variants, which were then tested in the lab.
+An AI "principal investigator" agent led a team of AI scientist agents. Using ESM, AlphaFold-Multimer, and Rosetta, they designed 92 new nanobodies against SARS-CoV-2 variants that were then tested in the lab.
 - Paper: [Swanson et al., Nature 2025](https://www.nature.com/articles/s41586-025-09442-9)
 - Code: [zou-group/virtual-lab](https://github.com/zou-group/virtual-lab)
 
 ## Math and algorithms
 
 ### FunSearch (Google DeepMind, 2023)
-An LLM writes programs and an evaluator keeps the best ones. It found larger cap sets than were known, and new heuristics for online bin packing.
+An LLM writes candidate programs while an evaluator keeps the best ones. It discovered larger cap sets than previously known and new heuristics for online bin packing.
 - Paper: [Romera-Paredes et al., Nature 2023](https://www.nature.com/articles/s41586-023-06924-6)
 - Code: [google-deepmind/funsearch](https://github.com/google-deepmind/funsearch)
 
 ### AlphaEvolve (Google DeepMind, 2025)
-A coding agent that evolves programs. It multiplied two 4×4 complex matrices with 48 scalar multiplications, raised the lower bound for the 11-dimensional kissing number to 593, and wrote a scheduling heuristic that recovers on average 0.7% of Google's fleet-wide compute.
+A coding agent that evolves programs. It multiplied two 4×4 complex matrices using 48 scalar multiplications, raised the lower bound for the 11-dimensional kissing number to 593, and wrote a scheduling heuristic that recovers an average of 0.7% of Google's fleet-wide compute.
 - Paper: [Novikov et al., arXiv 2506.13131](https://arxiv.org/abs/2506.13131)
 - Check the results yourself: [google-deepmind/alphaevolve_results](https://github.com/google-deepmind/alphaevolve_results) (a Colab notebook that verifies each result)
 
 ### AlphaGeometry (Google DeepMind, 2024)
-Solved 25 of 30 recent olympiad geometry problems; the previous best method solved 10.
+Solved 25 of 30 recent olympiad geometry problems, compared with 10 for the previous best method.
 - Paper: [Trinh et al., Nature 2024](https://www.nature.com/articles/s41586-023-06747-5)
 - Code: [google-deepmind/alphageometry](https://github.com/google-deepmind/alphageometry)
 
 ## Materials
 
 ### GNoME (Google DeepMind, 2023)
-Graph networks found 2.2 million crystal structures that are stable relative to earlier data. Of the stable structures, 736 had already been made independently in labs.
+Graph networks identified 2.2 million crystal structures that are stable relative to earlier data, 736 of which had already been synthesized independently in labs.
 - Paper: [Merchant et al., Nature 2023](https://www.nature.com/articles/s41586-023-06735-9)
 - Data and Colabs: [google-deepmind/materials_discovery](https://github.com/google-deepmind/materials_discovery)
 
 ## Weather and Earth
 
 ### GraphCast (Google DeepMind, 2023)
-Forecasts hundreds of weather variables 10 days ahead at 0.25° resolution worldwide in under a minute, and beat the most accurate operational deterministic systems on 90% of 1380 targets.
+Forecasts hundreds of weather variables 10 days ahead at 0.25° global resolution in under a minute, outperforming the most accurate operational deterministic systems on 90% of 1380 targets.
 - Paper: [Lam et al., Science 2023](https://doi.org/10.1126/science.adi2336)
 - Code: [google-deepmind/graphcast](https://github.com/google-deepmind/graphcast) (now the WeatherNext repo, which still includes GraphCast)
 
 ### Aurora (Microsoft, 2025)
-An Earth-system model trained on more than a million hours of geophysical data. It forecasts air quality, ocean waves, tropical cyclone tracks and high-resolution weather.
+An Earth-system model trained on more than a million hours of geophysical data. It forecasts air quality, ocean waves, tropical cyclone tracks, and high-resolution weather.
 - Paper: [Bodnar et al., Nature 2025](https://www.nature.com/articles/s41586-025-09005-y)
 - Code: [microsoft/aurora](https://github.com/microsoft/aurora)
 
 ## Chemistry agents
 
 ### Coscientist (Carnegie Mellon, 2023)
-A GPT-4 based agent that plans and runs chemistry experiments on lab hardware, including optimizing palladium-catalysed cross-coupling reactions.
+A GPT-4-based agent that plans and executes chemistry experiments on lab hardware, including optimizing palladium-catalyzed cross-coupling reactions.
 - Paper: [Boiko et al., Nature 2023](https://www.nature.com/articles/s41586-023-06792-0)
 - Code: [gomesgroup/coscientist](https://github.com/gomesgroup/coscientist)
 
 ### ChemCrow (EPFL and Rochester, 2023/2024)
-An LLM agent with 18 chemistry tools. It planned and carried out the synthesis of an insect repellent and three organocatalysts.
+An LLM agent equipped with 18 chemistry tools. It planned and carried out the synthesis of an insect repellent and three organocatalysts.
 - Paper: [Bran et al., Nature Machine Intelligence 2024](https://www.nature.com/articles/s42256-024-00832-8) · preprint [arXiv 2304.05376](https://arxiv.org/abs/2304.05376)
 - Code: [ur-whitelab/chemcrow-public](https://github.com/ur-whitelab/chemcrow-public)
 
 ## AI research teams
 
 ### AI co-scientist (Google, 2025)
-A multi-agent system built on Gemini 2.0 that proposes hypotheses. Some of its drug-repurposing ideas for acute myeloid leukemia were confirmed in vitro.
+A multi-agent system built on Gemini 2.0 that generates research hypotheses. Some of its drug-repurposing ideas for acute myeloid leukemia were confirmed in vitro.
 - Paper: [arXiv 2502.18864](https://arxiv.org/abs/2502.18864) · [Google Research blog](https://research.google/blog/accelerating-scientific-breakthroughs-with-an-ai-co-scientist/)
 
 ### Robin (2025)
-A multi-agent system that proposed ripasudil, a ROCK inhibitor already used in the clinic, as a candidate treatment for dry age-related macular degeneration.
+A multi-agent system that proposed ripasudil, a ROCK inhibitor already in clinical use, as a candidate treatment for dry age-related macular degeneration.
 - Paper: [arXiv 2505.13400](https://arxiv.org/abs/2505.13400)
 - Code: [Future-House/robin](https://github.com/Future-House/robin)
 
 ### Kosmos (2025)
-Runs for up to 12 hours on a dataset and a goal. One run executes about 42,000 lines of code and reads about 1,500 papers. Independent scientists judged 79.4% of the statements in its reports accurate.
+Runs for up to 12 hours on a given dataset and goal, executing about 42,000 lines of code and reading about 1,500 papers per run. Independent scientists judged 79.4% of the statements in its reports to be accurate.
 - Paper: [arXiv 2511.02824](https://arxiv.org/abs/2511.02824)
 
 ### The AI Scientist (Sakana AI, 2024)
-Goes from idea to code, experiments and a full machine-learning paper, for less than $15 per paper.
+Automates the workflow from idea to code, experiments, and a full machine-learning paper for less than $15 per paper.
 - Paper: [Lu et al., arXiv 2408.06292](https://arxiv.org/abs/2408.06292)
 - Code: [SakanaAI/AI-Scientist](https://github.com/SakanaAI/AI-Scientist)
 
 ### The AI Scientist-v2 (Sakana AI, 2025)
-Three fully AI-written papers went to a peer-reviewed ICLR workshop; one scored above the average human acceptance threshold.
+Submitted three fully AI-written papers to a peer-reviewed ICLR workshop; one scored above the average human acceptance threshold.
 - Paper: [Yamada et al., arXiv 2504.08066](https://arxiv.org/abs/2504.08066)
 
 ### Agent Laboratory (2025)
-Takes a human research idea through literature review, experiments and report writing, at 84% lower cost than earlier autonomous research methods.
+Takes a human research idea through literature review, experiments, and report writing at 84% lower cost than earlier autonomous research methods.
 - Paper: [Schmidgall et al., arXiv 2501.04227](https://arxiv.org/abs/2501.04227)
 - Code: [SamuelSchmidgall/AgentLaboratory](https://github.com/SamuelSchmidgall/AgentLaboratory)
 
@@ -271,7 +271,7 @@ Broader Astra link dump: [helloianneo/awesome-gpt6-astra](https://github.com/hel
 
 ## Adding entries
 
-See [CONTRIBUTING.md](CONTRIBUTING.md). In short: a primary source you have read, something people can open, one or two lines with numbers taken from the source, the same entry in both READMEs, and a row in [SOURCES_READ.tsv](SOURCES_READ.tsv) for every page you used.
+See [CONTRIBUTING.md](CONTRIBUTING.md). To add a project, provide a primary source you have read, something people can open, one or two lines with numbers taken from that source, the same entry in both READMEs, and a row in [SOURCES_READ.tsv](SOURCES_READ.tsv) for every page used.
 
 ---
 

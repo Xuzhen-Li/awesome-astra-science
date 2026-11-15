@@ -2,16 +2,16 @@
 
 [English](README.md) · 中文
 
-能打开、能运行、能看到结果的 AI 科学项目：蛋白质模型、数学搜索、天气模型、实验室智能体，还有 AI「科研团队」。每条都链接到论文，以及可以动手试的代码、数据或工具。科学条目里的数字都抄自 2026-11-15 读过的链接页面，列在 [SOURCES_READ.tsv](SOURCES_READ.tsv)。GPT-6 Astra 部分沿用旧版，未重新核对。
+能打开、能运行、能查看结果的 AI 科学项目：蛋白质模型、数学搜索、天气模型、实验室智能体，以及 AI「科研团队」。每条都附有论文链接，以及可以直接试用的代码、数据或工具。科学条目里的数字都抄自 2026-11-15 阅读过的链接页面，列在 [SOURCES_READ.tsv](SOURCES_READ.tsv) 中。GPT-6 Astra 部分沿用旧版，未重新核对。
 
-仓库名 `awesome-astra-science` 是只收 GPT-6 Astra 时留下的。那些作品还在，放在 [模型作品展示](#模型作品展示)。
+仓库名 `awesome-astra-science` 是此前只收录 GPT-6 Astra 时留下的。那些作品仍保留在 [模型作品展示](#模型作品展示) 中。
 
 ## 收录标准
 
-- 项目在科学上做成了一件可以核对的事：一个结构、一个证明、一次预报、一个分子、一个实验结果。
-- 有一手来源：论文，或者作者自己的页面。
-- 有能打开的东西：仓库、数据库、网页工具或 API。
-- 用一两句话说 AI 做了什么，数字只取自来源。不收榜单表格，不收新闻报道。
+- 项目在科学上做出了可核验的结果：一个结构、一个证明、一次预报、一个分子或一项实验结果。
+- 有一手来源：论文或作者自己的页面。
+- 有可打开的资源：仓库、数据库、网页工具或 API。
+- 每条用一两句话说明 AI 做了什么，数字只取自来源，不收榜单表格，不收新闻报道。
 
 ## 目录
 
@@ -34,62 +34,62 @@
 - 打开看看：[AlphaFold 蛋白质结构数据库](https://alphafold.ebi.ac.uk/)，超过 2 亿个预测结构，可免费浏览和下载
 
 ### AlphaFold 3（Google DeepMind，2024）
-不只预测单个蛋白，还能预测蛋白质与核酸、小分子、离子和修饰残基怎样结合在一起。
+不仅能预测单个蛋白，还能预测蛋白质与核酸、小分子、离子和修饰残基如何结合组装。
 - 论文：[Abramson et al., Nature 2024](https://www.nature.com/articles/s41586-024-07487-w)
 - 打开看看：[AlphaFold Server](https://alphafoldserver.com/)（网页工具）
 
 ### ESM3（EvolutionaryScale，2025）
-让蛋白质语言模型写新的荧光蛋白。其中一个很亮的荧光蛋白与已知荧光蛋白的序列相同度只有 58%，作者估计这相当于约 5 亿年的进化距离。
+让蛋白质语言模型设计新的荧光蛋白。它生成的一个高亮度荧光蛋白与已知荧光蛋白的序列相同度只有 58%，作者估计这相当于约 5 亿年的进化距离。
 - 论文：[Hayes et al., Science 2025](https://doi.org/10.1126/science.ads0018)
 - 代码：[evolutionaryscale/esm](https://github.com/evolutionaryscale/esm)（现在跳转到 Biohub/esm）
 
 ### Evo 2（Arc Institute 等，2025）
-用来自所有生命域的 9.3 万亿个碱基对训练的 DNA 模型，一次最多读 100 万个碱基。
+用来自所有生命域的 9.3 万亿个碱基对训练的 DNA 模型，一次最多读取 100 万个碱基。
 - 预印本：[Brixi et al., bioRxiv 2025](https://doi.org/10.1101/2025.02.18.638918)
 - 代码：[ArcInstitute/evo2](https://github.com/ArcInstitute/evo2)
 
 ### 由基因组模型写出的完整噬菌体基因组（2026）
-以噬菌体 ΦX174 为模板，用基因组语言模型设计完整的噬菌体基因组。实验得到 16 个能工作的噬菌体。
+以噬菌体 ΦX174 为模板，用基因组语言模型设计完整的噬菌体基因组，在实验中得到了 16 个有活性的噬菌体。
 - 论文：[Science 2026](https://doi.org/10.1126/science.aec2657)
 
 ### AlphaGenome（Google DeepMind，2025/2026）
-读入 1 Mb 的 DNA，预测上千条基因组功能轨迹，并评估一个变异会改变什么。API 对非商业用途免费。
+读入 1 Mb 的 DNA，预测上千条基因组功能轨迹，并评估遗传变异带来的影响。API 对非商业用途免费。
 - 论文：[Avsec et al., Nature 2026](https://doi.org/10.1038/s41586-025-10014-0) · 预印本 [bioRxiv 2025](https://doi.org/10.1101/2025.06.25.661532)
 - API 与代码：[google-deepmind/alphagenome](https://github.com/google-deepmind/alphagenome)
 
 ### 「虚拟实验室」设计的纳米抗体（Stanford，2025）
-一个 AI「课题组长」智能体带着一组 AI 科学家智能体，组合使用 ESM、AlphaFold-Multimer 和 Rosetta，设计出 92 个针对新冠变异株的新纳米抗体，随后在实验室里做了验证。
+由一个 AI「课题组长」智能体带领一组 AI 科学家智能体，组合使用 ESM、AlphaFold-Multimer 和 Rosetta，设计出 92 个针对新冠变异株的新纳米抗体，随后在实验室中进行了验证。
 - 论文：[Swanson et al., Nature 2025](https://www.nature.com/articles/s41586-025-09442-9)
 - 代码：[zou-group/virtual-lab](https://github.com/zou-group/virtual-lab)
 
 ## 数学与算法
 
 ### FunSearch（Google DeepMind，2023）
-大模型写程序，评估器留下最好的那些。它找到了比已知更大的 cap set，以及在线装箱问题的新启发式算法。
+大模型编写候选程序，评估器保留其中最优的。它找到了比此前已知更大的 cap set，以及在线装箱问题的新启发式算法。
 - 论文：[Romera-Paredes et al., Nature 2023](https://www.nature.com/articles/s41586-023-06924-6)
 - 代码：[google-deepmind/funsearch](https://github.com/google-deepmind/funsearch)
 
 ### AlphaEvolve（Google DeepMind，2025）
-一个让程序不断演化的编程智能体。它用 48 次标量乘法完成两个 4×4 复矩阵相乘，把 11 维接吻数的下界提高到 593，还写出一个调度启发式，平均收回 Google 全部算力的 0.7%。
+一个让程序持续演化的编程智能体。它用 48 次标量乘法完成了两个 4×4 复矩阵相乘，把 11 维接吻数的下界提高到 593，还写出一个调度启发式，平均收回 Google 全部算力的 0.7%。
 - 论文：[Novikov et al., arXiv 2506.13131](https://arxiv.org/abs/2506.13131)
 - 自己验证结果：[google-deepmind/alphaevolve_results](https://github.com/google-deepmind/alphaevolve_results)（一个逐条验证结果的 Colab 笔记本）
 
 ### AlphaGeometry（Google DeepMind，2024）
-在 30 道近年奥赛几何题中解出 25 道；此前最好的方法解出 10 道。
+在 30 道近年奥赛几何题中解出 25 道，此前最好的方法解出 10 道。
 - 论文：[Trinh et al., Nature 2024](https://www.nature.com/articles/s41586-023-06747-5)
 - 代码：[google-deepmind/alphageometry](https://github.com/google-deepmind/alphageometry)
 
 ## 材料
 
 ### GNoME（Google DeepMind，2023）
-图网络找到 220 万个相对已有数据稳定的晶体结构，其中 736 个已被其他实验室独立合成出来。
+图网络找到 220 万个相对已有数据稳定的晶体结构，其中 736 个此前已被其他实验室独立合成出来。
 - 论文：[Merchant et al., Nature 2023](https://www.nature.com/articles/s41586-023-06735-9)
 - 数据与 Colab：[google-deepmind/materials_discovery](https://github.com/google-deepmind/materials_discovery)
 
 ## 天气与地球
 
 ### GraphCast（Google DeepMind，2023）
-不到一分钟就能给出全球 0.25° 分辨率、未来 10 天的数百个天气变量预报，在 1380 个检验目标中的 90% 上超过最准确的业务确定性预报系统。
+不到一分钟就能给出全球 0.25° 分辨率、未来 10 天的数百个天气变量预报，在 1380 个检验目标中的 90% 上超过了最准确的业务确定性预报系统。
 - 论文：[Lam et al., Science 2023](https://doi.org/10.1126/science.adi2336)
 - 代码：[google-deepmind/graphcast](https://github.com/google-deepmind/graphcast)（现在是 WeatherNext 仓库，仍包含 GraphCast）
 
@@ -106,36 +106,36 @@
 - 代码：[gomesgroup/coscientist](https://github.com/gomesgroup/coscientist)
 
 ### ChemCrow（EPFL 与 Rochester，2023/2024）
-带 18 个化学工具的大模型智能体。它规划并完成了一种驱虫剂和三种有机催化剂的合成。
+配备 18 个化学工具的大模型智能体。它规划并完成了一种驱虫剂和三种有机催化剂的合成。
 - 论文：[Bran et al., Nature Machine Intelligence 2024](https://www.nature.com/articles/s42256-024-00832-8) · 预印本 [arXiv 2304.05376](https://arxiv.org/abs/2304.05376)
 - 代码：[ur-whitelab/chemcrow-public](https://github.com/ur-whitelab/chemcrow-public)
 
 ## AI 科研团队
 
 ### AI co-scientist（Google，2025）
-基于 Gemini 2.0 的多智能体系统，用来提出假设。它给急性髓系白血病提出的部分老药新用候选在体外实验中得到证实。
+基于 Gemini 2.0 的多智能体系统，用于提出研究假设。它为急性髓系白血病提出的部分老药新用候选方案在体外实验中得到证实。
 - 论文：[arXiv 2502.18864](https://arxiv.org/abs/2502.18864) · [Google Research 博客](https://research.google/blog/accelerating-scientific-breakthroughs-with-an-ai-co-scientist/)
 
 ### Robin（2025）
-一个多智能体系统，提出把临床上已在用的 ROCK 抑制剂 ripasudil 作为干性年龄相关性黄斑变性的候选疗法。
+一个多智能体系统，提出将临床上已在用的 ROCK 抑制剂 ripasudil 作为干性年龄相关性黄斑变性的候选疗法。
 - 论文：[arXiv 2505.13400](https://arxiv.org/abs/2505.13400)
 - 代码：[Future-House/robin](https://github.com/Future-House/robin)
 
 ### Kosmos（2025）
-给它一个数据集和一个目标，最多连续跑 12 小时。一次运行大约执行 42,000 行代码、读约 1,500 篇论文。独立科学家判断它报告中 79.4% 的陈述准确。
+给定一个数据集和目标后最多连续运行 12 小时，单次运行大约执行 42,000 行代码、阅读约 1,500 篇论文。独立科学家评估其报告中 79.4% 的陈述准确。
 - 论文：[arXiv 2511.02824](https://arxiv.org/abs/2511.02824)
 
 ### The AI Scientist（Sakana AI，2024）
-从想法到代码、实验，再到一篇完整的机器学习论文，每篇成本不到 15 美元。
+自动化完成从想法到代码、实验以及完整机器学习论文的流程，每篇成本不到 15 美元。
 - 论文：[Lu et al., arXiv 2408.06292](https://arxiv.org/abs/2408.06292)
 - 代码：[SakanaAI/AI-Scientist](https://github.com/SakanaAI/AI-Scientist)
 
 ### The AI Scientist-v2（Sakana AI，2025）
-三篇完全由 AI 写的论文投到一个有同行评审的 ICLR workshop，其中一篇分数超过人类论文的平均录用线。
+将三篇完全由 AI 撰写的论文投至有同行评审的 ICLR workshop，其中一篇得分超过人类论文的平均录用线。
 - 论文：[Yamada et al., arXiv 2504.08066](https://arxiv.org/abs/2504.08066)
 
 ### Agent Laboratory（2025）
-把一个人提出的研究想法走完文献调研、实验和报告写作，成本比以往的自主科研方法低 84%。
+将人类提出的研究想法推进完成文献调研、实验和报告撰写，成本比以往的自主科研方法低 84%。
 - 论文：[Schmidgall et al., arXiv 2501.04227](https://arxiv.org/abs/2501.04227)
 - 代码：[SamuelSchmidgall/AgentLaboratory](https://github.com/SamuelSchmidgall/AgentLaboratory)
 
@@ -271,7 +271,7 @@ Astra 迭代一款代码绘制的 2D 动作 RPG，核心是模拟的地下河（
 
 ## 新增条目
 
-见 [CONTRIBUTING.md](CONTRIBUTING.md)。简单说：读过的一手来源、别人能打开的东西、一两句话且数字只取自来源、中英文 README 都加上，并在 [SOURCES_READ.tsv](SOURCES_READ.tsv) 里为用到的每个页面加一行。
+具体要求见 [CONTRIBUTING.md](CONTRIBUTING.md)。简而言之：提供你亲自读过的一手来源、他人可以直接打开的资源、一两句话且数字均取自来源的说明，在中英文 README 中同步添加，并在 [SOURCES_READ.tsv](SOURCES_READ.tsv) 中为用到的每个页面增补一行记录。
 
 ---
 

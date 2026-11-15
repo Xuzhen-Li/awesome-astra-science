@@ -1,28 +1,28 @@
 # Contributing
 
-This list collects AI projects in science that people can open and check. There are two parts:
+This list collects AI projects in science that anyone can open and inspect. It has two parts:
 
-- The science sections (Proteins and DNA, Math and algorithms, and so on): projects with a paper or maker's page and something to open, such as a repo, database, web tool or API.
-- Model showcases: works one model made by itself, from the maker's own pages, with a still. GPT-6 Astra is the only model there now.
+- The science sections (Proteins and DNA, Math and algorithms, and so on): projects with a paper or maker's page and a resource to open, such as a repo, database, web tool, or API.
+- Model showcases: works produced by a single model on its own, taken from the maker's own pages and accompanied by a still. GPT-6 Astra is currently the only model listed there.
 
 ## A science entry needs
 
-- A `###` title: project name, then maker and year in brackets.
-- One or two lines on what the AI did. Numbers only if the paper or page says them; copy them, do not round them up.
+- A `###` heading: project name, followed by maker and year in brackets.
+- One or two lines describing what the AI did. Include numbers only if the paper or source page states them; copy them directly rather than rounding up.
 - `Paper:` or `Preprint:` with a link you have read.
-- `Code:`, `Open it:`, `Data:` or `API:` with a link people can use. If there is nothing to open, say so in the PR.
-- The same entry in [README.md](README.md) and [README.zh.md](README.zh.md).
-- One row per page you read in [SOURCES_READ.tsv](SOURCES_READ.tsv): URL, entry, date read, note.
+- `Code:`, `Open it:`, `Data:`, or `API:` with a link people can use. If there is nothing to open, mention that in the PR.
+- The same entry in both [README.md](README.md) and [README.zh.md](README.zh.md).
+- One row per page you read in [SOURCES_READ.tsv](SOURCES_READ.tsv): URL, entry, date read, and note.
 
-A blank entry is in [templates/ENTRY.md](templates/ENTRY.md).
+A blank template is available in [templates/ENTRY.md](templates/ENTRY.md).
 
 ## A model showcase entry needs
 
-The rules in [templates/CASE.md](templates/CASE.md): the maker's own page where the model produced the work, a still in `media/` (new stills go in `media/<model-slug>/<work-slug>.<ext>`; the existing Astra stills sit directly in `media/`), the prompt only if it was published, and one or two lines on what the model made.
+Follow the rules in [templates/CASE.md](templates/CASE.md): the maker's own page showing where the model produced the work, a still in `media/` (new stills go in `media/<model-slug>/<work-slug>.<ext>`; the existing Astra stills sit directly in `media/`), the prompt only if it was published, and one or two lines on what the model made.
 
 ## Please do not send
 
 - "I used model X to..." posts from third parties
-- Benchmark scores with no project behind them
-- News stories or commentary
-- Claims you could not find in the source
+- Benchmark scores without an underlying project
+- News articles or commentary
+- Claims not supported by the source
