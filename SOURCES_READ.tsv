@@ -1,0 +1,44 @@
+url	entry	read_on	note
+https://www.nature.com/articles/s41586-021-03819-2	AlphaFold 2	2026-11-15	fetched as text; numbers in the entry checked against it
+https://alphafold.ebi.ac.uk/	AlphaFold 2 (database)	2026-11-15	fetched as text; numbers in the entry checked against it
+https://www.nature.com/articles/s41586-024-07487-w	AlphaFold 3	2026-11-15	fetched as text; numbers in the entry checked against it
+https://alphafoldserver.com/	AlphaFold 3 (server)	2026-11-15	fetched as text; numbers in the entry checked against it
+https://www.nature.com/articles/s41586-023-06924-6	FunSearch	2026-11-15	fetched as text; numbers in the entry checked against it
+https://github.com/google-deepmind/funsearch	FunSearch (code)	2026-11-15	fetched as text; numbers in the entry checked against it
+https://arxiv.org/pdf/2506.13131	AlphaEvolve	2026-11-15	fetched as text; numbers in the entry checked against it
+https://github.com/google-deepmind/alphaevolve_results	AlphaEvolve (results notebook)	2026-11-15	fetched as text; numbers in the entry checked against it
+https://www.nature.com/articles/s41586-023-06747-5	AlphaGeometry	2026-11-15	fetched as text; numbers in the entry checked against it
+https://github.com/google-deepmind/alphageometry	AlphaGeometry (code)	2026-11-15	fetched as text; numbers in the entry checked against it
+https://www.nature.com/articles/s41586-023-06735-9	GNoME	2026-11-15	fetched as text; numbers in the entry checked against it
+https://github.com/google-deepmind/materials_discovery	GNoME (data)	2026-11-15	fetched as text; numbers in the entry checked against it
+https://api.crossref.org/works/10.1126/science.adi2336	GraphCast (Crossref abstract)	2026-11-15	fetched as text; numbers in the entry checked against it
+https://github.com/google-deepmind/graphcast	GraphCast (code; repo now WeatherNext)	2026-11-15	fetched as text; numbers in the entry checked against it
+https://www.nature.com/articles/s41586-025-09005-y	Aurora	2026-11-15	fetched as text; numbers in the entry checked against it
+https://github.com/microsoft/aurora	Aurora (code)	2026-11-15	fetched as text; numbers in the entry checked against it
+https://www.nature.com/articles/s41586-023-06792-0	Coscientist	2026-11-15	fetched as text; numbers in the entry checked against it
+https://github.com/gomesgroup/coscientist	Coscientist (code)	2026-11-15	fetched as text; numbers in the entry checked against it
+https://arxiv.org/abs/2304.05376	ChemCrow (preprint)	2026-11-15	fetched as text; numbers in the entry checked against it
+https://github.com/ur-whitelab/chemcrow-public	ChemCrow (code)	2026-11-15	fetched as text; numbers in the entry checked against it
+https://www.nature.com/articles/s41586-025-09442-9	Virtual Lab	2026-11-15	fetched as text; numbers in the entry checked against it
+https://github.com/zou-group/virtual-lab	Virtual Lab (code)	2026-11-15	fetched as text; numbers in the entry checked against it
+https://api.crossref.org/works/10.1126/science.ads0018	ESM3 (Crossref abstract)	2026-11-15	fetched as text; numbers in the entry checked against it
+https://github.com/evolutionaryscale/esm	ESM3 (code; redirects to Biohub/esm)	2026-11-15	fetched as text; numbers in the entry checked against it
+https://api.crossref.org/works/10.1101/2025.02.18.638918	Evo 2 (Crossref abstract)	2026-11-15	fetched as text; numbers in the entry checked against it
+https://github.com/ArcInstitute/evo2	Evo 2 (code)	2026-11-15	fetched as text; numbers in the entry checked against it
+https://api.crossref.org/works/10.1126/science.aec2657	Phage genomes (Crossref abstract)	2026-11-15	fetched as text; numbers in the entry checked against it
+https://api.crossref.org/works/10.1101/2025.06.25.661532	AlphaGenome (Crossref abstract)	2026-11-15	fetched as text; numbers in the entry checked against it
+https://github.com/google-deepmind/alphagenome	AlphaGenome (API, code)	2026-11-15	fetched as text; numbers in the entry checked against it
+https://arxiv.org/abs/2408.06292	The AI Scientist	2026-11-15	fetched as text; numbers in the entry checked against it
+https://github.com/SakanaAI/AI-Scientist	The AI Scientist (code)	2026-11-15	fetched as text; numbers in the entry checked against it
+https://arxiv.org/abs/2504.08066	The AI Scientist-v2	2026-11-15	fetched as text; numbers in the entry checked against it
+https://arxiv.org/abs/2501.04227	Agent Laboratory	2026-11-15	fetched as text; numbers in the entry checked against it
+https://github.com/SamuelSchmidgall/AgentLaboratory	Agent Laboratory (code)	2026-11-15	fetched as text; numbers in the entry checked against it
+https://arxiv.org/abs/2505.13400	Robin	2026-11-15	fetched as text; numbers in the entry checked against it
+https://github.com/Future-House/robin	Robin (code)	2026-11-15	fetched as text; numbers in the entry checked against it
+https://arxiv.org/abs/2511.02824	Kosmos	2026-11-15	fetched as text; numbers in the entry checked against it
+https://research.google/blog/accelerating-scientific-breakthroughs-with-an-ai-co-scientist/	AI co-scientist (blog)	2026-11-15	fetched as text; numbers in the entry checked against it
+https://arxiv.org/abs/2502.18864	AI co-scientist (paper)	2026-11-15	fetched as text; numbers in the entry checked against it
+https://www.nature.com/articles/s42256-024-00832-8	ChemCrow (paper)	2026-11-15	fetched as text; numbers in the entry checked against it
+https://openai.com/index/gpt-6-astra/	GPT-6 Astra: launch demos	earlier version	section carried over unchanged; not re-read for this change
+https://developers.openai.com/blog/architectural-visualization-with-astra	GPT-6 Astra: 3D scenes	earlier version	section carried over unchanged; not re-read for this change
+https://developers.openai.com/blog/how-to-build-games-with-astra	GPT-6 Astra: games	earlier version	section carried over unchanged; not re-read for this change
