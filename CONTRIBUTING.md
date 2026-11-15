@@ -1,20 +1,28 @@
 # Contributing
 
-This repo collects **works that AI models actually produced**: demos and figures, each backed by a primary source (official page, paper, or repo) where the model produced a clear artifact. GPT-6 Astra is currently the only model section; Astra entries come from official OpenAI materials (launch page or OpenAI blogs/repos with a clear artifact).
+This list collects AI projects in science that anyone can open and inspect. It has two parts:
 
-Do **not** PR:
+- The science sections (Proteins and DNA, Math and algorithms, and so on): projects with a paper or maker's page and a resource to open, such as a repo, database, web tool, or API.
+- Model showcases: works produced by a single model on its own, taken from the maker's own pages and accompanied by a still. GPT-6 Astra is currently the only model listed there.
 
-- Third-party social demos ("I used model X…")
-- Benchmark score rows without a produced artifact
-- News / commentary rooms
-- Tools a model merely opened rather than a work it produced (e.g. MultiQC is not an Astra-built project)
+## A science entry needs
 
-PRs need, following the convention in the [README](README.md#adding-a-new-models-works):
-
-- **Model section:** the work goes under `## <Model name> (<maker>)`; add that section if the model is new.
-- **Kind-of-work heading:** a `###` heading such as Demos, Figures, 3D scenes, or Games; only add a kind when there is at least one real work for it.
-- **Still:** an image of the artifact at `media/<model-slug>/<work-slug>.<ext>` (lowercase, hyphenated). Astra's existing stills stay at the top of `media/`.
-- **Source:** the primary URL where the model produced the work.
-- **Prompt:** the published prompt or brief, quoted or linked, only if one was published.
-- **Description:** one or two lines on what the model produced, with no metrics or claims beyond the source.
+- A `###` heading: project name, followed by maker and year in brackets.
+- One or two lines describing what the AI did. Include numbers only if the paper or source page states them; copy them directly rather than rounding up.
+- `Paper:` or `Preprint:` with a link you have read.
+- `Code:`, `Open it:`, `Data:`, or `API:` with a link people can use. If there is nothing to open, mention that in the PR.
 - The same entry in both [README.md](README.md) and [README.zh.md](README.zh.md).
+- One row per page you read in [SOURCES_READ.tsv](SOURCES_READ.tsv): URL, entry, date read, and note.
+
+A blank template is available in [templates/ENTRY.md](templates/ENTRY.md).
+
+## A model showcase entry needs
+
+Follow the rules in [templates/CASE.md](templates/CASE.md): the maker's own page showing where the model produced the work, a still in `media/` (new stills go in `media/<model-slug>/<work-slug>.<ext>`; the existing Astra stills sit directly in `media/`), the prompt only if it was published, and one or two lines on what the model made.
+
+## Please do not send
+
+- "I used model X to..." posts from third parties
+- Benchmark scores without an underlying project
+- News articles or commentary
+- Claims not supported by the source

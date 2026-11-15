@@ -4,7 +4,7 @@
 
 Editorial text, taxonomy, and templates in this repository are released under [CC0 1.0](./LICENSE).
 
-Original works for each case — X/Twitter posts, videos, images, source, demos — remain copyright of their authors. This repo is a catalog with links and short summaries. It does not mirror original videos or copy tweet bodies wholesale.
+Papers, code, data, videos and images linked here remain the copyright of their authors. This repo is a list of links with short summaries. It does not copy papers, videos or posts.
 
 Preview stills, when used, are authors' own thumbnails hotlinked for identification only.
 
@@ -14,7 +14,7 @@ Some entries were first widely catalogued in [helloianneo/awesome-gpt6-astra](ht
 
 ## Not affiliated
 
-Not affiliated with OpenAI. GPT-6 Astra, ChatGPT, and Codex are OpenAI trademarks. Inclusion is not a claim of independent reproducibility.
+Not affiliated with OpenAI or any lab or company listed here. GPT-6 Astra, ChatGPT, and Codex are OpenAI trademarks. Listing a project does not mean I reproduced its results.
 
 ## Takedown
 

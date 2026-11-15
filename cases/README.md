@@ -1,9 +1,7 @@
 # Cases
 
-This gallery's public face is the root [README](../README.md): **works AI models actually produced**, grouped by model and then by kind of work.
-
-Per-model source tables:
+The list itself is the root [README](../README.md). This folder only holds source tables for the model showcases.
 
 - [official-builds.md](official-builds.md): GPT-6 Astra (OpenAI)
 
-Older topic files may still exist in git history; do not treat them as the catalog.
+Sources for the science entries are in [SOURCES_READ.tsv](../SOURCES_READ.tsv).
